@@ -14,7 +14,10 @@ I recommend running the `database` rule(s) first to ensure this works ok, then p
 
 ## Initial Database Setup
 To help make initial runs faster, all the data on ViPR as of 23-Jan-20 is included in this respository. 
-To avoid having the whole thing start from scratch (including downloading and aligning ~600 sequences), after cloning this repo, run:
+To avoid having the whole thing start from scratch (including downloading and aligning ~600 sequences), after cloning this repo, rename the `genbank-for-database` folder to `genbank`.
+(Keeping this separate means that others pushing won't affect your own database...)
+
+Then run:
 ```
 snakemake -t make_database_all
 ```

@@ -1,0 +1,41 @@
+orig_strain	virus	subgenogroup	accession	seq-len	date	age	sex	host	genbank-host	country	region	moltype	strain
+BtCoV/AT1A-F1/Hip_aba/GHA/2010	Human coronavirus 229E		KT253272	28688	2010-XX-XX			Bat	Hipposideros abae	Ghana	africa	genomic RNA	BtCoV/AT1A-F1/Hip_aba/GHA/2010__KT253272
+BtCoV/FO1A-F2/Hip_aba/GHA/2010	Human coronavirus 229E		KT253270	28020	2010-XX-XX			Bat	Hipposideros abae	Ghana	africa	genomic RNA	BtCoV/FO1A-F2/Hip_aba/GHA/2010__KT253270
+BtCoV/KW2E-F151/Hip_cf._rub/GHA/2011	Human coronavirus 229E		KT253269	28026	2011-XX-XX			Bat	Hipposideros cf. ruber	Ghana	africa	genomic RNA	BtCoV/KW2E-F151/Hip_cf._rub/GHA/2011__KT253269
+BtCoV/KW2E-F56/Hip_cf._rub/GHA/2011	Human coronavirus 229E		KT253271	28754	2011-XX-XX			Bat	Hipposideros cf. ruber	Ghana	africa	genomic RNA	BtCoV/KW2E-F56/Hip_cf._rub/GHA/2011__KT253271
+BtKY229E-1	Human coronavirus 229E		KY073747	27837	2009-06-20			Bat	Hipposideros sp.	Kenya	africa	genomic RNA	BtKY229E-1__KY073747
+BtKY229E-8	Human coronavirus 229E		KY073748	27636	2010-06-XX			Bat	Hipposideros vittatus	Kenya	africa	genomic RNA	BtKY229E-8__KY073748
+CA08-1/2008	Human coronavirus 229E		JQ410000	27374	2008-XX-XX			Camel	Vicugna pacos	USA	north_america	genomic RNA	CA08-1/2008__JQ410000
+camel/Abu Dhabi/B38	Human coronavirus 229E		MF593473	27389	2015-XX-XX			Camel	camel	United_Arab_Emirates	west_asia	genomic RNA	camel/Abu Dhabi/B38__MF593473
+camel/Riyadh/Ry141/2015	Human coronavirus 229E		NC_028752*	27395	2015-03-XX			Camel	camel	Saudi_Arabia	west_asia	genomic RNA	camel/Riyadh/Ry141/2015__NC_028752*
+Camel229E-CoV/AC04/KSA/2014	Human coronavirus 229E		KT253327	27241	2014-XX-XX			Camel	Camelus dromedarius	Saudi_Arabia	west_asia	genomic RNA	Camel229E-CoV/AC04/KSA/2014__KT253327
+Camel229E-CoV/JC49/KSA/2014	Human coronavirus 229E		KT253325	27193	2014-XX-XX			Camel	Camelus dromedarius	Saudi_Arabia	west_asia	genomic RNA	Camel229E-CoV/JC49/KSA/2014__KT253325
+Camel229E-CoV/JC50/KSA/2014	Human coronavirus 229E		KT253324	27395	2014-XX-XX			Camel	Camelus dromedarius	Saudi_Arabia	west_asia	genomic RNA	Camel229E-CoV/JC50/KSA/2014__KT253324
+Camel229E-CoV/JC50_HUH7/KSA/2014	Human coronavirus 229E		KT253328	27270	2014-XX-XX			Camel	Camelus dromedarius	Saudi_Arabia	west_asia	genomic RNA	Camel229E-CoV/JC50_HUH7/KSA/2014__KT253328
+Camel229E-CoV/JC52/KSA/2014	Human coronavirus 229E		KT253326	27193	2014-XX-XX			Camel	Camelus dromedarius	Saudi_Arabia	west_asia	genomic RNA	Camel229E-CoV/JC52/KSA/2014__KT253326
+Camel229E-CoV/KCSP1/KEN/2015	Human coronavirus 229E		KU291449	27164	2015-XX-XX			Camel	Camelus dromedarius	Kenya	africa	genomic RNA	Camel229E-CoV/KCSP1/KEN/2015__KU291449
+0349	Human coronavirus 229E		JX503060	27263	2010-XX-XX			Human	Homo sapiens	Netherlands	europe	genomic RNA	0349__JX503060
+229E	Human coronavirus 229E		AF304460	27317	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	229E__AF304460
+229E	Human coronavirus 229E		NC_002645*	27317	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	229E__NC_002645*
+229E/Haiti-1/2016	Human coronavirus 229E		MF542265	27271	2016-03-XX			Human	Homo sapiens	Haiti	north_america	genomic RNA	229E/Haiti-1/2016__MF542265
+229E/human/USA/932-72/1993	Human coronavirus 229E		KF514432	27138	1993-02-22	8.0		Human	Homo sapiens; sex: F; age: 8Y	USA	north_america	genomic RNA	229E/human/USA/932-72/1993__KF514432
+229E/human/USA/933-40/1993	Human coronavirus 229E		KF514433	27165	1993-03-11	12.0		Human	Homo sapiens; sex: F; age: 12Y	USA	north_america	genomic RNA	229E/human/USA/933-40/1993__KF514433
+229E/human/USA/933-50/1993	Human coronavirus 229E		KF514430	27169	1993-03-18	4.0		Human	Homo sapiens; sex: M; age: 4Y	USA	north_america	genomic RNA	229E/human/USA/933-50/1993__KF514430
+229E/UF-1/2016	Human coronavirus 229E		KY996417	27270	2016-11-23			NA	NA	USA	north_america	genomic RNA	229E/UF-1/2016__KY996417
+HCoV-229E/BN1/GER/2015	Human coronavirus 229E		KU291448	27022	2015-XX-XX			Human	Homo sapiens	Germany	europe	genomic RNA	HCoV-229E/BN1/GER/2015__KU291448
+J0304	Human coronavirus 229E		JX503061	27208	2009-XX-XX			Human	Homo sapiens	Italy	europe	genomic RNA	J0304__JX503061
+N08-434B	Human coronavirus 229E		KY674919	27136	2016-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	N08-434B__KY674919
+SC0865	Human coronavirus 229E		MN306046	27270	2019-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC0865__MN306046
+SC1073	Human coronavirus 229E		KY369913	27238	2016-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC1073__KY369913
+SC1143	Human coronavirus 229E		KY369910	27182	2016-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC1143__KY369910
+SC1212	Human coronavirus 229E		KY369911	27226	2016-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC1212__KY369911
+SC2282	Human coronavirus 229E		KY684760	27249	2016-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC2282__KY684760
+SC2872	Human coronavirus 229E		KY967357	27242	2015-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC2872__KY967357
+SC3112	Human coronavirus 229E		KY983587	27235	2015-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC3112__KY983587
+SC379	Human coronavirus 229E		KY621348	27144	2016-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC379__KY621348
+SC399	Human coronavirus 229E		KY674914	27055	2016-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC399__KY674914
+SC579	Human coronavirus 229E		KY369908	27193	2016-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC579__KY369908
+SC677	Human coronavirus 229E		KY369909	26592	2016-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC677__KY369909
+SC9724	Human coronavirus 229E		MN369046	27075	2018-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC9724__MN369046
+SC9731	Human coronavirus 229E		KY369912	27208	2016-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC9731__KY369912
+SC9773	Human coronavirus 229E		KY369914	27231	2016-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC9773__KY369914

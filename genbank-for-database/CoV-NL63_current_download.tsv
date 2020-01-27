@@ -1,0 +1,69 @@
+orig_strain	virus	subgenogroup	accession	seq-len	date	age	sex	host	genbank-host	country	region	moltype	strain
+Amsterdam 057	Human coronavirus NL63		DQ445911	27550	20XX-XX-XX			NA	NA	Netherlands	europe	genomic RNA	Amsterdam 057__DQ445911
+Amsterdam 496	Human coronavirus NL63		DQ445912	27535	20XX-XX-XX			NA	NA	Netherlands	europe	genomic RNA	Amsterdam 496__DQ445912
+Amsterdam I	Human coronavirus NL63		AY567487	27553	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	Amsterdam I__AY567487
+Amsterdam I	Human coronavirus NL63		NC_005831*	27553	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	Amsterdam I__NC_005831*
+CBJ 037	Human coronavirus NL63		JX104161	27538	2008-11-04			Human	Homo sapiens	China	china	genomic RNA	CBJ 037__JX104161
+CBJ123	Human coronavirus NL63		JX524171	27538	2009-01-24			Human	Homo sapiens	China	china	genomic RNA	CBJ123__JX524171
+ChinaGD01	Human coronavirus NL63		MK334046	27531	2018-09-01			Human	Homo sapiens	China	china	genomic RNA	ChinaGD01__MK334046
+ChinaGD02	Human coronavirus NL63		MK334043	27516	2018-08-15			Human	Homo sapiens	China	china	genomic RNA	ChinaGD02__MK334043
+ChinaGD03	Human coronavirus NL63		MK334044	27516	2018-07-13			Human	Homo sapiens	China	china	genomic RNA	ChinaGD03__MK334044
+ChinaGD04	Human coronavirus NL63		MK334047	27532	2018-07-25			Human	Homo sapiens	China	china	genomic RNA	ChinaGD04__MK334047
+ChinaGD05	Human coronavirus NL63		MK334045	27544	2018-08-14			Human	Homo sapiens	China	china	genomic RNA	ChinaGD05__MK334045
+CN0601/14	Human coronavirus NL63		MG772808	27535	2014-11-25			Human	Homo sapiens	South_Korea	japan_korea	genomic RNA	CN0601/14__MG772808
+HCoV NL63/Haiti-1/2015	Human coronavirus NL63		KT266906	27553	2015-01-16			Human	Homo sapiens	Haiti	north_america	genomic RNA	HCoV NL63/Haiti-1/2015__KT266906
+Kilifi_HH_0511_01-Jun-2010	Human coronavirus NL63		MG428703	27685	2010-06-01			Human	Homo sapiens	Kenya	africa	genomic RNA	Kilifi_HH_0511_01-Jun-2010__MG428703
+Kilifi_HH_0512_04-Jun-2010	Human coronavirus NL63		MG428701	27623	2010-06-04			Human	Homo sapiens	Kenya	africa	genomic RNA	Kilifi_HH_0512_04-Jun-2010__MG428701
+Kilifi_HH_0522_21-May-2010	Human coronavirus NL63		MG428705	27587	2010-05-21			Human	Homo sapiens	Kenya	africa	genomic RNA	Kilifi_HH_0522_21-May-2010__MG428705
+Kilifi_HH_3807_11-May-2010	Human coronavirus NL63		MG428702	27781	2010-05-11			Human	Homo sapiens	Kenya	africa	genomic RNA	Kilifi_HH_3807_11-May-2010__MG428702
+Kilifi_HH_3808_24-May-2010	Human coronavirus NL63		MG428706	27637	2010-05-24			Human	Homo sapiens	Kenya	africa	genomic RNA	Kilifi_HH_3808_24-May-2010__MG428706
+Kilifi_HH_5402_20-May-2010	Human coronavirus NL63		MG428704	27832	2010-05-20			Human	Homo sapiens	Kenya	africa	genomic RNA	Kilifi_HH_5402_20-May-2010__MG428704
+Kilifi_HH_5709_19-May-2010	Human coronavirus NL63		MG428699	27513	2010-05-19			Human	Homo sapiens	Kenya	africa	genomic RNA	Kilifi_HH_5709_19-May-2010__MG428699
+N06-1144B	Human coronavirus NL63		KY554967	27523	2016-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	N06-1144B__KY554967
+N07-185B	Human coronavirus NL63		KY554968	27523	2016-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	N07-185B__KY554968
+N07-196B	Human coronavirus NL63		KY554969	27509	2016-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	N07-196B__KY554969
+N07-262B	Human coronavirus NL63		KY829118	27513	2015-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	N07-262B__KY829118
+N07-324B_182X	Human coronavirus NL63		KY554970	27540	2016-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	N07-324B_182X__KY554970
+N07-468B_176X	Human coronavirus NL63		KY554971	27550	2016-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	N07-468B_176X__KY554971
+N07-64B	Human coronavirus NL63		KY674916	27492	2016-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	N07-64B__KY674916
+N07-6B	Human coronavirus NL63		KY674915	27302	2016-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	N07-6B__KY674915
+NL63/DEN/2005/1062	Human coronavirus NL63		JQ765573	27487	2005-04-12			Human	Homo sapiens; sex: M	USA	north_america	genomic RNA	NL63/DEN/2005/1062__JQ765573
+NL63/DEN/2005/1120	Human coronavirus NL63		JQ900260	27459	2005-04-25			Human	Homo sapiens; sex: M	USA	north_america	genomic RNA	NL63/DEN/2005/1120__JQ900260
+NL63/DEN/2005/1862	Human coronavirus NL63		JQ765574	27487	2005-11-XX			Human	Homo sapiens; sex: M	USA	north_america	genomic RNA	NL63/DEN/2005/1862__JQ765574
+NL63/DEN/2005/1876	Human coronavirus NL63		JQ765575	27487	2005-11-21			Human	Homo sapiens; sex: F	USA	north_america	genomic RNA	NL63/DEN/2005/1876__JQ765575
+NL63/DEN/2005/193	Human coronavirus NL63		JQ765568	27487	2005-01-11			Human	Homo sapiens; sex: M	USA	north_america	genomic RNA	NL63/DEN/2005/193__JQ765568
+NL63/DEN/2005/232	Human coronavirus NL63		JQ765569	27469	2005-01-18			Human	Homo sapiens; sex: M	USA	north_america	genomic RNA	NL63/DEN/2005/232__JQ765569
+NL63/DEN/2005/235	Human coronavirus NL63		JQ765570	27469	2005-01-19			Human	Homo sapiens; sex: M	USA	north_america	genomic RNA	NL63/DEN/2005/235__JQ765570
+NL63/DEN/2005/271	Human coronavirus NL63		JQ765571	27487	2005-01-23			Human	Homo sapiens; sex: F	USA	north_america	genomic RNA	NL63/DEN/2005/271__JQ765571
+NL63/DEN/2005/291	Human coronavirus NL63		JQ900258	27383	2005-01-26			Human	Homo sapiens; sex: M	USA	north_america	genomic RNA	NL63/DEN/2005/291__JQ900258
+NL63/DEN/2005/347	Human coronavirus NL63		JQ765572	27487	2005-02-01			Human	Homo sapiens; sex: M	USA	north_america	genomic RNA	NL63/DEN/2005/347__JQ765572
+NL63/DEN/2005/449	Human coronavirus NL63		JQ900259	27502	2005-02-09			Human	Homo sapiens; sex: F	USA	north_america	genomic RNA	NL63/DEN/2005/449__JQ900259
+NL63/DEN/2008/16	Human coronavirus NL63		JQ765566	27487	2008-01-08			Human	Homo sapiens; sex: F	USA	north_america	genomic RNA	NL63/DEN/2008/16__JQ765566
+NL63/DEN/2009/14	Human coronavirus NL63		JQ765564	27469	2009-03-01			Human	Homo sapiens; sex: M	USA	north_america	genomic RNA	NL63/DEN/2009/14__JQ765564
+NL63/DEN/2009/15	Human coronavirus NL63		JQ765565	27469	2009-02-13			Human	Homo sapiens; sex: M	USA	north_america	genomic RNA	NL63/DEN/2009/15__JQ765565
+NL63/DEN/2009/20	Human coronavirus NL63		JQ765567	27487	2009-03-12			Human	Homo sapiens; sex: F	USA	north_america	genomic RNA	NL63/DEN/2009/20__JQ765567
+NL63/DEN/2009/22	Human coronavirus NL63		JQ900256	27455	2009-03-03			Human	Homo sapiens; sex: M	USA	north_america	genomic RNA	NL63/DEN/2009/22__JQ900256
+NL63/DEN/2009/31	Human coronavirus NL63		JQ900257	27456	2009-02-21			Human	Homo sapiens; sex: M	USA	north_america	genomic RNA	NL63/DEN/2009/31__JQ900257
+NL63/DEN/2009/6	Human coronavirus NL63		JQ900255	27485	2009-02-25			Human	Homo sapiens; sex: M	USA	north_america	genomic RNA	NL63/DEN/2009/6__JQ900255
+NL63/DEN/2009/9	Human coronavirus NL63		JQ765563	27469	2009-03-16			Human	Homo sapiens; sex: M	USA	north_america	genomic RNA	NL63/DEN/2009/9__JQ765563
+NL63/human/USA/0111-25/2001	Human coronavirus NL63		KF530112	27395	2001-11-21	8.0		Human	Homo sapiens; sex: M; age: 8Y	USA	north_america	genomic RNA	NL63/human/USA/0111-25/2001__KF530112
+NL63/human/USA/012-31/2001	Human coronavirus NL63		KF530105	27413	2001-02-23	13.0		Human	Homo sapiens; sex: F; age: 13Y	USA	north_america	genomic RNA	NL63/human/USA/012-31/2001__KF530105
+NL63/human/USA/838-9/1983	Human coronavirus NL63		KF530110	27413	1983-08-16	6.0		Human	Homo sapiens; sex: F; age: 6Y	USA	north_america	genomic RNA	NL63/human/USA/838-9/1983__KF530110
+NL63/human/USA/8712-17/1987	Human coronavirus NL63		KF530106	27401	1987-12-16	35.0		Human	Homo sapiens; sex: M; age: 35Y	USA	north_america	genomic RNA	NL63/human/USA/8712-17/1987__KF530106
+NL63/human/USA/891-4/1989	Human coronavirus NL63		KF530114	27410	1989-01-03	15.0		Human	Homo sapiens; sex: F; age: 15Y	USA	north_america	genomic RNA	NL63/human/USA/891-4/1989__KF530114
+NL63/human/USA/891-6/1989	Human coronavirus NL63		KF530108	27410	1989-01-05	6.0		Human	Homo sapiens; sex: F; age: 6Y	USA	north_america	genomic RNA	NL63/human/USA/891-6/1989__KF530108
+NL63/human/USA/901-24/1990	Human coronavirus NL63		KF530111	27410	1990-01-05	9.0		Human	Homo sapiens; sex: M; age: 9Y	USA	north_america	genomic RNA	NL63/human/USA/901-24/1990__KF530111
+NL63/human/USA/903-28/1990	Human coronavirus NL63		KF530109	27410	1990-03-21	5.0		Human	Homo sapiens; sex: M; age: 5Y	USA	north_america	genomic RNA	NL63/human/USA/903-28/1990__KF530109
+NL63/human/USA/904-20/1990	Human coronavirus NL63		KF530104	27410	1990-04-26	5.0		Human	Homo sapiens; sex: M; age: 5Y	USA	north_america	genomic RNA	NL63/human/USA/904-20/1990__KF530104
+NL63/human/USA/905-25/1990	Human coronavirus NL63		KF530113	27410	1990-05-29	19.0		Human	Homo sapiens; sex: F; age: 19Y	USA	north_america	genomic RNA	NL63/human/USA/905-25/1990__KF530113
+NL63/human/USA/911-56/1991	Human coronavirus NL63		KF530107	27410	1991-01-24	9.0		Human	Homo sapiens; sex: F; age: 9Y	USA	north_america	genomic RNA	NL63/human/USA/911-56/1991__KF530107
+NL63/RPTEC/2004	Human coronavirus NL63		JX504050	27553	2004-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	NL63/RPTEC/2004__JX504050
+NL63/UF-1/2015	Human coronavirus NL63		KT381875	27553	2015-XX-XX			Human	Homo sapiens	USA	north_america	viral cRNA	NL63/UF-1/2015__KT381875
+NL63/UF-2/2015	Human coronavirus NL63		KU521535	27553	2015-09-01			Human	Homo sapiens	USA	north_america	viral cRNA	NL63/UF-2/2015__KU521535
+NL63/UF-2/2015	Human coronavirus NL63		KX179500	27553	2015-09-XX			Human	Homo sapiens	USA	north_america	viral cRNA	NL63/UF-2/2015__KX179500
+SC0179	Human coronavirus NL63		MN306018	27484	2018-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC0179__MN306018
+SC0768	Human coronavirus NL63		MN306040	27537	2019-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC0768__MN306040
+SC2940	Human coronavirus NL63		KY983586	27489	2015-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC2940__KY983586
+UNKNOWN-CS124012	Human coronavirus NL63		CS124012	27553	20XX-XX-XX			NA	NA	NA	NA	unassigned DNA	UNKNOWN-CS124012__CS124012
+UNKNOWN-DJ009246	Human coronavirus NL63		DJ009246	27553	20XX-XX-XX			NA	NA	NA	NA	unassigned DNA	UNKNOWN-DJ009246__DJ009246
+UNKNOWN-AY518894	Human coronavirus NL63		AY518894	27555	20XX-XX-XX			NA	NA	Netherlands	europe	genomic RNA	UNKNOWN-AY518894__AY518894

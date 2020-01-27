@@ -1,0 +1,341 @@
+orig_strain	virus	subgenogroup	accession	seq-len	date	age	sex	host	genbank-host	country	region	moltype	strain
+Cp/Yunnan2011	-N/A-		JX993988	29452	2011-XX-XX			Bat	Chaerephon plicata	China	china	genomic RNA	Cp/Yunnan2011__JX993988
+Rp/Shaanxi2011	-N/A-		JX993987	29484	2011-09-XX			Bat	Rhinolophus pusillus	China	china	genomic RNA	Rp/Shaanxi2011__JX993987
+BtRf-HeB2013	-N/A-		KJ473812	29443	2013-XX-XX			Bat	Rhinolophus ferrumequinum	China	china	genomic RNA	BtRf-HeB2013__KJ473812
+BtRf-JL2012	-N/A-		KJ473811	29037	2012-XX-XX			Bat	Rhinolophus ferrumequinum	China	china	genomic RNA	BtRf-JL2012__KJ473811
+BtRf-SX2013	-N/A-		KJ473813	29461	2013-XX-XX			Bat	Rhinolophus ferrumequinum	China	china	genomic RNA	BtRf-SX2013__KJ473813
+BtRs-GX2013	-N/A-		KJ473815	29161	2013-XX-XX			Bat	Rhinolophus sinicus	China	china	genomic RNA	BtRs-GX2013__KJ473815
+BtRs-HuB2013	-N/A-		KJ473814	29658	2013-XX-XX			Bat	Rhinolophus sinicus	China	china	genomic RNA	BtRs-HuB2013__KJ473814
+BtRs-YN2013	-N/A-		KJ473816	29142	2013-XX-XX			Bat	Rhinolophus sinicus	China	china	genomic RNA	BtRs-YN2013__KJ473816
+F46	-N/A-		KU973692	29722	2012-XX-XX			Bat	bat	China	china	genomic RNA	F46__KU973692
+HKU3-1	Severe acute respiratory syndrome-related coronavirus		DQ022305	29728	20XX-XX-XX			Bat	NA	China	china	genomic RNA	HKU3-1__DQ022305
+HKU3-10	Severe acute respiratory syndrome-related coronavirus		GQ153545	29695	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	HKU3-10__GQ153545
+HKU3-11	Severe acute respiratory syndrome-related coronavirus		GQ153546	29695	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	HKU3-11__GQ153546
+HKU3-12	Severe acute respiratory syndrome-related coronavirus		GQ153547	29704	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	HKU3-12__GQ153547
+HKU3-13	Severe acute respiratory syndrome-related coronavirus		GQ153548	29677	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	HKU3-13__GQ153548
+HKU3-2	Severe acute respiratory syndrome-related coronavirus		DQ084199	29687	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	HKU3-2__DQ084199
+HKU3-3	Severe acute respiratory syndrome-related coronavirus		DQ084200	29711	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	HKU3-3__DQ084200
+HKU3-4	Severe acute respiratory syndrome-related coronavirus		GQ153539	29704	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	HKU3-4__GQ153539
+HKU3-5	Severe acute respiratory syndrome-related coronavirus		GQ153540	29704	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	HKU3-5__GQ153540
+HKU3-6	Severe acute respiratory syndrome-related coronavirus		GQ153541	29704	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	HKU3-6__GQ153541
+HKU3-7	Severe acute respiratory syndrome-related coronavirus		GQ153542	29716	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	HKU3-7__GQ153542
+HKU3-8	Severe acute respiratory syndrome-related coronavirus		GQ153543	29681	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	HKU3-8__GQ153543
+HKU3-9	Severe acute respiratory syndrome-related coronavirus		GQ153544	29695	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	HKU3-9__GQ153544
+BtCoV/273/2005	Severe acute respiratory syndrome-related coronavirus		DQ648856	29704	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	BtCoV/273/2005__DQ648856
+Rf1	Severe acute respiratory syndrome-related coronavirus		DQ412042	29709	20XX-XX-XX			Bat	Rhinolophus ferrumequinum	NA	NA	genomic RNA	Rf1__DQ412042
+BtCoV/279/2005	Severe acute respiratory syndrome-related coronavirus		DQ648857	29741	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	BtCoV/279/2005__DQ648857
+Rm1	Severe acute respiratory syndrome-related coronavirus		DQ412043	29749	20XX-XX-XX			Bat	Rhinolophus macrotis	NA	NA	genomic RNA	Rm1__DQ412043
+Rp3	Severe acute respiratory syndrome-related coronavirus		DQ071615	29736	20XX-XX-XX			Bat	bat	China	china	genomic RNA	Rp3__DQ071615
+civet007	Severe acute respiratory syndrome-related coronavirus		AY572034	29540	2004-XX-XX			Civet	civet	China	china	genomic RNA	civet007__AY572034
+SZ16	Severe acute respiratory syndrome-related coronavirus		AY304488	29731	2003-XX-XX			Civet	NA	Hong_Kong	china	genomic RNA	SZ16__AY304488
+SZ3	Severe acute respiratory syndrome-related coronavirus		AY304486	29741	2003-XX-XX			Civet	NA	Hong_Kong	china	genomic RNA	SZ3__AY304486
+CFB/SZ/94/03	Severe acute respiratory syndrome-related coronavirus		AY545919	29739	2003-XX-XX			Badger	NA	China	china	genomic RNA	CFB/SZ/94/03__AY545919
+CV7	Severe acute respiratory syndrome-related coronavirus		DQ898174	29751	20XX-XX-XX			NA	NA	Canada	north_america	genomic RNA	CV7__DQ898174
+HC/GZ/32/03	Severe acute respiratory syndrome-related coronavirus		AY545918	29737	2003-XX-XX			Civet	NA	China	china	genomic RNA	HC/GZ/32/03__AY545918
+HC/GZ/81/03	Severe acute respiratory syndrome-related coronavirus		AY545917	29739	2003-XX-XX			Civet	NA	China	china	genomic RNA	HC/GZ/81/03__AY545917
+HC/SZ/266/03	Severe acute respiratory syndrome-related coronavirus		AY545916	29721	2003-XX-XX			Civet	NA	China	china	genomic RNA	HC/SZ/266/03__AY545916
+HC/SZ/79/03	Severe acute respiratory syndrome-related coronavirus		AY545914	29723	2003-XX-XX			Civet	NA	China	china	genomic RNA	HC/SZ/79/03__AY545914
+HC/SZ/DM1/03	Severe acute respiratory syndrome-related coronavirus		AY545915	29714	2003-XX-XX			Civet	NA	China	china	genomic RNA	HC/SZ/DM1/03__AY545915
+MA-15	Severe acute respiratory syndrome-related coronavirus		DQ497008	29727	20XX-XX-XX			Mouse	NA	NA	NA	genomic RNA	MA-15__DQ497008
+Modified Microbial Nucleic Acid	Severe acute respiratory syndrome-related coronavirus		FV537210	29751	20XX-XX-XX			NA	NA	NA	NA	unassigned DNA	Modified Microbial Nucleic Acid__FV537210
+Modified Microbial Nucleic Acid	Severe acute respiratory syndrome-related coronavirus		FV537211	29751	20XX-XX-XX			NA	NA	NA	NA	unassigned DNA	Modified Microbial Nucleic Acid__FV537211
+Modified Microbial Nucleic Acid	Severe acute respiratory syndrome-related coronavirus		FV537212	29751	20XX-XX-XX			NA	NA	NA	NA	unassigned DNA	Modified Microbial Nucleic Acid__FV537212
+Sequence 1 from Patent WO2004096842	Severe acute respiratory syndrome-related coronavirus		CQ918584	29736	20XX-XX-XX			NA	NA	NA	NA	unassigned DNA	Sequence 1 from Patent WO2004096842__CQ918584
+Sequence 1 from Patent WO2006039656	Severe acute respiratory syndrome-related coronavirus		CS569493	29751	20XX-XX-XX			NA	NA	NA	NA	unassigned DNA	Sequence 1 from Patent WO2006039656__CS569493
+Sequence 11 from Patent EP1736539	Severe acute respiratory syndrome-related coronavirus		CS460762	37971	20XX-XX-XX			NA	NA	NA	NA	unassigned DNA	Sequence 11 from Patent EP1736539__CS460762
+Sequence 11 from Patent WO2006136448	Severe acute respiratory syndrome-related coronavirus		CS480537	37971	20XX-XX-XX			NA	NA	NA	NA	unassigned DNA	Sequence 11 from Patent WO2006136448__CS480537
+Sequence 14 from Patent WO2005035556	Severe acute respiratory syndrome-related coronavirus		CS079026	29751	20XX-XX-XX			NA	NA	NA	NA	unassigned DNA	Sequence 14 from Patent WO2005035556__CS079026
+Sequence 15 from Patent WO2004096842	Severe acute respiratory syndrome-related coronavirus		CQ918598	29751	20XX-XX-XX			NA	NA	NA	NA	unassigned DNA	Sequence 15 from Patent WO2004096842__CQ918598
+Sequence 2 from Patent WO2004096842	Severe acute respiratory syndrome-related coronavirus		CQ918585	29736	20XX-XX-XX			NA	NA	NA	NA	unassigned DNA	Sequence 2 from Patent WO2004096842__CQ918585
+Sequence 41 from Patent EP2139515	Severe acute respiratory syndrome-related coronavirus		HI553383	29751	20XX-XX-XX			NA	NA	NA	NA	unassigned DNA	Sequence 41 from Patent EP2139515__HI553383
+Sequence 67 from Patent WO2004011647	Severe acute respiratory syndrome-related coronavirus		CS254197	29751	20XX-XX-XX			NA	NA	NA	NA	unassigned DNA	Sequence 67 from Patent WO2004011647__CS254197
+UNKNOWN-DJ045279	Severe acute respiratory syndrome-related coronavirus		DJ045279	29751	20XX-XX-XX			NA	NA	NA	NA	unassigned DNA	UNKNOWN-DJ045279__DJ045279
+A022	Severe acute respiratory syndrome-related coronavirus		AY686863	29499	2004-XX-XX			Civet	NA	NA	NA	genomic RNA	A022__AY686863
+AS	Severe acute respiratory syndrome-related coronavirus		AY427439	29711	2003-XX-XX			Human	NA	NA	NA	genomic RNA	AS__AY427439
+B039	Severe acute respiratory syndrome-related coronavirus		AY686864	29525	2004-XX-XX			Civet	palm civet	NA	NA	genomic RNA	B039__AY686864
+BJ01	Severe acute respiratory syndrome-related coronavirus		AY278488	29725	2003-XX-XX			Human	NA	NA	NA	genomic RNA	BJ01__AY278488
+BJ02	Severe acute respiratory syndrome-related coronavirus		AY278487	29745	2003-XX-XX			Human	NA	NA	NA	genomic RNA	BJ02__AY278487
+BJ03	Severe acute respiratory syndrome-related coronavirus		AY278490	29740	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	BJ03__AY278490
+BJ04	Severe acute respiratory syndrome-related coronavirus		AY279354	29732	2003-XX-XX			Human	NA	NA	NA	genomic RNA	BJ04__AY279354
+BJ162	Severe acute respiratory syndrome-related coronavirus		AY864805	29751	20XX-XX-XX			NA	NA	China	china	genomic RNA	BJ162__AY864805
+BJ182-12	Severe acute respiratory syndrome-related coronavirus		EU371564	29512	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	BJ182-12__EU371564
+BJ182-4	Severe acute respiratory syndrome-related coronavirus		EU371562	29602	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	BJ182-4__EU371562
+BJ182-8	Severe acute respiratory syndrome-related coronavirus		EU371563	29602	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	BJ182-8__EU371563
+BJ182a	Severe acute respiratory syndrome-related coronavirus		EU371560	29731	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	BJ182a__EU371560
+BJ182b	Severe acute respiratory syndrome-related coronavirus		EU371561	29602	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	BJ182b__EU371561
+BJ202	Severe acute respiratory syndrome-related coronavirus		AY864806	29751	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	BJ202__AY864806
+CDC#200301157	Severe acute respiratory syndrome-related coronavirus		AY714217	29727	2003-XX-XX			Human	NA	USA	north_america	genomic RNA	CDC#200301157__AY714217
+civet010	Severe acute respiratory syndrome-related coronavirus		AY572035	29518	2004-XX-XX			Civet	civet	China	china	genomic RNA	civet010__AY572035
+civet020	Severe acute respiratory syndrome-related coronavirus		AY572038	29683	2004-XX-XX			Civet	civet	China	china	genomic RNA	civet020__AY572038
+CUHK-AG01	Severe acute respiratory syndrome-related coronavirus		AY345986	29736	2003-XX-XX			Human	NA	NA	NA	genomic RNA	CUHK-AG01__AY345986
+CUHK-AG02	Severe acute respiratory syndrome-related coronavirus		AY345987	29736	2003-XX-XX			Human	NA	NA	NA	genomic RNA	CUHK-AG02__AY345987
+CUHK-AG03	Severe acute respiratory syndrome-related coronavirus		AY345988	29736	2003-XX-XX			Human	NA	NA	NA	genomic RNA	CUHK-AG03__AY345988
+CUHK-Su10	Severe acute respiratory syndrome-related coronavirus		AY282752	29736	2003-XX-XX			Human	NA	NA	NA	genomic RNA	CUHK-Su10__AY282752
+CUHK-W1	Severe acute respiratory syndrome-related coronavirus		AY278554	29736	2003-XX-XX			Human	NA	China	china	genomic RNA	CUHK-W1__AY278554
+FRA	Severe acute respiratory syndrome-related coronavirus		AY310120	29740	2003-XX-XX			Human	NA	NA	NA	genomic RNA	FRA__AY310120
+Frankfurt 1	Severe acute respiratory syndrome-related coronavirus		AB257344	29632	2003-XX-XX			NA	NA	NA	NA	genomic RNA	Frankfurt 1__AB257344
+Frankfurt 1	Severe acute respiratory syndrome-related coronavirus		AY291315	29727	2003-XX-XX			Human	NA	NA	NA	genomic RNA	Frankfurt 1__AY291315
+GD01	Severe acute respiratory syndrome-related coronavirus		AY278489	29757	2003-XX-XX			Human	NA	NA	NA	genomic RNA	GD01__AY278489
+GD69	Severe acute respiratory syndrome-related coronavirus		AY313906	29754	2003-XX-XX			Human	NA	China	china	genomic RNA	GD69__AY313906
+GDH-BJH01	Severe acute respiratory syndrome-related coronavirus		DQ640652	29746	20XX-XX-XX			Human	Homo sapiens	China	china	genomic RNA	GDH-BJH01__DQ640652
+GZ-B	Severe acute respiratory syndrome-related coronavirus		AY394978	29640	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	GZ-B__AY394978
+GZ-C	Severe acute respiratory syndrome-related coronavirus		AY394979	29645	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	GZ-C__AY394979
+GZ02	Severe acute respiratory syndrome-related coronavirus		AY390556	29760	2003-XX-XX			Human	NA	China	china	genomic RNA	GZ02__AY390556
+GZ0401	Severe acute respiratory syndrome-related coronavirus		AY568539	29730	2004-XX-XX			Human	NA	China	china	genomic RNA	GZ0401__AY568539
+GZ0402	Severe acute respiratory syndrome-related coronavirus		AY613947	29730	2004-XX-XX			Human	NA	China	china	genomic RNA	GZ0402__AY613947
+GZ50	Severe acute respiratory syndrome-related coronavirus		AY304495	29720	2003-XX-XX			Human	NA	Hong_Kong	china	genomic RNA	GZ50__AY304495
+HC/SZ/61/03	Severe acute respiratory syndrome-related coronavirus		AY515512	29731	20XX-XX-XX			Civet	Paguma larvata (Himalayan palm civets)	China	china	genomic RNA	HC/SZ/61/03__AY515512
+HGZ8L2	Severe acute respiratory syndrome-related coronavirus		AY394993	29736	2003-XX-XX			Human	NA	NA	NA	genomic RNA	HGZ8L2__AY394993
+HKU-39849	Severe acute respiratory syndrome-related coronavirus		AY278491	29742	2003-XX-XX			Human	NA	NA	NA	genomic RNA	HKU-39849__AY278491
+HSR 1	Severe acute respiratory syndrome-related coronavirus		AY323977	29751	20XX-XX-XX			Human	NA	Italy	europe	genomic RNA	HSR 1__AY323977
+HSZ-Bb	Severe acute respiratory syndrome-related coronavirus		AY394985	29530	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	HSZ-Bb__AY394985
+HSZ-Bc	Severe acute respiratory syndrome-related coronavirus		AY394994	29765	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	HSZ-Bc__AY394994
+HSZ-Cb	Severe acute respiratory syndrome-related coronavirus		AY394986	29729	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	HSZ-Cb__AY394986
+HSZ-Cc	Severe acute respiratory syndrome-related coronavirus		AY394995	29765	2003-XX-XX			Human	NA	NA	NA	genomic RNA	HSZ-Cc__AY394995
+HSZ2-A	Severe acute respiratory syndrome-related coronavirus		AY394983	29699	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	HSZ2-A__AY394983
+HZS2-C	Severe acute respiratory syndrome-related coronavirus		AY394992	29736	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	HZS2-C__AY394992
+HZS2-D	Severe acute respiratory syndrome-related coronavirus		AY394989	29736	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	HZS2-D__AY394989
+HZS2-E	Severe acute respiratory syndrome-related coronavirus		AY394990	29736	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	HZS2-E__AY394990
+HZS2-Fb	Severe acute respiratory syndrome-related coronavirus		AY394987	29709	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	HZS2-Fb__AY394987
+HZS2-Fc	Severe acute respiratory syndrome-related coronavirus		AY394991	29736	2003-XX-XX			Human	NA	NA	NA	genomic RNA	HZS2-Fc__AY394991
+LC1	Severe acute respiratory syndrome-related coronavirus		AY394998	29736	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	LC1__AY394998
+LC2	Severe acute respiratory syndrome-related coronavirus		AY394999	29350	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	LC2__AY394999
+LC3	Severe acute respiratory syndrome-related coronavirus		AY395000	29350	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	LC3__AY395000
+LC4	Severe acute respiratory syndrome-related coronavirus		AY395001	29350	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	LC4__AY395001
+LC5	Severe acute respiratory syndrome-related coronavirus		AY395002	29350	2003-XX-XX			Human	NA	NA	NA	genomic RNA	LC5__AY395002
+LLJ-2004	Severe acute respiratory syndrome-related coronavirus		AY595412	29716	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	LLJ-2004__AY595412
+NS-1	Severe acute respiratory syndrome-related coronavirus		AY508724	29732	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	NS-1__AY508724
+P2	Severe acute respiratory syndrome-related coronavirus		FJ882963	29682	2004-08-10			Human	Homo sapiens	USA	north_america	genomic RNA	P2__FJ882963
+PC4-13	Severe acute respiratory syndrome-related coronavirus		AY613948	29730	2004-XX-XX			Civet	palm civet	China	china	genomic RNA	PC4-13__AY613948
+PC4-136	Severe acute respiratory syndrome-related coronavirus		AY613949	29730	2004-XX-XX			Civet	palm civet	China	china	genomic RNA	PC4-136__AY613949
+PC4-227	Severe acute respiratory syndrome-related coronavirus		AY613950	29728	2004-XX-XX			Civet	palm civet	China	china	genomic RNA	PC4-227__AY613950
+PUMC01	Severe acute respiratory syndrome-related coronavirus		AY350750	29738	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	PUMC01__AY350750
+PUMC02	Severe acute respiratory syndrome-related coronavirus		AY357075	29738	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	PUMC02__AY357075
+PUMC03	Severe acute respiratory syndrome-related coronavirus		AY357076	29745	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	PUMC03__AY357076
+ShanghaiQXC1	Severe acute respiratory syndrome-related coronavirus		AY463059	29592	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	ShanghaiQXC1__AY463059
+ShanghaiQXC2	Severe acute respiratory syndrome-related coronavirus		AY463060	29013	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	ShanghaiQXC2__AY463060
+SIN2500	Severe acute respiratory syndrome-related coronavirus		AY283794	29711	20XX-XX-XX			NA	NA	Singapore	southeast_asia	genomic RNA	SIN2500__AY283794
+SIN2677	Severe acute respiratory syndrome-related coronavirus		AY283795	29705	20XX-XX-XX			NA	NA	Singapore	southeast_asia	genomic RNA	SIN2677__AY283795
+SIN2679	Severe acute respiratory syndrome-related coronavirus		AY283796	29711	20XX-XX-XX			NA	NA	Singapore	southeast_asia	genomic RNA	SIN2679__AY283796
+SIN2748	Severe acute respiratory syndrome-related coronavirus		AY283797	29706	20XX-XX-XX			NA	NA	Singapore	southeast_asia	genomic RNA	SIN2748__AY283797
+SIN2774	Severe acute respiratory syndrome-related coronavirus		AY283798	29711	20XX-XX-XX			NA	NA	Singapore	southeast_asia	genomic RNA	SIN2774__AY283798
+Sin3408	Severe acute respiratory syndrome-related coronavirus		AY559083	29767	20XX-XX-XX			NA	NA	Singapore	southeast_asia	genomic RNA	Sin3408__AY559083
+Sin3408L	Severe acute respiratory syndrome-related coronavirus		AY559097	29715	20XX-XX-XX			NA	NA	Singapore	southeast_asia	genomic RNA	Sin3408L__AY559097
+Sin3725V	Severe acute respiratory syndrome-related coronavirus		AY559087	29716	20XX-XX-XX			NA	NA	Singapore	southeast_asia	genomic RNA	Sin3725V__AY559087
+Sin3765V	Severe acute respiratory syndrome-related coronavirus		AY559084	29722	20XX-XX-XX			NA	NA	Singapore	southeast_asia	genomic RNA	Sin3765V__AY559084
+Sin842	Severe acute respiratory syndrome-related coronavirus		AY559081	29716	2003-XX-XX			Human	NA	Singapore	southeast_asia	genomic RNA	Sin842__AY559081
+Sin845	Severe acute respiratory syndrome-related coronavirus		AY559093	29712	20XX-XX-XX			NA	NA	Singapore	southeast_asia	genomic RNA	Sin845__AY559093
+Sin846	Severe acute respiratory syndrome-related coronavirus		AY559094	29577	2003-XX-XX			Human	NA	Singapore	southeast_asia	genomic RNA	Sin846__AY559094
+Sin847	Severe acute respiratory syndrome-related coronavirus		AY559095	29719	20XX-XX-XX			NA	NA	Singapore	southeast_asia	genomic RNA	Sin847__AY559095
+Sin848	Severe acute respiratory syndrome-related coronavirus		AY559085	29713	2003-XX-XX			Human	NA	Singapore	southeast_asia	genomic RNA	Sin848__AY559085
+Sin849	Severe acute respiratory syndrome-related coronavirus		AY559086	29661	2003-XX-XX			Human	NA	Singapore	southeast_asia	genomic RNA	Sin849__AY559086
+Sin850	Severe acute respiratory syndrome-related coronavirus		AY559096	29720	2003-XX-XX			Human	NA	Singapore	southeast_asia	genomic RNA	Sin850__AY559096
+Sin852	Severe acute respiratory syndrome-related coronavirus		AY559082	29670	2003-XX-XX			Human	NA	Singapore	southeast_asia	genomic RNA	Sin852__AY559082
+Sino1-11	Severe acute respiratory syndrome-related coronavirus		AY485277	29741	20XX-XX-XX			Human	NA	NA	NA	genomic RNA	Sino1-11__AY485277
+Sino3-11	Severe acute respiratory syndrome-related coronavirus		AY485278	29740	20XX-XX-XX			Human	NA	NA	NA	genomic RNA	Sino3-11__AY485278
+SinP1	Severe acute respiratory syndrome-related coronavirus		AY559088	29714	20XX-XX-XX			NA	NA	Singapore	southeast_asia	genomic RNA	SinP1__AY559088
+SinP2	Severe acute respiratory syndrome-related coronavirus		AY559089	29717	20XX-XX-XX			NA	NA	Singapore	southeast_asia	genomic RNA	SinP2__AY559089
+SinP3	Severe acute respiratory syndrome-related coronavirus		AY559090	29725	20XX-XX-XX			NA	NA	Singapore	southeast_asia	genomic RNA	SinP3__AY559090
+SinP4	Severe acute respiratory syndrome-related coronavirus		AY559091	29710	20XX-XX-XX			NA	NA	Singapore	southeast_asia	genomic RNA	SinP4__AY559091
+SinP5	Severe acute respiratory syndrome-related coronavirus		AY559092	29713	20XX-XX-XX			NA	NA	Singapore	southeast_asia	genomic RNA	SinP5__AY559092
+SoD	Severe acute respiratory syndrome-related coronavirus		AY461660	29715	20XX-XX-XX			Human	NA	Russia	west_asia	genomic RNA	SoD__AY461660
+TJF	Severe acute respiratory syndrome-related coronavirus		AY654624	29745	20XX-XX-XX			Swine	NA	NA	NA	genomic RNA	TJF__AY654624
+TW1	Severe acute respiratory syndrome-related coronavirus		AY291451	29729	2003-XX-XX			Human	NA	Taiwan	china	genomic RNA	TW1__AY291451
+TW10	Severe acute respiratory syndrome-related coronavirus		AY502923	29729	2003-XX-XX			Human	NA	Taiwan	china	genomic RNA	TW10__AY502923
+TW11	Severe acute respiratory syndrome-related coronavirus		AY502924	29727	2003-XX-XX			Human	NA	Taiwan	china	genomic RNA	TW11__AY502924
+TW2	Severe acute respiratory syndrome-related coronavirus		AY502925	29729	2003-XX-XX			Human	NA	Taiwan	china	genomic RNA	TW2__AY502925
+TW3	Severe acute respiratory syndrome-related coronavirus		AY502926	29729	2003-XX-XX			Human	NA	Taiwan	china	genomic RNA	TW3__AY502926
+TW4	Severe acute respiratory syndrome-related coronavirus		AY502927	29729	2003-XX-XX			Human	NA	Taiwan	china	genomic RNA	TW4__AY502927
+TW5	Severe acute respiratory syndrome-related coronavirus		AY502928	29729	2003-XX-XX			Human	NA	Taiwan	china	genomic RNA	TW5__AY502928
+TW6	Severe acute respiratory syndrome-related coronavirus		AY502929	29729	2003-XX-XX			Human	NA	Taiwan	china	genomic RNA	TW6__AY502929
+TW7	Severe acute respiratory syndrome-related coronavirus		AY502930	29729	2003-XX-XX			Human	NA	Taiwan	china	genomic RNA	TW7__AY502930
+TW8	Severe acute respiratory syndrome-related coronavirus		AY502931	29729	2003-XX-XX			Human	NA	Taiwan	china	genomic RNA	TW8__AY502931
+TW9	Severe acute respiratory syndrome-related coronavirus		AY502932	29729	2003-XX-XX			Human	NA	Taiwan	china	genomic RNA	TW9__AY502932
+TWC	Severe acute respiratory syndrome-related coronavirus		AY321118	29725	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	TWC__AY321118
+TWC2	Severe acute respiratory syndrome-related coronavirus		AY362698	29727	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	TWC2__AY362698
+TWC3	Severe acute respiratory syndrome-related coronavirus		AY362699	29727	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	TWC3__AY362699
+TWH	Severe acute respiratory syndrome-related coronavirus		AP006557	29727	20XX-XX-XX			Human	NA	NA	NA	genomic RNA	TWH__AP006557
+TWJ	Severe acute respiratory syndrome-related coronavirus		AP006558	29725	20XX-XX-XX			Human	NA	NA	NA	genomic RNA	TWJ__AP006558
+TWK	Severe acute respiratory syndrome-related coronavirus		AP006559	29727	20XX-XX-XX			Human	NA	NA	NA	genomic RNA	TWK__AP006559
+TWS	Severe acute respiratory syndrome-related coronavirus		AP006560	29727	20XX-XX-XX			Human	NA	NA	NA	genomic RNA	TWS__AP006560
+TWY	Severe acute respiratory syndrome-related coronavirus		AP006561	29727	20XX-XX-XX			Human	NA	NA	NA	genomic RNA	TWY__AP006561
+WH20	Severe acute respiratory syndrome-related coronavirus		AY772062	29461	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	WH20__AY772062
+WHU	Severe acute respiratory syndrome-related coronavirus		AY394850	29728	2003-XX-XX			Human	NA	NA	NA	genomic RNA	WHU__AY394850
+ZJ01	Severe acute respiratory syndrome-related coronavirus		AY297028	29715	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	ZJ01__AY297028
+ZJ02	Severe acute respiratory syndrome-related coronavirus		EU371559	29731	2003-XX-XX			NA	NA	NA	NA	genomic RNA	ZJ02__EU371559
+ZJ0301	Severe acute respiratory syndrome-related coronavirus		DQ182595	29706	2003-04-21			Human	NA	China	china	genomic RNA	ZJ0301__DQ182595
+ZMY 1	Severe acute respiratory syndrome-related coronavirus		AY351680	29749	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	ZMY 1__AY351680
+ZS-A	Severe acute respiratory syndrome-related coronavirus		AY394997	29683	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	ZS-A__AY394997
+ZS-B	Severe acute respiratory syndrome-related coronavirus		AY394996	29683	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	ZS-B__AY394996
+ZS-C	Severe acute respiratory syndrome-related coronavirus		AY395003	29647	2003-XX-XX			Human	NA	NA	NA	genomic RNA	ZS-C__AY395003
+As6526	Severe acute respiratory syndrome-related coronavirus		KY417142	29725	2014-05-12			Bat	Aselliscus stoliczkanus	China	china	genomic RNA	As6526__KY417142
+bat-SL-CoVZC45	Severe acute respiratory syndrome-related coronavirus		MG772933	29802	2017-02-XX			Bat	Rhinolophus sinicus	China	china	genomic RNA	bat-SL-CoVZC45__MG772933
+bat-SL-CoVZXC21	Severe acute respiratory syndrome-related coronavirus		MG772934	29732	2015-07-XX			Bat	Rhinolophus sinicus	China	china	genomic RNA	bat-SL-CoVZXC21__MG772934
+Rf4092	Severe acute respiratory syndrome-related coronavirus		KY417145	29710	2012-09-18			Bat	Rhinilophus ferrumequinum	China	china	genomic RNA	Rf4092__KY417145
+Rs4081	Severe acute respiratory syndrome-related coronavirus		KY417143	29741	2012-09-18			Bat	Rhinolophus sinicus	China	china	genomic RNA	Rs4081__KY417143
+Rs4084	Severe acute respiratory syndrome-related coronavirus		KY417144	29770	2012-09-18			Bat	Rhinolophus sinicus	China	china	genomic RNA	Rs4084__KY417144
+Rs4231	Severe acute respiratory syndrome-related coronavirus		KY417146	29782	2013-04-17			Bat	Rhinolophus sinicus	China	china	genomic RNA	Rs4231__KY417146
+Rs4237	Severe acute respiratory syndrome-related coronavirus		KY417147	29741	2013-04-17			Bat	Rhinolophus sinicus	China	china	genomic RNA	Rs4237__KY417147
+Rs4247	Severe acute respiratory syndrome-related coronavirus		KY417148	29743	2013-04-17			Bat	Rhinolophus sinicus	China	china	genomic RNA	Rs4247__KY417148
+Rs4255	Severe acute respiratory syndrome-related coronavirus		KY417149	29743	2013-04-17			Bat	Rhinolophus sinicus	China	china	genomic RNA	Rs4255__KY417149
+Rs4874	Severe acute respiratory syndrome-related coronavirus		KY417150	30311	2013-07-21			Bat	Rhinolophus sinicus	China	china	genomic RNA	Rs4874__KY417150
+Rs7327	Severe acute respiratory syndrome-related coronavirus		KY417151	30307	2014-10-24			Bat	Rhinolophus sinicus	China	china	genomic RNA	Rs7327__KY417151
+Rs9401	Severe acute respiratory syndrome-related coronavirus		KY417152	29769	2015-10-16			Bat	Rhinolophus sinicus	China	china	genomic RNA	Rs9401__KY417152
+Rs3367	Severe acute respiratory syndrome-related coronavirus		KC881006	29792	2012-03-19			Bat	Rhinolophus sinicus	China	china	genomic RNA	Rs3367__KC881006
+RsSHC014	Severe acute respiratory syndrome-related coronavirus		KC881005	29787	2011-04-17			Bat	Rhinolophus sinicus	China	china	genomic RNA	RsSHC014__KC881005
+WIV1	Severe acute respiratory syndrome-related coronavirus		KF367457	30309	2012-09-XX			Bat	Rhinolophus sinicus	China	china	genomic RNA	WIV1__KF367457
+YNLF_31C	Severe acute respiratory syndrome-related coronavirus		KP886808	29723	2013-05-23			Bat	Rhinolophus Ferrumequinum	China	china	genomic RNA	YNLF_31C__KP886808
+YNLF_34C	Severe acute respiratory syndrome-related coronavirus		KP886809	29723	2013-05-23			Bat	Rhinolophus Ferrumequinum	China	china	genomic RNA	YNLF_34C__KP886809
+LYRa11	Severe acute respiratory syndrome-related coronavirus		KF569996	29805	2011-XX-XX			Bat	Rhinolophus affinis	China	china	genomic RNA	LYRa11__KF569996
+A001	Severe acute respiratory syndrome-related coronavirus		FJ959407	29694	20XX-XX-XX			Civet	palm civet	China	china	genomic RNA	A001__FJ959407
+Tor2	Severe acute respiratory syndrome-related coronavirus		NC_004718*	29751	20XX-XX-XX			NA	NA	Canada	north_america	genomic RNA	Tor2__NC_004718*
+Tor2/FP1-10851	Severe acute respiratory syndrome-related coronavirus		JX163924	29646	2010-02-05			NA	NA	USA	north_america	genomic RNA	Tor2/FP1-10851__JX163924
+Tor2/FP1-10851	Severe acute respiratory syndrome-related coronavirus		JX163927	29646	2010-02-05			NA	NA	USA	north_america	genomic RNA	Tor2/FP1-10851__JX163927
+Tor2/FP1-10895	Severe acute respiratory syndrome-related coronavirus		JX163925	29646	2010-02-05			NA	NA	USA	north_america	genomic RNA	Tor2/FP1-10895__JX163925
+Tor2/FP1-10895	Severe acute respiratory syndrome-related coronavirus		JX163928	29646	2010-02-05			NA	NA	USA	north_america	genomic RNA	Tor2/FP1-10895__JX163928
+Tor2/FP1-10912	Severe acute respiratory syndrome-related coronavirus		JX163923	29646	2010-02-10			NA	NA	USA	north_america	genomic RNA	Tor2/FP1-10912__JX163923
+Tor2/FP1-10912	Severe acute respiratory syndrome-related coronavirus		JX163926	29646	2010-02-10			NA	NA	USA	north_america	genomic RNA	Tor2/FP1-10912__JX163926
+UNKNOWN-CS079027	Severe acute respiratory syndrome-related coronavirus		CS079027	29727	20XX-XX-XX			NA	NA	NA	NA	unassigned DNA	UNKNOWN-CS079027__CS079027
+UNKNOWN-CS079028	Severe acute respiratory syndrome-related coronavirus		CS079028	29742	20XX-XX-XX			NA	NA	NA	NA	unassigned DNA	UNKNOWN-CS079028__CS079028
+UNKNOWN-CS079029	Severe acute respiratory syndrome-related coronavirus		CS079029	29736	20XX-XX-XX			NA	NA	NA	NA	unassigned DNA	UNKNOWN-CS079029__CS079029
+UNKNOWN-DJ059765	Severe acute respiratory syndrome-related coronavirus		DJ059765	29746	20XX-XX-XX			NA	NA	NA	NA	unassigned DNA	UNKNOWN-DJ059765__DJ059765
+UNKNOWN-DL008527	Severe acute respiratory syndrome-related coronavirus		DL008527	29746	20XX-XX-XX			NA	NA	NA	NA	unassigned DNA	UNKNOWN-DL008527__DL008527
+UNKNOWN-DL476508	Severe acute respiratory syndrome-related coronavirus		DL476508	29751	20XX-XX-XX			NA	NA	NA	NA	unassigned DNA	UNKNOWN-DL476508__DL476508
+UNKNOWN-FV537213	Severe acute respiratory syndrome-related coronavirus		FV537213	29751	20XX-XX-XX			NA	NA	NA	NA	unassigned DNA	UNKNOWN-FV537213__FV537213
+UNKNOWN-HW269828	Severe acute respiratory syndrome-related coronavirus		HW269828	29751	20XX-XX-XX			NA	NA	NA	NA	unassigned DNA	UNKNOWN-HW269828__HW269828
+UNKNOWN-HW375992	Severe acute respiratory syndrome-related coronavirus		HW375992	29751	20XX-XX-XX			NA	NA	NA	NA	unassigned DNA	UNKNOWN-HW375992__HW375992
+ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		FJ882926	29675	2007-09-22			NA	NA	USA	north_america	genomic RNA	ExoN1 mutant__FJ882926
+ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		FJ882928	29687	2007-08-28			NA	NA	USA	north_america	genomic RNA	ExoN1 mutant__FJ882928
+ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		FJ882929	29665	2008-03-28			NA	NA	USA	north_america	genomic RNA	ExoN1 mutant__FJ882929
+ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		FJ882930	29687	2007-09-22			NA	NA	USA	north_america	genomic RNA	ExoN1 mutant__FJ882930
+ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		FJ882931	29646	2008-03-28			NA	NA	USA	north_america	genomic RNA	ExoN1 mutant__FJ882931
+ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		FJ882940	29646	2008-08-06			NA	NA	USA	north_america	genomic RNA	ExoN1 mutant__FJ882940
+ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		FJ882941	29665	2008-03-28			NA	NA	USA	north_america	genomic RNA	ExoN1 mutant__FJ882941
+ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		FJ882944	29628	2008-03-28			NA	NA	USA	north_america	genomic RNA	ExoN1 mutant__FJ882944
+ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		FJ882950	29646	2008-08-06			NA	NA	USA	north_america	genomic RNA	ExoN1 mutant__FJ882950
+ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		FJ882954	29636	2008-08-06			NA	NA	USA	north_america	genomic RNA	ExoN1 mutant__FJ882954
+ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		FJ882955	29646	2008-03-28			NA	NA	USA	north_america	genomic RNA	ExoN1 mutant__FJ882955
+ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		FJ882956	29644	2008-08-06			NA	NA	USA	north_america	genomic RNA	ExoN1 mutant__FJ882956
+ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		FJ882960	29646	2008-08-06			NA	NA	USA	north_america	genomic RNA	ExoN1 mutant__FJ882960
+ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		JF292922	29647	2009-03-18			NA	NA	USA	north_america	genomic RNA	ExoN1 mutant__JF292922
+ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		JX162087	29688	2009-01-01			NA	NA	USA	north_america	genomic RNA	ExoN1 mutant__JX162087
+SARS/VeroE6_lab/USA/ExoN1_c13P1/2009	Severe acute respiratory syndrome-related coronavirus		KF514406	29687	2009-03-18			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/ExoN1_c13P1/2009__KF514406
+SARS/VeroE6_lab/USA/ExoN1_c13P10/2009	Severe acute respiratory syndrome-related coronavirus		KF514411	29687	2009-05-19			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/ExoN1_c13P10/2009__KF514411
+SARS/VeroE6_lab/USA/ExoN1_c13P20/2009	Severe acute respiratory syndrome-related coronavirus		KF514412	29687	2009-07-08			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/ExoN1_c13P20/2009__KF514412
+SARS/VeroE6_lab/USA/ExoN1_c5.10P20/2010	Severe acute respiratory syndrome-related coronavirus		KF514393	29687	2010-10-01			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/ExoN1_c5.10P20/2010__KF514393
+SARS/VeroE6_lab/USA/ExoN1_c5.1P20/2010	Severe acute respiratory syndrome-related coronavirus		KF514403	29687	2010-10-01			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/ExoN1_c5.1P20/2010__KF514403
+SARS/VeroE6_lab/USA/ExoN1_c5.2P20/2010	Severe acute respiratory syndrome-related coronavirus		KF514405	29687	2010-10-01			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/ExoN1_c5.2P20/2010__KF514405
+SARS/VeroE6_lab/USA/ExoN1_c5.3P20/2010	Severe acute respiratory syndrome-related coronavirus		KF514417	29687	2010-10-01			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/ExoN1_c5.3P20/2010__KF514417
+SARS/VeroE6_lab/USA/ExoN1_c5.4P20/2010	Severe acute respiratory syndrome-related coronavirus		KF514390	29687	2010-10-01			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/ExoN1_c5.4P20/2010__KF514390
+SARS/VeroE6_lab/USA/ExoN1_c5.5P20/2010	Severe acute respiratory syndrome-related coronavirus		KF514401	29687	2010-10-01			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/ExoN1_c5.5P20/2010__KF514401
+SARS/VeroE6_lab/USA/ExoN1_c5.6P20/2010	Severe acute respiratory syndrome-related coronavirus		KF514402	29687	2010-10-01			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/ExoN1_c5.6P20/2010__KF514402
+SARS/VeroE6_lab/USA/ExoN1_c5.7P20/2010	Severe acute respiratory syndrome-related coronavirus		KF514407	29689	2010-10-01			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/ExoN1_c5.7P20/2010__KF514407
+SARS/VeroE6_lab/USA/ExoN1_c5.8P20/2010	Severe acute respiratory syndrome-related coronavirus		KF514416	29687	2010-10-01			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/ExoN1_c5.8P20/2010__KF514416
+SARS/VeroE6_lab/USA/ExoN1_c5.9P20/2010	Severe acute respiratory syndrome-related coronavirus		KF514391	29687	2010-10-01			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/ExoN1_c5.9P20/2010__KF514391
+SARS/VeroE6_lab/USA/ExoN1_c5P10/2009	Severe acute respiratory syndrome-related coronavirus		KF514420	29687	2009-05-19			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/ExoN1_c5P10/2009__KF514420
+SARS/VeroE6_lab/USA/ExoN1_c5P20/2009	Severe acute respiratory syndrome-related coronavirus		KF514414	29687	2009-07-08			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/ExoN1_c5P20/2009__KF514414
+SARS/VeroE6_lab/USA/ExoN1_c8P1/2009	Severe acute respiratory syndrome-related coronavirus		KF514395	29687	2009-03-18			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/ExoN1_c8P1/2009__KF514395
+SARS/VeroE6_lab/USA/ExoN1_c8P10/2009	Severe acute respiratory syndrome-related coronavirus		KF514389	29687	2009-05-19			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/ExoN1_c8P10/2009__KF514389
+SARS/VeroE6_lab/USA/ExoN1_c8P20/2009	Severe acute respiratory syndrome-related coronavirus		KF514410	29687	2009-07-08			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/ExoN1_c8P20/2009__KF514410
+HKU-39849	Severe acute respiratory syndrome-related coronavirus		GU553363	29644	2003-06-07			Human	Homo sapiens	China	china	genomic RNA	HKU-39849__GU553363
+HKU-39849	Severe acute respiratory syndrome-related coronavirus		GU553364	29644	2003-06-07			Human	Homo sapiens	China	china	genomic RNA	HKU-39849__GU553364
+HKU-39849	Severe acute respiratory syndrome-related coronavirus		GU553365	29644	2007-12-05			Monkey	Chlorocebus aethiops	USA	north_america	genomic RNA	HKU-39849__GU553365
+HKU-39849	Severe acute respiratory syndrome-related coronavirus		JQ316196	29727	2003-04-16			NA	NA	United_Kingdom	europe	genomic RNA	HKU-39849__JQ316196
+recSARS-CoV HKU-39849	Severe acute respiratory syndrome-related coronavirus		JN854286	29727	2003-04-16			NA	NA	United_Kingdom	europe	genomic RNA	recSARS-CoV HKU-39849__JN854286
+MA15	Severe acute respiratory syndrome-related coronavirus		FJ882945	29720	2008-11-25			NA	NA	USA	north_america	genomic RNA	MA15__FJ882945
+MA15	Severe acute respiratory syndrome-related coronavirus		FJ882948	29720	2008-11-25			NA	NA	USA	north_america	genomic RNA	MA15__FJ882948
+MA15	Severe acute respiratory syndrome-related coronavirus		FJ882952	29720	2008-11-25			NA	NA	USA	north_america	genomic RNA	MA15__FJ882952
+MA15	Severe acute respiratory syndrome-related coronavirus		FJ882957	29720	2008-11-25			NA	NA	USA	north_america	genomic RNA	MA15__FJ882957
+MA15	Severe acute respiratory syndrome-related coronavirus		FJ882958	29720	2008-11-25			NA	NA	USA	north_america	genomic RNA	MA15__FJ882958
+MA15	Severe acute respiratory syndrome-related coronavirus		FJ882961	29720	2008-11-25			NA	NA	USA	north_america	genomic RNA	MA15__FJ882961
+MA15	Severe acute respiratory syndrome-related coronavirus		HQ890541	29646	2008-10-08			Mouse	Mus musculus; young	USA	north_america	genomic RNA	MA15__HQ890541
+MA15	Severe acute respiratory syndrome-related coronavirus		HQ890542	29646	2008-09-17			Mouse	Mus musculus; old	USA	north_america	genomic RNA	MA15__HQ890542
+MA15	Severe acute respiratory syndrome-related coronavirus		HQ890543	29646	2008-09-17			Mouse	Mus musculus; old	USA	north_america	genomic RNA	MA15__HQ890543
+MA15	Severe acute respiratory syndrome-related coronavirus		HQ890544	29646	2008-09-17			Mouse	Mus musculus; old	USA	north_america	genomic RNA	MA15__HQ890544
+MA15	Severe acute respiratory syndrome-related coronavirus		HQ890545	29646	2008-09-17			Mouse	Mus musculus; old	USA	north_america	genomic RNA	MA15__HQ890545
+MA15	Severe acute respiratory syndrome-related coronavirus		HQ890546	29646	2008-09-17			Mouse	Mus musculus; old	USA	north_america	genomic RNA	MA15__HQ890546
+MA15	Severe acute respiratory syndrome-related coronavirus		JF292907	29646	2008-08-10			Mouse	Mus musculus; young	USA	north_america	genomic RNA	MA15__JF292907
+MA15	Severe acute respiratory syndrome-related coronavirus		JF292908	29646	2008-08-10			Mouse	Mus musculus; young	USA	north_america	genomic RNA	MA15__JF292908
+MA15	Severe acute respiratory syndrome-related coronavirus		JF292909	29646	2008-08-10			Mouse	Mus musculus; young	USA	north_america	genomic RNA	MA15__JF292909
+MA15	Severe acute respiratory syndrome-related coronavirus		JF292910	29646	2008-08-10			Mouse	Mus musculus; young	USA	north_america	genomic RNA	MA15__JF292910
+MA15	Severe acute respiratory syndrome-related coronavirus		JF292911	29646	2008-10-10			Mouse	Mus musculus; young	USA	north_america	genomic RNA	MA15__JF292911
+MA15	Severe acute respiratory syndrome-related coronavirus		JF292912	29646	2008-10-10			Mouse	Mus musculus; young	USA	north_america	genomic RNA	MA15__JF292912
+MA15	Severe acute respiratory syndrome-related coronavirus		JF292913	29646	2008-10-10			Mouse	Mus musculus; young	USA	north_america	genomic RNA	MA15__JF292913
+MA15	Severe acute respiratory syndrome-related coronavirus		JF292914	29646	2008-10-10			Mouse	Mus musculus; young	USA	north_america	genomic RNA	MA15__JF292914
+MA15	Severe acute respiratory syndrome-related coronavirus		JF292915	29646	2008-10-10			Mouse	Mus musculus; young	USA	north_america	genomic RNA	MA15__JF292915
+MA15	Severe acute respiratory syndrome-related coronavirus		JF292916	29646	2008-09-19			Mouse	Mus musculus; old	USA	north_america	genomic RNA	MA15__JF292916
+MA15	Severe acute respiratory syndrome-related coronavirus		JF292917	29646	2008-09-19			Mouse	Mus musculus; old	USA	north_america	genomic RNA	MA15__JF292917
+MA15	Severe acute respiratory syndrome-related coronavirus		JF292918	29646	2008-09-19			Mouse	Mus musculus; old	USA	north_america	genomic RNA	MA15__JF292918
+MA15	Severe acute respiratory syndrome-related coronavirus		JF292919	29646	2008-09-19			Mouse	Mus musculus; old	USA	north_america	genomic RNA	MA15__JF292919
+MA15	Severe acute respiratory syndrome-related coronavirus		JF292920	29646	2008-09-19			Mouse	Mus musculus; old	USA	north_america	genomic RNA	MA15__JF292920
+MA15 ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		FJ882942	29721	2008-11-26			NA	NA	USA	north_america	genomic RNA	MA15 ExoN1 mutant__FJ882942
+MA15 ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		FJ882943	29720	2008-11-21			NA	NA	USA	north_america	genomic RNA	MA15 ExoN1 mutant__FJ882943
+MA15 ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		FJ882951	29721	2008-11-26			NA	NA	USA	north_america	genomic RNA	MA15 ExoN1 mutant__FJ882951
+MA15 ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		FJ882953	29648	2008-11-26			NA	NA	USA	north_america	genomic RNA	MA15 ExoN1 mutant__FJ882953
+MA15 ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		FJ882959	29721	2008-11-26			NA	NA	USA	north_america	genomic RNA	MA15 ExoN1 mutant__FJ882959
+MA15 ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		FJ882962	29721	2008-12-18			NA	NA	USA	north_america	genomic RNA	MA15 ExoN1 mutant__FJ882962
+MA15 ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		HQ890526	29646	2008-10-08			Mouse	Mus musculus; young	USA	north_america	genomic RNA	MA15 ExoN1 mutant__HQ890526
+MA15 ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		HQ890527	29646	2008-10-08			Mouse	Mus musculus; young	USA	north_america	genomic RNA	MA15 ExoN1 mutant__HQ890527
+MA15 ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		HQ890528	29646	2008-10-08			Mouse	Mus musculus; young	USA	north_america	genomic RNA	MA15 ExoN1 mutant__HQ890528
+MA15 ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		HQ890529	29646	2008-10-08			Mouse	Mus musculus; young	USA	north_america	genomic RNA	MA15 ExoN1 mutant__HQ890529
+MA15 ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		HQ890530	29646	2008-10-08			Mouse	Mus musculus; young	USA	north_america	genomic RNA	MA15 ExoN1 mutant__HQ890530
+MA15 ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		HQ890531	29645	2008-10-10			Mouse	Mus musculus; young	USA	north_america	genomic RNA	MA15 ExoN1 mutant__HQ890531
+MA15 ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		HQ890532	29645	2008-10-10			Mouse	Mus musculus; young	USA	north_america	genomic RNA	MA15 ExoN1 mutant__HQ890532
+MA15 ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		HQ890533	29646	2008-10-10			Mouse	Mus musculus; young	USA	north_america	genomic RNA	MA15 ExoN1 mutant__HQ890533
+MA15 ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		HQ890534	29646	2008-09-17			Mouse	Mus musculus; old	USA	north_america	genomic RNA	MA15 ExoN1 mutant__HQ890534
+MA15 ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		HQ890535	29646	2008-09-17			Mouse	Mus musculus; old	USA	north_america	genomic RNA	MA15 ExoN1 mutant__HQ890535
+MA15 ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		HQ890536	29646	2008-09-17			Mouse	Mus musculus; old	USA	north_america	genomic RNA	MA15 ExoN1 mutant__HQ890536
+MA15 ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		HQ890537	29646	2008-09-17			Mouse	Mus musculus; old	USA	north_america	genomic RNA	MA15 ExoN1 mutant__HQ890537
+MA15 ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		HQ890538	29646	2008-09-17			Mouse	Mus musculus; old	USA	north_america	genomic RNA	MA15 ExoN1 mutant__HQ890538
+MA15 ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		HQ890539	29646	2008-09-18			Mouse	Mus musculus; old	USA	north_america	genomic RNA	MA15 ExoN1 mutant__HQ890539
+MA15 ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		HQ890540	29646	2008-09-18			Mouse	Mus musculus; old	USA	north_america	genomic RNA	MA15 ExoN1 mutant__HQ890540
+MA15 ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		JF292902	29646	2008-10-10			Mouse	Mus musculus; young	USA	north_america	genomic RNA	MA15 ExoN1 mutant__JF292902
+MA15 ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		JF292903	29645	2008-10-10			Mouse	Mus musculus; young	USA	north_america	genomic RNA	MA15 ExoN1 mutant__JF292903
+MA15 ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		JF292904	29645	2008-09-18			Mouse	Mus musculus; old	USA	north_america	genomic RNA	MA15 ExoN1 mutant__JF292904
+MA15 ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		JF292905	29646	2008-09-18			Mouse	Mus musculus; old	USA	north_america	genomic RNA	MA15 ExoN1 mutant__JF292905
+MA15 ExoN1 mutant	Severe acute respiratory syndrome-related coronavirus		JF292906	29646	2008-09-18			Mouse	Mus musculus; old	USA	north_america	genomic RNA	MA15 ExoN1 mutant__JF292906
+Rs672	Severe acute respiratory syndrome-related coronavirus		FJ588686	29059	2006-XX-XX			Bat	Rhinolophus sinicus	China	china	genomic RNA	Rs672__FJ588686
+TC1	Severe acute respiratory syndrome-related coronavirus		AY338174	29573	20XX-XX-XX			NA	NA	Taiwan	china	genomic RNA	TC1__AY338174
+TC2	Severe acute respiratory syndrome-related coronavirus		AY338175	29573	20XX-XX-XX			NA	NA	Taiwan	china	genomic RNA	TC2__AY338175
+TC3	Severe acute respiratory syndrome-related coronavirus		AY348314	29573	20XX-XX-XX			NA	NA	Taiwan	china	genomic RNA	TC3__AY348314
+UNKNOWN-DJ066921	Severe acute respiratory syndrome-related coronavirus		DJ066921	29727	20XX-XX-XX			NA	NA	NA	NA	unassigned DNA	UNKNOWN-DJ066921__DJ066921
+Urbani	Severe acute respiratory syndrome-related coronavirus		AY278741	29727	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	Urbani__AY278741
+Urbani	Severe acute respiratory syndrome-related coronavirus		MK062179	29727	2017-05-27			Human	Homo sapiens	USA	north_america	genomic RNA	Urbani__MK062179
+Urbani	Severe acute respiratory syndrome-related coronavirus		MK062180	29727	2017-05-28			Human	Homo sapiens	USA	north_america	genomic RNA	Urbani__MK062180
+Urbani	Severe acute respiratory syndrome-related coronavirus		MK062181	29727	2017-05-29			Human	Homo sapiens	USA	north_america	genomic RNA	Urbani__MK062181
+Urbani	Severe acute respiratory syndrome-related coronavirus		MK062182	29727	2017-05-30			Human	Homo sapiens	USA	north_america	genomic RNA	Urbani__MK062182
+Urbani	Severe acute respiratory syndrome-related coronavirus		MK062183	29874	2017-05-31			Human	Homo sapiens	USA	north_america	genomic RNA	Urbani__MK062183
+Urbani	Severe acute respiratory syndrome-related coronavirus		MK062184	29874	2017-06-01			Human	Homo sapiens	USA	north_america	genomic RNA	Urbani__MK062184
+SARS/VeroE6_lab/USA/WTic_c1.10P20/2010	Severe acute respiratory syndrome-related coronavirus		KF514398	29687	2010-10-01			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/WTic_c1.10P20/2010__KF514398
+SARS/VeroE6_lab/USA/WTic_c1.1P20/2010	Severe acute respiratory syndrome-related coronavirus		KF514399	29687	2010-10-01			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/WTic_c1.1P20/2010__KF514399
+SARS/VeroE6_lab/USA/WTic_c1.2P20/2010	Severe acute respiratory syndrome-related coronavirus		KF514421	29687	2010-10-01			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/WTic_c1.2P20/2010__KF514421
+SARS/VeroE6_lab/USA/WTic_c1.3P20/2010	Severe acute respiratory syndrome-related coronavirus		KF514422	29687	2010-10-01			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/WTic_c1.3P20/2010__KF514422
+SARS/VeroE6_lab/USA/WTic_c1.4P20/2010	Severe acute respiratory syndrome-related coronavirus		KF514392	29687	2010-10-01			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/WTic_c1.4P20/2010__KF514392
+SARS/VeroE6_lab/USA/WTic_c1.5P20/2010	Severe acute respiratory syndrome-related coronavirus		KF514388	29687	2010-10-01			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/WTic_c1.5P20/2010__KF514388
+SARS/VeroE6_lab/USA/WTic_c1.6P20/2010	Severe acute respiratory syndrome-related coronavirus		KF514413	29687	2010-10-01			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/WTic_c1.6P20/2010__KF514413
+SARS/VeroE6_lab/USA/WTic_c1.7P20/2010	Severe acute respiratory syndrome-related coronavirus		KF514415	29687	2010-10-01			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/WTic_c1.7P20/2010__KF514415
+SARS/VeroE6_lab/USA/WTic_c1.8P20/2010	Severe acute respiratory syndrome-related coronavirus		KF514400	29687	2010-10-01			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/WTic_c1.8P20/2010__KF514400
+SARS/VeroE6_lab/USA/WTic_c1.9P20/2010	Severe acute respiratory syndrome-related coronavirus		KF514404	29687	2010-10-01			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/WTic_c1.9P20/2010__KF514404
+SARS/VeroE6_lab/USA/WTic_c1P10/2009	Severe acute respiratory syndrome-related coronavirus		KF514419	29687	2009-05-19			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/WTic_c1P10/2009__KF514419
+SARS/VeroE6_lab/USA/WTic_c1P20/2009	Severe acute respiratory syndrome-related coronavirus		KF514394	29687	2009-07-08			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/WTic_c1P20/2009__KF514394
+SARS/VeroE6_lab/USA/WTic_c2P1/2009	Severe acute respiratory syndrome-related coronavirus		KF514408	29687	2009-03-18			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/WTic_c2P1/2009__KF514408
+SARS/VeroE6_lab/USA/WTic_c2P10/2009	Severe acute respiratory syndrome-related coronavirus		KF514397	29687	2009-05-19			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/WTic_c2P10/2009__KF514397
+SARS/VeroE6_lab/USA/WTic_c2P20/2009	Severe acute respiratory syndrome-related coronavirus		KF514409	29687	2009-07-08			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/WTic_c2P20/2009__KF514409
+SARS/VeroE6_lab/USA/WTic_c3P1/2009	Severe acute respiratory syndrome-related coronavirus		KF514418	29687	2009-03-18			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/WTic_c3P1/2009__KF514418
+SARS/VeroE6_lab/USA/WTic_c3P10/2009	Severe acute respiratory syndrome-related coronavirus		KF514396	29687	2009-05-19			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/WTic_c3P10/2009__KF514396
+SARS/VeroE6_lab/USA/WTic_c3P20/2009	Severe acute respiratory syndrome-related coronavirus		KF514423	29687	2009-07-08			NA	NA	USA	north_america	genomic RNA	SARS/VeroE6_lab/USA/WTic_c3P20/2009__KF514423
+WTic	Severe acute respiratory syndrome-related coronavirus		JF292921	29646	2009-03-18			NA	NA	USA	north_america	genomic RNA	WTic__JF292921
+wtic-MB	Severe acute respiratory syndrome-related coronavirus		FJ882927	29687	2007-09-26			NA	NA	USA	north_america	genomic RNA	wtic-MB__FJ882927
+wtic-MB	Severe acute respiratory syndrome-related coronavirus		FJ882932	29646	2008-03-28			NA	NA	USA	north_america	genomic RNA	wtic-MB__FJ882932
+wtic-MB	Severe acute respiratory syndrome-related coronavirus		FJ882933	29648	2008-03-28			NA	NA	USA	north_america	genomic RNA	wtic-MB__FJ882933
+wtic-MB	Severe acute respiratory syndrome-related coronavirus		FJ882934	29647	2008-03-28			NA	NA	USA	north_america	genomic RNA	wtic-MB__FJ882934
+wtic-MB	Severe acute respiratory syndrome-related coronavirus		FJ882935	29647	2008-03-28			NA	NA	USA	north_america	genomic RNA	wtic-MB__FJ882935
+wtic-MB	Severe acute respiratory syndrome-related coronavirus		FJ882936	29646	2008-03-28			NA	NA	USA	north_america	genomic RNA	wtic-MB__FJ882936
+wtic-MB	Severe acute respiratory syndrome-related coronavirus		FJ882937	29648	2008-03-28			NA	NA	USA	north_america	genomic RNA	wtic-MB__FJ882937
+wtic-MB	Severe acute respiratory syndrome-related coronavirus		FJ882938	29687	2007-09-22			NA	NA	USA	north_america	genomic RNA	wtic-MB__FJ882938
+wtic-MB	Severe acute respiratory syndrome-related coronavirus		FJ882939	29646	2008-03-28			NA	NA	USA	north_america	genomic RNA	wtic-MB__FJ882939
+wtic-MB	Severe acute respiratory syndrome-related coronavirus		FJ882946	29647	2008-03-28			NA	NA	USA	north_america	genomic RNA	wtic-MB__FJ882946
+wtic-MB	Severe acute respiratory syndrome-related coronavirus		FJ882947	29616	2008-03-28			NA	NA	USA	north_america	genomic RNA	wtic-MB__FJ882947
+wtic-MB	Severe acute respiratory syndrome-related coronavirus		FJ882949	29647	2008-03-28			NA	NA	USA	north_america	genomic RNA	wtic-MB__FJ882949
+BtKY72	Severe acute respiratory syndrome-related coronavirus		KY352407	29274	2007-08-XX			Bat	Rhinolophus sp. (bat)	Kenya	africa	genomic RNA	BtKY72__KY352407
+Tor2	Severe acute respiratory syndrome-related coronavirus		AY274119	29751	20XX-XX-XX			Human	Homo sapiens; patient #2 with severe acute respiratory syndrome (SARS)	Canada	north_america	genomic RNA	Tor2__AY274119

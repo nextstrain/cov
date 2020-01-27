@@ -1,0 +1,246 @@
+orig_strain	virus	subgenogroup	accession	seq-len	date	age	sex	host	genbank-host	country	region	moltype	strain
+Buffalo coronavirus B1-24F	Betacoronavirus 1		KU558922	31039	2014-10-01			Buffalo	Bubalus bubalis	Bangladesh	south_asia	genomic RNA	Buffalo coronavirus B1-24F__KU558922
+Buffalo coronavirus B1-28F	Betacoronavirus 1		KU558923	30985	2014-10-01			Buffalo	Bubalus bubalis	Bangladesh	south_asia	genomic RNA	Buffalo coronavirus B1-28F__KU558923
+4-17-03	Betacoronavirus 1		MH043952	31019	2017-04-XX			Cattle	Bos taurus	USA	north_america	genomic RNA	4-17-03__MH043952
+4-17-08	Betacoronavirus 1		MH043954	31016	2017-04-XX			Cattle	Bos taurus	USA	north_america	genomic RNA	4-17-08__MH043954
+4-17-25	Betacoronavirus 1		MH043953	31032	2017-04-XX			Cattle	Bos taurus	USA	north_america	genomic RNA	4-17-25__MH043953
+7-16-23	Betacoronavirus 1		MH043955	31032	2016-07-XX			Cattle	Bos taurus	USA	north_america	genomic RNA	7-16-23__MH043955
+BCoV-ENT	Betacoronavirus 1		NC_003045*	31028	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	BCoV-ENT__NC_003045*
+BCoV_2014_13	Betacoronavirus 1		KX982264	30847	2014-03-04			Cattle	Bos taurus	France	europe	genomic RNA	BCoV_2014_13__KX982264
+BCV-AKS-01	Betacoronavirus 1		KU886219	30975	2015-05-30			Cattle	Bos taurus; breed: Holstein	China	china	genomic RNA	BCV-AKS-01__KU886219
+ICSA-pool-EN	Betacoronavirus 1		MG757141	31019	2014-XX-XX			Cattle	cattle	France	europe	genomic RNA	ICSA-pool-EN__MG757141
+ICSA-pool-LBA	Betacoronavirus 1		MG757142	30939	2014-XX-XX			Cattle	cattle	France	europe	genomic RNA	ICSA-pool-LBA__MG757142
+ICSA16-EN	Betacoronavirus 1		MG757139	31028	2014-XX-XX			Cattle	cattle	France	europe	genomic RNA	ICSA16-EN__MG757139
+ICSA16-LBA	Betacoronavirus 1		MG757140	31024	2014-XX-XX			Cattle	cattle	France	europe	genomic RNA	ICSA16-LBA__MG757140
+ICSA21-LBA	Betacoronavirus 1		MG757138	31026	2014-XX-XX			Cattle	cattle	France	europe	genomic RNA	ICSA21-LBA__MG757138
+UNKNOWN-LQ289146	Betacoronavirus 1		LQ289146	31022	20XX-XX-XX			NA	NA	NA	NA	unassigned DNA	UNKNOWN-LQ289146__LQ289146
+DB2	Betacoronavirus 1		DQ811784	31007	1983-XX-XX			Cattle	bovine	NA	NA	genomic RNA	DB2__DQ811784
+E-AH187	Betacoronavirus 1		EF424619	30995	20XX-XX-XX			Cattle	bovine	USA	north_america	genomic RNA	E-AH187__EF424619
+E-AH187-TC	Betacoronavirus 1		FJ938064	30995	2000-01-01			Cattle	bovine	USA	north_america	genomic RNA	E-AH187-TC__FJ938064
+E-AH65	Betacoronavirus 1		EF424615	31017	20XX-XX-XX			Cattle	bovine	USA	north_america	genomic RNA	E-AH65__EF424615
+E-AH65-TC	Betacoronavirus 1		EF424616	30970	20XX-XX-XX			Cattle	bovine	USA	north_america	genomic RNA	E-AH65-TC__EF424616
+E-DB2-TC	Betacoronavirus 1		FJ938063	31024	1996-11-30			Cattle	bovine	USA	north_america	genomic RNA	E-DB2-TC__FJ938063
+R-AH187	Betacoronavirus 1		EF424620	30964	20XX-XX-XX			Cattle	bovine	USA	north_america	genomic RNA	R-AH187__EF424620
+R-AH65	Betacoronavirus 1		EF424617	31016	20XX-XX-XX			Cattle	bovine	USA	north_america	genomic RNA	R-AH65__EF424617
+R-AH65-TC	Betacoronavirus 1		EF424618	30995	20XX-XX-XX			Cattle	bovine	USA	north_america	genomic RNA	R-AH65-TC__EF424618
+US/OH3/2006	Betacoronavirus 1		EF424624	30979	20XX-XX-XX			Giraffe	giraffe	USA	north_america	genomic RNA	US/OH3/2006__EF424624
+BJ232	Betacoronavirus 1		KX432213	30868	2014-XX-XX			Dog	dog	China	china	genomic RNA	BJ232__KX432213
+K37	Betacoronavirus 1		JX860640	31028	2008-XX-XX			Dog	dog	South_Korea	japan_korea	genomic RNA	K37__JX860640
+DcCoV-HKU23/camel/Ethiopia/CAC1019/2015	Betacoronavirus 1		MN514962	31021	2015-02-21			Camel	Camelus dromedarius	Ethiopia	africa	genomic RNA	DcCoV-HKU23/camel/Ethiopia/CAC1019/2015__MN514962
+DcCoV-HKU23/camel/Morocco/CAC2586/2016	Betacoronavirus 1		MN514963	31062	2016-03-05			Camel	Camelus dromedarius	Morocco	africa	genomic RNA	DcCoV-HKU23/camel/Morocco/CAC2586/2016__MN514963
+DcCoV-HKU23/camel/Nigeria/NV1010/2015	Betacoronavirus 1		MN514964	30780	2015-11-20			Camel	Camelus dromedarius	Nigeria	africa	genomic RNA	DcCoV-HKU23/camel/Nigeria/NV1010/2015__MN514964
+DcCoV-HKU23/camel/Nigeria/NV1092/2015	Betacoronavirus 1		MN514965	30799	2015-11-23			Camel	Camelus dromedarius	Nigeria	africa	genomic RNA	DcCoV-HKU23/camel/Nigeria/NV1092/2015__MN514965
+DcCoV-HKU23/camel/Nigeria/NV1097/2015	Betacoronavirus 1		MN514966	31075	2015-11-12			Camel	Camelus dromedarius	Nigeria	africa	genomic RNA	DcCoV-HKU23/camel/Nigeria/NV1097/2015__MN514966
+DcCoV-HKU23/camel/Nigeria/NV1385/2016	Betacoronavirus 1		MN514967	30799	2016-01-24			Camel	Camelus dromedarius	Nigeria	africa	genomic RNA	DcCoV-HKU23/camel/Nigeria/NV1385/2016__MN514967
+HKU23-265F	Betacoronavirus 1		KF906249	31052	2013-04-03			Camel	dromedary camel	United_Arab_Emirates	west_asia	genomic RNA	HKU23-265F__KF906249
+HKU23-362F	Betacoronavirus 1		KF906250	31052	2013-05-15			Camel	dromedary camel	United_Arab_Emirates	west_asia	genomic RNA	HKU23-362F__KF906250
+HKU23-368F	Betacoronavirus 1		KF906251	31052	2013-05-21			Camel	dromedary camel	United_Arab_Emirates	west_asia	genomic RNA	HKU23-368F__KF906251
+Obihiro12-1	Betacoronavirus 1		LC061273	30916	2012-XX-XX			Horse	Equus caballus adult	Japan	japan_korea	genomic RNA	Obihiro12-1__LC061273
+Obihiro12-2	Betacoronavirus 1		LC061274	30916	2012-XX-XX			Horse	Equus caballus adult	Japan	japan_korea	genomic RNA	Obihiro12-2__LC061274
+Tokachi09	Betacoronavirus 1		LC061272	30782	2009-XX-XX			Horse	Equus caballus adult	Japan	japan_korea	genomic RNA	Tokachi09__LC061272
+US/OH3-TC/2006	Betacoronavirus 1		EF424622	30979	20XX-XX-XX			Giraffe	giraffe	USA	north_america	genomic RNA	US/OH3-TC/2006__EF424622
+US/OH3/2003	Betacoronavirus 1		EF424623	31002	20XX-XX-XX			Giraffe	giraffe	USA	north_america	genomic RNA	US/OH3/2003__EF424623
+10108/2010	Betacoronavirus 1		KF923918	30713	2010-05-XX			Human	Homo sapiens	China	china	genomic RNA	10108/2010__KF923918
+10285/2010	Betacoronavirus 1		KF923895	30731	2010-07-XX			Human	Homo sapiens	China	china	genomic RNA	10285/2010__KF923895
+10290/2010	Betacoronavirus 1		KF923924	30713	2010-07-XX			Human	Homo sapiens	China	china	genomic RNA	10290/2010__KF923924
+10574/2010	Betacoronavirus 1		KF923925	30713	2010-09-XX			Human	Homo sapiens	China	china	genomic RNA	10574/2010__KF923925
+12689/2012	Betacoronavirus 1		KF923902	30713	2012-05-XX			Human	Homo sapiens	China	china	genomic RNA	12689/2012__KF923902
+12691/2012	Betacoronavirus 1		KF923903	30713	2012-05-XX			Human	Homo sapiens	China	china	genomic RNA	12691/2012__KF923903
+12694/2012	Betacoronavirus 1		KF923904	30713	2012-05-XX			Human	Homo sapiens	China	china	genomic RNA	12694/2012__KF923904
+1783A/10	Betacoronavirus 1		KP198611	30752	2010-01-XX			Human	Homo sapiens	China	china	genomic RNA	1783A/10__KP198611
+1908A/2010	Betacoronavirus 1		KF923886	30719	2010-03-XX			Human	Homo sapiens	China	china	genomic RNA	1908A/2010__KF923886
+1926/2006	Betacoronavirus 1		KF923889	30719	2006-03-XX			Human	Homo sapiens	China	china	genomic RNA	1926/2006__KF923889
+1997A/2010	Betacoronavirus 1		KF923887	30719	2010-04-XX			Human	Homo sapiens	China	china	genomic RNA	1997A/2010__KF923887
+2002-04	Betacoronavirus 1		KY014281	30602	2002-XX-XX			Human	Homo sapiens	France	europe	genomic RNA	2002-04__KY014281
+2007-09	Betacoronavirus 1		KY014282	30659	2007-XX-XX			Human	Homo sapiens	France	europe	genomic RNA	2007-09__KY014282
+2058A/10	Betacoronavirus 1		KP198610	30752	2010-06-XX			Human	Homo sapiens	China	china	genomic RNA	2058A/10__KP198610
+2145A/2010	Betacoronavirus 1		KF923888	30719	2010-07-XX			Human	Homo sapiens	China	china	genomic RNA	2145A/2010__KF923888
+2151A/2010	Betacoronavirus 1		KF923893	30713	2010-07-XX			Human	Homo sapiens	China	china	genomic RNA	2151A/2010__KF923893
+229/2005	Betacoronavirus 1		KF923905	30722	2005-06-XX			Human	Homo sapiens	China	china	genomic RNA	229/2005__KF923905
+3074A/2012	Betacoronavirus 1		KF923896	30737	2012-02-XX			Human	Homo sapiens	China	china	genomic RNA	3074A/2012__KF923896
+3184A/2012	Betacoronavirus 1		KF923898	30716	2012-03-XX			Human	Homo sapiens	China	china	genomic RNA	3184A/2012__KF923898
+3194A/2012	Betacoronavirus 1		KF923906	30737	2012-03-XX			Human	Homo sapiens	China	china	genomic RNA	3194A/2012__KF923906
+3269A/2012	Betacoronavirus 1		KF923897	30711	2012-06-XX			Human	Homo sapiens	China	china	genomic RNA	3269A/2012__KF923897
+3582/2006	Betacoronavirus 1		KF923899	30722	2006-09-XX			Human	Homo sapiens	China	china	genomic RNA	3582/2006__KF923899
+3647/2006	Betacoronavirus 1		KF923900	30722	2006-10-XX			Human	Homo sapiens	China	china	genomic RNA	3647/2006__KF923900
+39A/2007	Betacoronavirus 1		KF923890	30713	2007-04-XX			Human	Homo sapiens	China	china	genomic RNA	39A/2007__KF923890
+5240/2007	Betacoronavirus 1		KF923891	30713	2007-05-XX			Human	Homo sapiens	China	china	genomic RNA	5240/2007__KF923891
+5345/2007	Betacoronavirus 1		KF923892	30713	2007-05-XX			Human	Homo sapiens	China	china	genomic RNA	5345/2007__KF923892
+5352/2007	Betacoronavirus 1		KF923894	30713	2007-05-XX			Human	Homo sapiens	China	china	genomic RNA	5352/2007__KF923894
+5370/2007	Betacoronavirus 1		KF923907	30713	2007-05-XX			Human	Homo sapiens	China	china	genomic RNA	5370/2007__KF923907
+5414/2007	Betacoronavirus 1		KF923908	30713	2007-06-XX			Human	Homo sapiens	China	china	genomic RNA	5414/2007__KF923908
+5442/2007	Betacoronavirus 1		KF923909	30713	2007-06-XX			Human	Homo sapiens	China	china	genomic RNA	5442/2007__KF923909
+5445/2007	Betacoronavirus 1		KF923910	30713	2007-06-XX			Human	Homo sapiens	China	china	genomic RNA	5445/2007__KF923910
+5472/2007	Betacoronavirus 1		KF923901	30713	2007-06-XX			Human	Homo sapiens	China	china	genomic RNA	5472/2007__KF923901
+5479/2007	Betacoronavirus 1		KF923911	30713	2007-06-XX			Human	Homo sapiens	China	china	genomic RNA	5479/2007__KF923911
+5484/2007	Betacoronavirus 1		KF923912	30713	2007-06-XX			Human	Homo sapiens	China	china	genomic RNA	5484/2007__KF923912
+5485/2007	Betacoronavirus 1		KF923913	30713	2007-06-XX			Human	Homo sapiens	China	china	genomic RNA	5485/2007__KF923913
+5508/2007	Betacoronavirus 1		KF923914	30713	2007-06-XX			Human	Homo sapiens	China	china	genomic RNA	5508/2007__KF923914
+5517/2007	Betacoronavirus 1		KF923915	30713	2007-06-XX			Human	Homo sapiens	China	china	genomic RNA	5517/2007__KF923915
+5519/2007	Betacoronavirus 1		KF923916	30713	2007-06-XX			Human	Homo sapiens	China	china	genomic RNA	5519/2007__KF923916
+5566/2007	Betacoronavirus 1		KF923917	30713	2007-06-XX			Human	Homo sapiens	China	china	genomic RNA	5566/2007__KF923917
+5595/2007	Betacoronavirus 1		KF923919	30713	2007-07-XX			Human	Homo sapiens	China	china	genomic RNA	5595/2007__KF923919
+5617/2007	Betacoronavirus 1		KF923920	30713	2007-07-XX			Human	Homo sapiens	China	china	genomic RNA	5617/2007__KF923920
+69A/2007	Betacoronavirus 1		KF923921	30713	2007-05-XX			Human	Homo sapiens	China	china	genomic RNA	69A/2007__KF923921
+8164/2009	Betacoronavirus 1		KF923922	30713	2009-03-XX			Human	Homo sapiens	China	china	genomic RNA	8164/2009__KF923922
+892A/2008	Betacoronavirus 1		KF923923	30713	2008-10-XX			Human	Homo sapiens	China	china	genomic RNA	892A/2008__KF923923
+ATCC VR-759	Betacoronavirus 1		NC_006213*	30741	20XX-XX-XX			NA	NA	USA	north_america	genomic RNA	ATCC VR-759__NC_006213*
+BJ-112	Betacoronavirus 1		MG197709	30550	2015-04-22			NA	NA	China	china	genomic RNA	BJ-112__MG197709
+BJ-124	Betacoronavirus 1		MG197710	30544	2015-05-06			NA	NA	China	china	genomic RNA	BJ-124__MG197710
+BJ-164	Betacoronavirus 1		MG197711	30544	2015-06-09			NA	NA	China	china	genomic RNA	BJ-164__MG197711
+BJ-165	Betacoronavirus 1		MG197712	30497	2015-06-09			NA	NA	China	china	genomic RNA	BJ-165__MG197712
+BJ-221	Betacoronavirus 1		MG197713	30495	2015-08-14			NA	NA	China	china	genomic RNA	BJ-221__MG197713
+CC-23	Betacoronavirus 1		MG197714	30551	2015-07-13			NA	NA	China	china	genomic RNA	CC-23__MG197714
+GZYF-26	Betacoronavirus 1		MG197715	30530	2015-05-21			NA	NA	China	china	genomic RNA	GZYF-26__MG197715
+HCoV-OC43/UK/London/2011	Betacoronavirus 1		KU131570	30746	2011-08-20			Human	Homo sapiens	United_Kingdom	europe	genomic RNA	HCoV-OC43/UK/London/2011__KU131570
+HCoV-OC43/USA/ACRI_0052/2016	Betacoronavirus 1		MF314143	30737	2016-03-07			Human	Homo sapiens	USA	north_america	genomic RNA	HCoV-OC43/USA/ACRI_0052/2016__MF314143
+HCoV-OC43/USA/ACRI_0213/2016	Betacoronavirus 1		MH121121	30722	2016-12-19			Human	Homo sapiens	USA	north_america	genomic RNA	HCoV-OC43/USA/ACRI_0213/2016__MH121121
+HCoV-OC43/USA/TCNP_00204/2017	Betacoronavirus 1		MF374984	30713	2017-01-03			Human	Homo sapiens	USA	north_america	genomic RNA	HCoV-OC43/USA/TCNP_00204/2017__MF374984
+HCoV-OC43/USA/TCNP_00212/2017	Betacoronavirus 1		MF374985	30705	2017-01-17			Human	Homo sapiens	USA	north_america	genomic RNA	HCoV-OC43/USA/TCNP_00212/2017__MF374985
+HCoV-OC43/USA/TCNP_0070/2016	Betacoronavirus 1		MF374983	30721	2016-02-01			Human	Homo sapiens	USA	north_america	genomic RNA	HCoV-OC43/USA/TCNP_0070/2016__MF374983
+HK04-02	Betacoronavirus 1		JN129835	30722	2004-11-XX			Human	Homo sapiens	China	china	genomic RNA	HK04-02__JN129835
+HZ-459	Betacoronavirus 1		MG197723	30566	2016-06-20			NA	NA	China	china	genomic RNA	HZ-459__MG197723
+LY341	Betacoronavirus 1		KJ958218	30714	2011-10-03	15.0		Human	Homo sapiens; sex:F; age:15Y	China	china	genomic RNA	LY341__KJ958218
+LY342	Betacoronavirus 1		KJ958219	30714	2011-10-04	34.0		Human	Homo sapiens; sex:M; age:34Y	China	china	genomic RNA	LY342__KJ958219
+MDS11	Betacoronavirus 1		MK303622	30665	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	MDS11__MK303622
+MDS12	Betacoronavirus 1		MK303623	30419	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	MDS12__MK303623
+MDS14	Betacoronavirus 1		MK303624	30664	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	MDS14__MK303624
+MDS16	Betacoronavirus 1		MK303625	30668	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	MDS16__MK303625
+MDS2	Betacoronavirus 1		MK303620	30665	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	MDS2__MK303620
+MDS4	Betacoronavirus 1		MK303621	30664	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	MDS4__MK303621
+MDS6	Betacoronavirus 1		MK303619	30664	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	MDS6__MK303619
+MY-U002/12	Betacoronavirus 1		KX538964	30713	2012-02-22			Human	Homo sapiens	Malaysia	southeast_asia	genomic RNA	MY-U002/12__KX538964
+MY-U1024/12	Betacoronavirus 1		KX538975	30716	2012-08-24			Human	Homo sapiens	Malaysia	southeast_asia	genomic RNA	MY-U1024/12__KX538975
+MY-U1057/12	Betacoronavirus 1		KX538976	30713	2012-08-27			Human	Homo sapiens	Malaysia	southeast_asia	genomic RNA	MY-U1057/12__KX538976
+MY-U1140/12	Betacoronavirus 1		KX538977	30716	2012-09-10			Human	Homo sapiens	Malaysia	southeast_asia	genomic RNA	MY-U1140/12__KX538977
+MY-U1758/13	Betacoronavirus 1		KX538978	30713	2013-01-02			Human	Homo sapiens	Malaysia	southeast_asia	genomic RNA	MY-U1758/13__KX538978
+MY-U1975/13	Betacoronavirus 1		KX538979	30713	2013-02-15			Human	Homo sapiens	Malaysia	southeast_asia	genomic RNA	MY-U1975/13__KX538979
+MY-U208/12	Betacoronavirus 1		KX538965	30716	2012-03-28			Human	Homo sapiens	Malaysia	southeast_asia	genomic RNA	MY-U208/12__KX538965
+MY-U236/12	Betacoronavirus 1		KX538966	30713	2012-04-02			Human	Homo sapiens	Malaysia	southeast_asia	genomic RNA	MY-U236/12__KX538966
+MY-U413/12	Betacoronavirus 1		KX538967	30716	2012-05-02			Human	Homo sapiens	Malaysia	southeast_asia	genomic RNA	MY-U413/12__KX538967
+MY-U464/12	Betacoronavirus 1		KX538968	30716	2012-05-09			Human	Homo sapiens	Malaysia	southeast_asia	genomic RNA	MY-U464/12__KX538968
+MY-U523/12	Betacoronavirus 1		KX538969	30716	2012-05-18			Human	Homo sapiens	Malaysia	southeast_asia	genomic RNA	MY-U523/12__KX538969
+MY-U710/12	Betacoronavirus 1		KX538970	30713	2012-06-20			Human	Homo sapiens	Malaysia	southeast_asia	genomic RNA	MY-U710/12__KX538970
+MY-U732/12	Betacoronavirus 1		KX538971	30716	2012-06-25			Human	Homo sapiens	Malaysia	southeast_asia	genomic RNA	MY-U732/12__KX538971
+MY-U774/12	Betacoronavirus 1		KX538972	30713	2012-07-04			Human	Homo sapiens	Malaysia	southeast_asia	genomic RNA	MY-U774/12__KX538972
+MY-U868/12	Betacoronavirus 1		KX538973	30716	2012-07-16			Human	Homo sapiens	Malaysia	southeast_asia	genomic RNA	MY-U868/12__KX538973
+MY-U945/12	Betacoronavirus 1		KX538974	30716	2012-08-01			Human	Homo sapiens	Malaysia	southeast_asia	genomic RNA	MY-U945/12__KX538974
+N07-1541B_433X	Betacoronavirus 1		KY554972	30710	2016-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	N07-1541B_433X__KY554972
+N07-1609B	Betacoronavirus 1		KY674917	30536	2016-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	N07-1609B__KY674917
+N07-1647B	Betacoronavirus 1		KY674918	30550	2016-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	N07-1647B__KY674918
+N07-1689B_116X	Betacoronavirus 1		KY554973	30713	2016-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	N07-1689B_116X__KY554973
+N08-33B_360X	Betacoronavirus 1		KY554974	30713	2016-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	N08-33B_360X__KY554974
+N09-382B	Betacoronavirus 1		KY554975	30669	2016-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	N09-382B__KY554975
+N09-595B	Betacoronavirus 1		KY674920	30581	2016-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	N09-595B__KY674920
+OC43/human/Mex/LRTI_238/2011	Betacoronavirus 1		KX344031	30713	2011-02-09	0.17	M	Human	Homo sapiens; age: 2 months; sex: male	Mexico	north_america	genomic RNA	OC43/human/Mex/LRTI_238/2011__KX344031
+OC43/human/USA/007-11/2000	Betacoronavirus 1		KF530068	30572	2000-07-27	21.0		Human	Homo sapiens; sex: M; age: 21Y	USA	north_america	genomic RNA	OC43/human/USA/007-11/2000__KF530068
+OC43/human/USA/008-5/2000	Betacoronavirus 1		KF530092	30577	2000-08-08	29.0		Human	Homo sapiens; sex: F; age: 29Y	USA	north_america	genomic RNA	OC43/human/USA/008-5/2000__KF530092
+OC43/human/USA/851-15/1985	Betacoronavirus 1		KF530060	30577	1985-01-08	15.0		Human	Homo sapiens; sex: M; age: 15Y	USA	north_america	genomic RNA	OC43/human/USA/851-15/1985__KF530060
+OC43/human/USA/871-25/1987	Betacoronavirus 1		KF530085	30569	1987-01-22	25.0		Human	Homo sapiens; sex: M; age: 25Y	USA	north_america	genomic RNA	OC43/human/USA/871-25/1987__KF530085
+OC43/human/USA/872-5/1987	Betacoronavirus 1		KF530086	30577	1987-02-10	20.0		Human	Homo sapiens; sex: M; age: 20Y	USA	north_america	genomic RNA	OC43/human/USA/872-5/1987__KF530086
+OC43/human/USA/873-16/1987	Betacoronavirus 1		KF530077	30577	1987-03-12	27.0		Human	Homo sapiens; sex: F; age: 27Y	USA	north_america	genomic RNA	OC43/human/USA/873-16/1987__KF530077
+OC43/human/USA/873-19/1987	Betacoronavirus 1		KF530083	30577	1987-03-17	21.0		Human	Homo sapiens; sex: F; age: 21Y	USA	north_america	genomic RNA	OC43/human/USA/873-19/1987__KF530083
+OC43/human/USA/873-6/1987	Betacoronavirus 1		KF530087	30577	1987-03-05	6.0		Human	Homo sapiens; sex: M; age: 6Y	USA	north_america	genomic RNA	OC43/human/USA/873-6/1987__KF530087
+OC43/human/USA/8912-37/1989	Betacoronavirus 1		KF530073	30577	1989-12-21	9.0		Human	Homo sapiens; sex: M; age: 9Y	USA	north_america	genomic RNA	OC43/human/USA/8912-37/1989__KF530073
+OC43/human/USA/901-33/1990	Betacoronavirus 1		KF530066	30564	1990-01-16	12.0		Human	Homo sapiens; sex: M; age: 12Y	USA	north_america	genomic RNA	OC43/human/USA/901-33/1990__KF530066
+OC43/human/USA/901-41/1990	Betacoronavirus 1		KF530065	30577	1990-01-17	17.0		Human	Homo sapiens; sex: M; age: 17Y	USA	north_america	genomic RNA	OC43/human/USA/901-41/1990__KF530065
+OC43/human/USA/901-43/1990	Betacoronavirus 1		KF530061	30577	1990-01-19	43.0		Human	Homo sapiens; sex: F; age: 43Y	USA	north_america	genomic RNA	OC43/human/USA/901-43/1990__KF530061
+OC43/human/USA/901-54/1990	Betacoronavirus 1		KF530088	30578	1990-01-23	7.0		Human	Homo sapiens; sex: M; age: 7Y	USA	north_america	genomic RNA	OC43/human/USA/901-54/1990__KF530088
+OC43/human/USA/911-11/1991	Betacoronavirus 1		KF530076	30606	1991-01-03	11.0		Human	Homo sapiens; sex: F; age: 11Y	USA	north_america	genomic RNA	OC43/human/USA/911-11/1991__KF530076
+OC43/human/USA/911-38/1991	Betacoronavirus 1		KF530096	30589	1991-01-15	4.0		Human	Homo sapiens; sex: F; age: 4Y	USA	north_america	genomic RNA	OC43/human/USA/911-38/1991__KF530096
+OC43/human/USA/911-58/1991	Betacoronavirus 1		KF530091	30606	1991-01-24	3.0		Human	Homo sapiens; sex: F; age: 3Y	USA	north_america	genomic RNA	OC43/human/USA/911-58/1991__KF530091
+OC43/human/USA/911-66/1991	Betacoronavirus 1		KF530089	30611	1991-01-29	15.0		Human	Homo sapiens; sex: F; age: 15Y	USA	north_america	genomic RNA	OC43/human/USA/911-66/1991__KF530089
+OC43/human/USA/912-10/1991	Betacoronavirus 1		KF530067	30608	1991-02-07	43.0		Human	Homo sapiens; sex: M; age: 43Y	USA	north_america	genomic RNA	OC43/human/USA/912-10/1991__KF530067
+OC43/human/USA/912-11/1991	Betacoronavirus 1		KF530082	30581	1991-02-07	7.0		Human	Homo sapiens; sex: F; age: 7Y	USA	north_america	genomic RNA	OC43/human/USA/912-11/1991__KF530082
+OC43/human/USA/912-36/1991	Betacoronavirus 1		KF530094	30581	1991-02-22	11.0		Human	Homo sapiens; sex: M; age: 11Y	USA	north_america	genomic RNA	OC43/human/USA/912-36/1991__KF530094
+OC43/human/USA/912-6/1991	Betacoronavirus 1		KF530095	30602	1991-02-05	5.0		Human	Homo sapiens; sex: M; age: 5Y	USA	north_america	genomic RNA	OC43/human/USA/912-6/1991__KF530095
+OC43/human/USA/913-29/1991	Betacoronavirus 1		KF530079	30581	1991-03-14	9.0		Human	Homo sapiens; sex: M; age: 9Y	USA	north_america	genomic RNA	OC43/human/USA/913-29/1991__KF530079
+OC43/human/USA/9211-43/1992	Betacoronavirus 1		KF530097	30577	1992-11-30	18.0		Human	Homo sapiens; sex: M; age: 18Y	USA	north_america	genomic RNA	OC43/human/USA/9211-43/1992__KF530097
+OC43/human/USA/9212-33/1992	Betacoronavirus 1		KF530074	30590	1992-12-16	32.0		Human	Homo sapiens; sex: F; age: 32Y	USA	north_america	genomic RNA	OC43/human/USA/9212-33/1992__KF530074
+OC43/human/USA/925-1/1992	Betacoronavirus 1		KF530071	30578	1992-05-04	34.0		Human	Homo sapiens; sex: M; age: 34Y	USA	north_america	genomic RNA	OC43/human/USA/925-1/1992__KF530071
+OC43/human/USA/931-85/1993	Betacoronavirus 1		KF530090	30577	1993-01-26	21.0		Human	Homo sapiens; sex: F; age: 21Y	USA	north_america	genomic RNA	OC43/human/USA/931-85/1993__KF530090
+OC43/human/USA/951-18/1995	Betacoronavirus 1		KF530084	30577	1995-01-12	10.0		Human	Homo sapiens; sex: F; age: 10Y	USA	north_america	genomic RNA	OC43/human/USA/951-18/1995__KF530084
+OC43/human/USA/953-23/1995	Betacoronavirus 1		KF530075	30577	1995-03-09	12.0		Human	Homo sapiens; sex: F; age: 12Y	USA	north_america	genomic RNA	OC43/human/USA/953-23/1995__KF530075
+OC43/human/USA/9612-29/1996	Betacoronavirus 1		KF530078	30568	1996-12-17	48.0		Human	Homo sapiens; sex: F; age: 48Y	USA	north_america	genomic RNA	OC43/human/USA/9612-29/1996__KF530078
+OC43/human/USA/9612-48/1996	Betacoronavirus 1		KF530063	30577	1996-12-30	50.0		Human	Homo sapiens; sex: M; age: 50Y	USA	north_america	genomic RNA	OC43/human/USA/9612-48/1996__KF530063
+OC43/human/USA/9612-9/1996	Betacoronavirus 1		KF530064	30577	1996-12-04	18.0		Human	Homo sapiens; sex: F; age: 18Y	USA	north_america	genomic RNA	OC43/human/USA/9612-9/1996__KF530064
+OC43/human/USA/965-6/1996	Betacoronavirus 1		KF530098	30578	1996-05-10	7.0		Human	Homo sapiens; sex: F; age: 7Y	USA	north_america	genomic RNA	OC43/human/USA/965-6/1996__KF530098
+OC43/human/USA/971-5/1997	Betacoronavirus 1		KF530099	30578	1997-01-02	59.0		Human	Homo sapiens; sex: F; age: 59Y	USA	north_america	genomic RNA	OC43/human/USA/971-5/1997__KF530099
+OC43/human/USA/9712-13/1997	Betacoronavirus 1		KF530072	30577	1997-12-11	19.0		Human	Homo sapiens; sex: M; age: 19Y	USA	north_america	genomic RNA	OC43/human/USA/9712-13/1997__KF530072
+OC43/human/USA/9712-31/1997	Betacoronavirus 1		KF530080	30577	1997-12-18	6.0		Human	Homo sapiens; sex: M; age: 6Y	USA	north_america	genomic RNA	OC43/human/USA/9712-31/1997__KF530080
+OC43/human/USA/982-4/1998	Betacoronavirus 1		KF530069	30578	1998-02-05	6.0		Human	Homo sapiens; sex: F; age: 6Y	USA	north_america	genomic RNA	OC43/human/USA/982-4/1998__KF530069
+OC43/human/USA/991-19/1999	Betacoronavirus 1		KF530070	30573	1999-01-15	19.0		Human	Homo sapiens; sex: M; age: 19Y	USA	north_america	genomic RNA	OC43/human/USA/991-19/1999__KF530070
+OC43/human/USA/991-5/1999	Betacoronavirus 1		KF530081	30571	1999-01-07	11.0		Human	Homo sapiens; sex: F; age: 11Y	USA	north_america	genomic RNA	OC43/human/USA/991-5/1999__KF530081
+OC43_KLF_01_2018	Betacoronavirus 1		MN026164	30777	2018-01-18			Human	Homo sapiens	Kenya	africa	genomic RNA	OC43_KLF_01_2018__MN026164
+SC0682	Betacoronavirus 1		MN306036	30681	2019-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC0682__MN306036
+SC0776	Betacoronavirus 1		MN310478	30681	2019-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC0776__MN310478
+SC0810	Betacoronavirus 1		MN306041	30717	2019-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC0810__MN306041
+SC0839	Betacoronavirus 1		MN306042	30723	2019-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC0839__MN306042
+SC0841	Betacoronavirus 1		MN306043	30716	2019-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC0841__MN306043
+SC2269	Betacoronavirus 1		KY684759	30656	2016-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC2269__KY684759
+SC2345	Betacoronavirus 1		KY967361	30661	2015-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC2345__KY967361
+SC2476	Betacoronavirus 1		KY967360	30674	2015-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC2476__KY967360
+SC2481	Betacoronavirus 1		KY983583	30668	2015-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC2481__KY983583
+SC2730	Betacoronavirus 1		KY967359	30670	2015-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC2730__KY967359
+SC2770	Betacoronavirus 1		KY967358	30670	2015-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC2770__KY967358
+SC2854	Betacoronavirus 1		KY983585	30659	2015-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC2854__KY983585
+SC2924	Betacoronavirus 1		KY967356	30648	2015-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC2924__KY967356
+SC3118	Betacoronavirus 1		KY983588	30562	2015-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC3118__KY983588
+SC622	Betacoronavirus 1		KY369906	30689	2016-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC622__KY369906
+SC831	Betacoronavirus 1		KY369905	30581	2016-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC831__KY369905
+SC9428	Betacoronavirus 1		MN310476	30562	2019-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC9428__MN310476
+SC9430	Betacoronavirus 1		MN306053	30818	2019-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC9430__MN306053
+SC9741	Betacoronavirus 1		KY369907	30725	2016-XX-XX			Human	Homo sapiens	USA	north_america	genomic RNA	SC9741__KY369907
+TNP 12636	Betacoronavirus 1		MG977451	30722	2016-12-10			Human	Homo sapiens	cote_d_ivoire	africa	genomic RNA	TNP 12636__MG977451
+TNP 12643	Betacoronavirus 1		MG977452	30704	2016-12-10			Human	Homo sapiens	cote_d_ivoire	africa	genomic RNA	TNP 12643__MG977452
+TNP F1778_2	Betacoronavirus 1		MG977444	30571	2017-01-04			Chimpanzee	Pan troglodytes verus	cote_d_ivoire	africa	genomic RNA	TNP F1778_2__MG977444
+TNP F1790_2	Betacoronavirus 1		MG977445	30677	2016-12-31			Chimpanzee	Pan troglodytes verus	cote_d_ivoire	africa	genomic RNA	TNP F1790_2__MG977445
+TNP F1832_2	Betacoronavirus 1		MG977447	30705	2016-12-26			Chimpanzee	Pan troglodytes verus	cote_d_ivoire	africa	genomic RNA	TNP F1832_2__MG977447
+TNP F1834_2	Betacoronavirus 1		MG977449	30721	2016-12-28			Chimpanzee	Pan troglodytes verus	cote_d_ivoire	africa	genomic RNA	TNP F1834_2__MG977449
+WZ-303	Betacoronavirus 1		MG197716	30515	2015-06-06			NA	NA	China	china	genomic RNA	WZ-303__MG197716
+WZ-522	Betacoronavirus 1		MG197717	30524	2015-07-06			NA	NA	China	china	genomic RNA	WZ-522__MG197717
+YC-207	Betacoronavirus 1		MG197722	30515	2015-12-02			NA	NA	China	china	genomic RNA	YC-207__MG197722
+YC-55	Betacoronavirus 1		MG197718	30538	2015-03-12			NA	NA	China	china	genomic RNA	YC-55__MG197718
+YC-67	Betacoronavirus 1		MG197719	30499	2015-06-04			NA	NA	China	china	genomic RNA	YC-67__MG197719
+YC-68	Betacoronavirus 1		MG197720	30567	2015-06-05			NA	NA	China	china	genomic RNA	YC-68__MG197720
+YC-72	Betacoronavirus 1		MG197721	30521	2015-06-13			NA	NA	China	china	genomic RNA	YC-72__MG197721
+CC14	Betacoronavirus 1		MF083115	30682	2014-03-XX			Swine	Sus scrofa	China	china	genomic RNA	CC14__MF083115
+JL/2008	Betacoronavirus 1		KY994645	30684	2008-08-21			Swine	piglet	China	china	genomic RNA	JL/2008__KY994645
+PHEV CoV USA-15TOSU0331	Betacoronavirus 1		KY419104	30530	2015-08-15			Swine	Sus scrofa scrofa	USA	north_america	genomic RNA	PHEV CoV USA-15TOSU0331__KY419104
+PHEV CoV USA-15TOSU0582	Betacoronavirus 1		KY419105	30513	2015-08-20			Swine	Sus scrofa scrofa	USA	north_america	genomic RNA	PHEV CoV USA-15TOSU0582__KY419105
+PHEV CoV USA-15TOSU1209	Betacoronavirus 1		KY419107	29866	2015-07-25			Swine	Sus scrofa scrofa	USA	north_america	genomic RNA	PHEV CoV USA-15TOSU1209__KY419107
+PHEV CoV USA-15TOSU1362	Betacoronavirus 1		KY419110	30515	2015-08-12			Swine	Sus scrofa scrofa	USA	north_america	genomic RNA	PHEV CoV USA-15TOSU1362__KY419110
+PHEV CoV USA-15TOSU1582	Betacoronavirus 1		KY419113	29900	2015-07-25			Swine	Sus scrofa scrofa	USA	north_america	genomic RNA	PHEV CoV USA-15TOSU1582__KY419113
+PHEV CoV USA-15TOSU1655	Betacoronavirus 1		KY419109	29906	2015-08-01			Swine	Sus scrofa scrofa	USA	north_america	genomic RNA	PHEV CoV USA-15TOSU1655__KY419109
+PHEV CoV USA-15TOSU1727	Betacoronavirus 1		KY419111	29866	2015-08-08			Swine	Sus scrofa scrofa	USA	north_america	genomic RNA	PHEV CoV USA-15TOSU1727__KY419111
+PHEV CoV USA-15TOSU1765	Betacoronavirus 1		KY419112	30531	2015-08-01			Swine	Sus scrofa scrofa	USA	north_america	genomic RNA	PHEV CoV USA-15TOSU1765__KY419112
+PHEV CoV USA-15TOSU1785	Betacoronavirus 1		KY419106	29866	2015-08-15			Swine	Sus scrofa scrofa	USA	north_america	genomic RNA	PHEV CoV USA-15TOSU1785__KY419106
+PHEV CoV USA-15TOSU24992	Betacoronavirus 1		KY419108	751	2015-10-03			Swine	Sus scrofa scrofa	USA	north_america	genomic RNA	PHEV CoV USA-15TOSU24992__KY419108
+PHEV CoV USA-15TOSU25049	Betacoronavirus 1		KY419103	30632	2015-09-15			Swine	Sus scrofa scrofa	USA	north_america	genomic RNA	PHEV CoV USA-15TOSU25049__KY419103
+US/OH1/2003	Betacoronavirus 1		EF424621	30995	20XX-XX-XX			Antelope	antelope	USA	north_america	genomic RNA	US/OH1/2003__EF424621
+UNKNOWN-FJ425188	Betacoronavirus 1		FJ425188	30995	1994-01-01			Deer	sambar deer	USA	north_america	genomic RNA	UNKNOWN-FJ425188__FJ425188
+UNKNOWN-FJ425190	Betacoronavirus 1		FJ425190	30987	1994-01-01			Deer	sambar deer	USA	north_america	genomic RNA	UNKNOWN-FJ425190__FJ425190
+UNKNOWN-FJ425189	Betacoronavirus 1		FJ425189	30997	1994-01-01			Deer	sambar deer	USA	north_america	genomic RNA	UNKNOWN-FJ425189__FJ425189
+W17-18	Betacoronavirus 1		MG518518	31034	2017-02-24			NA	Hydropotes inermis (water deer)	South_Korea	japan_korea	genomic RNA	W17-18__MG518518
+UNKNOWN-FJ425185	Betacoronavirus 1		FJ425185	30940	1994-01-01			Antelope	waterbuck	USA	north_america	genomic RNA	UNKNOWN-FJ425185__FJ425185
+UNKNOWN-FJ425184	Betacoronavirus 1		FJ425184	30995	1994-01-01			Antelope	waterbuck	USA	north_america	genomic RNA	UNKNOWN-FJ425184__FJ425184
+UNKNOWN-FJ425186	Betacoronavirus 1		FJ425186	30962	1994-01-01			Antelope	waterbuck	USA	north_america	genomic RNA	UNKNOWN-FJ425186__FJ425186
+UNKNOWN-FJ425187	Betacoronavirus 1		FJ425187	31020	1994-01-01			Deer	white-tailed deer	USA	north_america	genomic RNA	UNKNOWN-FJ425187__FJ425187
+YAK/HY24/CH/2017	Betacoronavirus 1		MH810163	31032	2017-XX-XX			Yak	yak	China	china	genomic RNA	YAK/HY24/CH/2017__MH810163
+BCoV-ENT	Betacoronavirus 1		AF391541	31028	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	BCoV-ENT__AF391541
+BCoV-LUN	Betacoronavirus 1		AF391542	31028	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	BCoV-LUN__AF391542
+Kakegawa	Betacoronavirus 1		AB354579	31038	20XX-XX-XX			NA	NA	Japan	japan_korea	genomic RNA	Kakegawa__AB354579
+Mebus	Betacoronavirus 1		U00735	31032	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	Mebus__U00735
+Quebec	Betacoronavirus 1		AF220295	31100	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	Quebec__AF220295
+UNKNOWN-DQ915164	Betacoronavirus 1		DQ915164	31076	20XX-XX-XX			Alpaca	alpaca	USA	north_america	genomic RNA	UNKNOWN-DQ915164__DQ915164
+4408	Betacoronavirus 1		FJ415324	31029	1988-XX-XX			Human	Homo sapiens	Germany	europe	genomic RNA	4408__FJ415324
+AH187	Betacoronavirus 1		FJ938065	30969	2000-01-01			Cattle	bovine	USA	north_america	genomic RNA	AH187__FJ938065
+bovine/US/OH-440-TC/1996	Betacoronavirus 1		FJ938066	30953	1996-01-01			Cattle	bovine	USA	north_america	genomic RNA	bovine/US/OH-440-TC/1996__FJ938066
+NC99	Betacoronavirus 1		EF446615	30992	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	NC99__EF446615
+19572 Belgium 2004	Betacoronavirus 1		AY903460	30723	20XX-XX-XX			NA	NA	Belgium	europe	genomic RNA	19572 Belgium 2004__AY903460
+87309 Belgium 2003	Betacoronavirus 1		AY903459	30723	20XX-XX-XX			NA	NA	Belgium	europe	genomic RNA	87309 Belgium 2003__AY903459
+ATCC VR-759	Betacoronavirus 1		AY391777	30738	20XX-XX-XX			NA	NA	NA	NA	genomic RNA	ATCC VR-759__AY391777
+ATCC VR-759	Betacoronavirus 1		AY585228	30741	20XX-XX-XX			NA	NA	USA	north_america	genomic RNA	ATCC VR-759__AY585228
+HK04-01	Betacoronavirus 1		JN129834	30710	2004-11-XX			Human	Homo sapiens	China	china	genomic RNA	HK04-01__JN129834
+UNKNOWN-AY585229	Betacoronavirus 1		AY585229	30744	20XX-XX-XX			NA	NA	France	europe	genomic RNA	UNKNOWN-AY585229__AY585229
+VW572	Betacoronavirus 1		DQ011855	30480	20XX-XX-XX			NA	NA	Belgium	europe	genomic RNA	VW572__DQ011855

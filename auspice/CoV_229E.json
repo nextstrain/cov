@@ -1,0 +1,2819 @@
+{
+  "meta": {
+    "build_url": "https://github.com/nextstrain/cov",
+    "colorings": [
+      {
+        "key": "num_date",
+        "title": "Sampling date",
+        "type": "continuous"
+      },
+      {
+        "key": "gt",
+        "title": "Genotype",
+        "type": "categorical"
+      },
+      {
+        "key": "region",
+        "scale": [
+          [
+            "europe",
+            "#E39B39"
+          ],
+          [
+            "north_america",
+            "#DC2F24"
+          ]
+        ],
+        "title": "Region",
+        "type": "categorical"
+      },
+      {
+        "key": "country",
+        "title": "Country",
+        "type": "categorical"
+      },
+      {
+        "key": "host",
+        "title": "Host",
+        "type": "categorical"
+      },
+      {
+        "key": "virus",
+        "title": "Virus",
+        "type": "categorical"
+      },
+      {
+        "key": "author",
+        "title": "Authors",
+        "type": "categorical"
+      }
+    ],
+    "description": "This phylogeny shows a tree of full-length Human Coronavirus 229E sequences from ViPR.\n",
+    "display_defaults": {
+      "color_by": "country",
+      "distance_measure": "div",
+      "geo_resolution": "country"
+    },
+    "filters": [
+      "country",
+      "region",
+      "author",
+      "host"
+    ],
+    "genome_annotations": {
+      "4a": {
+        "end": 24492,
+        "seqid": "229E/config/CoV-229E-translate_reference.gb",
+        "start": 24091,
+        "strand": "+",
+        "type": "CDS"
+      },
+      "4b": {
+        "end": 24748,
+        "seqid": "229E/config/CoV-229E-translate_reference.gb",
+        "start": 24482,
+        "strand": "+",
+        "type": "CDS"
+      },
+      "E": {
+        "end": 24983,
+        "seqid": "229E/config/CoV-229E-translate_reference.gb",
+        "start": 24750,
+        "strand": "+",
+        "type": "CDS"
+      },
+      "M": {
+        "end": 25672,
+        "seqid": "229E/config/CoV-229E-translate_reference.gb",
+        "start": 24995,
+        "strand": "+",
+        "type": "CDS"
+      },
+      "N": {
+        "end": 26855,
+        "seqid": "229E/config/CoV-229E-translate_reference.gb",
+        "start": 25686,
+        "strand": "+",
+        "type": "CDS"
+      },
+      "S": {
+        "end": 24091,
+        "seqid": "229E/config/CoV-229E-translate_reference.gb",
+        "start": 20570,
+        "strand": "+",
+        "type": "CDS"
+      },
+      "nuc": {
+        "end": 27317,
+        "seqid": "229E/config/CoV-229E-translate_reference.gb",
+        "start": 1,
+        "strand": "+",
+        "type": "source"
+      },
+      "replicase_polyprotein_1a": {
+        "end": 12550,
+        "seqid": "229E/config/CoV-229E-translate_reference.gb",
+        "start": 293,
+        "strand": "+",
+        "type": "CDS"
+      },
+      "replicase_polyprotein_1b": {
+        "end": 20568,
+        "seqid": "229E/config/CoV-229E-translate_reference.gb",
+        "start": 12520,
+        "strand": "+",
+        "type": "CDS"
+      }
+    },
+    "geo_resolutions": [
+      {
+        "demes": {
+          "Germany": {
+            "latitude": 51.0834196,
+            "longitude": 10.4234469
+          },
+          "Haiti": {
+            "latitude": 19.1399952,
+            "longitude": -72.3570971
+          },
+          "Italy": {
+            "latitude": 42.6384261,
+            "longitude": 12.674297
+          },
+          "Netherlands": {
+            "latitude": 52.3702,
+            "longitude": 4.8952
+          },
+          "USA": {
+            "latitude": 39.7837304,
+            "longitude": -100.4458824
+          }
+        },
+        "key": "country"
+      },
+      {
+        "demes": {
+          "europe": {
+            "latitude": 49.646237,
+            "longitude": 10.799454
+          },
+          "north_america": {
+            "latitude": 28.2367447,
+            "longitude": -97.738017
+          }
+        },
+        "key": "region"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Emma Hodcroft",
+        "url": "https://neherlab.org/emma-hodcroft.html"
+      },
+      {
+        "name": "Richard Neher",
+        "url": "https://neherlab.org/"
+      },
+      {
+        "name": "Trevor Bedford",
+        "url": "https://bedford.io"
+      }
+    ],
+    "panels": [
+      "tree",
+      "map",
+      "entropy"
+    ],
+    "title": "Genomic epidemiology of Coronavirus (CoV) 229E using data from ViPR & GenBank",
+    "updated": "2020-01-27"
+  },
+  "tree": {
+    "branch_attrs": {
+      "mutations": {}
+    },
+    "children": [
+      {
+        "branch_attrs": {
+          "labels": {
+            "aa": "E: I12V; S: R89Q; replicase_polyprotein_1a: S413Y, S778F, D1279G, V1748M, V3454M; replicase_polyprotein_1b: S906N, I2257V"
+          },
+          "mutations": {
+            "E": [
+              "I12V"
+            ],
+            "S": [
+              "R89Q"
+            ],
+            "nuc": [
+              "C1530A",
+              "C2625T",
+              "A2965G",
+              "A4128G",
+              "G5534A",
+              "C5954T",
+              "C6502T",
+              "T7756C",
+              "C8764T",
+              "T9493C",
+              "C9592T",
+              "T9799G",
+              "T10162A",
+              "G10652A",
+              "T11413C",
+              "A11575G",
+              "G11800A",
+              "G12388A",
+              "G14496T",
+              "T15090C",
+              "G15236A",
+              "C16734T",
+              "C17712T",
+              "C17868T",
+              "C18390T",
+              "C19242A",
+              "A19288G",
+              "G20835A",
+              "C21196T",
+              "T22840G",
+              "T22876C",
+              "T23143C",
+              "G23890T",
+              "C24718T",
+              "A24783G",
+              "C25102T",
+              "A26657G",
+              "C26849A"
+            ],
+            "replicase_polyprotein_1a": [
+              "S413Y",
+              "S778F",
+              "D1279G",
+              "V1748M",
+              "V3454M"
+            ],
+            "replicase_polyprotein_1b": [
+              "S906N",
+              "I2257V"
+            ]
+          }
+        },
+        "name": "229E/human/USA/933-50/1993__KF514430",
+        "node_attrs": {
+          "accession": "KF514430",
+          "author": {
+            "author": "Town,C.D., Halpin,R.A., Ransier,A., Fedorova,N., Tsitrin,T., Stockwell,T., Amedeo,P., Appalla,L., Bishop,B., Edworthy,P., Gupta,N., Hoover,J., Katzel,D., Schobel,S., Shrivastava,S., Thovarai,V., Wang,S., Talbot,H.K., Wentworth,D.E. and Williams,J.V.",
+            "title": "Direct Submission",
+            "value": "Town,C.D., Halpin,R.A., Ransier,A., Fedorova,N., Tsitrin,T., Stockwell,T., Amedeo,P., Appalla,L., Bishop,B., Edworthy,P., Gupta,N., Hoover,J., Katzel,D., Schobel,S., Shrivastava,S., Thovarai,V., Wang,S., Talbot,H.K., Wentworth,D.E. and Williams,J.V."
+          },
+          "country": {
+            "value": "USA"
+          },
+          "div": 0.001000402679342852,
+          "host": {
+            "value": "Human"
+          },
+          "num_date": {
+            "confidence": [
+              1993.2108145106092,
+              1993.2108145106092
+            ],
+            "value": 1993.2108145106092
+          },
+          "region": {
+            "value": "north_america"
+          },
+          "url": "https://www.ncbi.nlm.nih.gov/nuccore/KF514430",
+          "virus": {
+            "value": "Human coronavirus 229E"
+          }
+        }
+      },
+      {
+        "branch_attrs": {
+          "mutations": {}
+        },
+        "children": [
+          {
+            "branch_attrs": {
+              "labels": {
+                "aa": "S: N411T; replicase_polyprotein_1a: W399R, G3658S, G3858C, A3958V; replicase_polyprotein_1b: M1813I"
+              },
+              "mutations": {
+                "S": [
+                  "N411T"
+                ],
+                "nuc": [
+                  "T1487C",
+                  "C9922T",
+                  "C10513T",
+                  "T11065C",
+                  "G11264A",
+                  "G11864T",
+                  "C12165T",
+                  "C13866T",
+                  "T14397C",
+                  "T15375C",
+                  "T17397C",
+                  "G17958T",
+                  "C18327T",
+                  "C19953T",
+                  "G21445A",
+                  "A21801C",
+                  "C22474T",
+                  "C23521T",
+                  "T27156C"
+                ],
+                "replicase_polyprotein_1a": [
+                  "W399R",
+                  "G3658S",
+                  "G3858C",
+                  "A3958V"
+                ],
+                "replicase_polyprotein_1b": [
+                  "M1813I"
+                ]
+              }
+            },
+            "name": "229E/human/USA/932-72/1993__KF514432",
+            "node_attrs": {
+              "accession": "KF514432",
+              "author": {
+                "author": "Town,C.D., Halpin,R.A., Ransier,A., Fedorova,N., Tsitrin,T., Stockwell,T., Amedeo,P., Appalla,L., Bishop,B., Edworthy,P., Gupta,N., Hoover,J., Katzel,D., Schobel,S., Shrivastava,S., Thovarai,V., Wang,S., Talbot,H.K., Wentworth,D.E. and Williams,J.V.",
+                "title": "Direct Submission",
+                "value": "Town,C.D., Halpin,R.A., Ransier,A., Fedorova,N., Tsitrin,T., Stockwell,T., Amedeo,P., Appalla,L., Bishop,B., Edworthy,P., Gupta,N., Hoover,J., Katzel,D., Schobel,S., Shrivastava,S., Thovarai,V., Wang,S., Talbot,H.K., Wentworth,D.E. and Williams,J.V."
+              },
+              "country": {
+                "value": "USA"
+              },
+              "div": 0.0010851303210940204,
+              "host": {
+                "value": "Human"
+              },
+              "num_date": {
+                "confidence": [
+                  1993.145106091718,
+                  1993.145106091718
+                ],
+                "value": 1993.145106091718
+              },
+              "region": {
+                "value": "north_america"
+              },
+              "url": "https://www.ncbi.nlm.nih.gov/nuccore/KF514432",
+              "virus": {
+                "value": "Human coronavirus 229E"
+              }
+            }
+          },
+          {
+            "branch_attrs": {
+              "labels": {
+                "aa": "S: T210S; replicase_polyprotein_1a: T1261I, E2356D; replicase_polyprotein_1b: E126G, I834V"
+              },
+              "mutations": {
+                "S": [
+                  "T210S"
+                ],
+                "nuc": [
+                  "C4074T",
+                  "C6310T",
+                  "C6820T",
+                  "G7360T",
+                  "T10918C",
+                  "A12896G",
+                  "A15019G",
+                  "C19299T",
+                  "A20677G",
+                  "A21197T",
+                  "T23845C",
+                  "C25285T"
+                ],
+                "replicase_polyprotein_1a": [
+                  "T1261I",
+                  "E2356D"
+                ],
+                "replicase_polyprotein_1b": [
+                  "E126G",
+                  "I834V"
+                ]
+              }
+            },
+            "children": [
+              {
+                "branch_attrs": {
+                  "labels": {
+                    "aa": "N: G18S; replicase_polyprotein_1a: M129I, T628I, E943D, E1265K, E2650K; replicase_polyprotein_1b: S2104C"
+                  },
+                  "mutations": {
+                    "N": [
+                      "G18S"
+                    ],
+                    "nuc": [
+                      "G679A",
+                      "C2175T",
+                      "T2779C",
+                      "A3121C",
+                      "G4085A",
+                      "T6031G",
+                      "G8240A",
+                      "T12391C",
+                      "T17931C",
+                      "A18829T",
+                      "T21997C",
+                      "C24001T",
+                      "G25737A"
+                    ],
+                    "replicase_polyprotein_1a": [
+                      "M129I",
+                      "T628I",
+                      "E943D",
+                      "E1265K",
+                      "E2650K"
+                    ],
+                    "replicase_polyprotein_1b": [
+                      "S2104C"
+                    ]
+                  }
+                },
+                "name": "229E/human/USA/933-40/1993__KF514433",
+                "node_attrs": {
+                  "accession": "KF514433",
+                  "author": {
+                    "author": "Town,C.D., Halpin,R.A., Ransier,A., Fedorova,N., Tsitrin,T., Stockwell,T., Amedeo,P., Appalla,L., Bishop,B., Edworthy,P., Gupta,N., Hoover,J., Katzel,D., Schobel,S., Shrivastava,S., Thovarai,V., Wang,S., Talbot,H.K., Wentworth,D.E. and Williams,J.V.",
+                    "title": "Direct Submission",
+                    "value": "Town,C.D., Halpin,R.A., Ransier,A., Fedorova,N., Tsitrin,T., Stockwell,T., Amedeo,P., Appalla,L., Bishop,B., Edworthy,P., Gupta,N., Hoover,J., Katzel,D., Schobel,S., Shrivastava,S., Thovarai,V., Wang,S., Talbot,H.K., Wentworth,D.E. and Williams,J.V."
+                  },
+                  "country": {
+                    "value": "USA"
+                  },
+                  "div": 0.0013044661887416996,
+                  "host": {
+                    "value": "Human"
+                  },
+                  "num_date": {
+                    "confidence": [
+                      1993.1916495550993,
+                      1993.1916495550993
+                    ],
+                    "value": 1993.1916495550993
+                  },
+                  "region": {
+                    "value": "north_america"
+                  },
+                  "url": "https://www.ncbi.nlm.nih.gov/nuccore/KF514433",
+                  "virus": {
+                    "value": "Human coronavirus 229E"
+                  }
+                }
+              },
+              {
+                "branch_attrs": {
+                  "labels": {
+                    "aa": "S: D51N, E225A, K309E, S312R, V314P, A355V; replicase_polyprotein_1a: A468T, M600I, D774N, D1279G, I1930V; replicase_polyprotein_1b: P2221H"
+                  },
+                  "mutations": {
+                    "S": [
+                      "D51N",
+                      "E225A",
+                      "K309E",
+                      "S312R",
+                      "V314P",
+                      "A355V"
+                    ],
+                    "nuc": [
+                      "T829C",
+                      "T1120G",
+                      "G1694A",
+                      "G2092T",
+                      "G2612A",
+                      "A4128G",
+                      "A6080G",
+                      "C7813T",
+                      "T8708C",
+                      "T9382C",
+                      "A9553G",
+                      "G10216T",
+                      "C11005T",
+                      "A11575G",
+                      "C11995T",
+                      "T13014C",
+                      "C13140T",
+                      "C14118T",
+                      "G17865A",
+                      "G18513A",
+                      "C19181A",
+                      "C19980T",
+                      "G20720A",
+                      "A21241T",
+                      "A21243C",
+                      "C21337T",
+                      "A21494G",
+                      "A21503C",
+                      "G21509C",
+                      "T21510C",
+                      "T21583C",
+                      "C21633T",
+                      "A21856G",
+                      "C22300T",
+                      "C22714T",
+                      "A22801T",
+                      "G23890T",
+                      "T23998C",
+                      "T24550C",
+                      "T25237C",
+                      "C25279T",
+                      "C25985T",
+                      "G26150T"
+                    ],
+                    "replicase_polyprotein_1a": [
+                      "A468T",
+                      "M600I",
+                      "D774N",
+                      "D1279G",
+                      "I1930V"
+                    ],
+                    "replicase_polyprotein_1b": [
+                      "P2221H"
+                    ]
+                  }
+                },
+                "children": [
+                  {
+                    "branch_attrs": {
+                      "labels": {
+                        "aa": "N: D90A, A220S; S: V70F, F90L, S268A; replicase_polyprotein_1a: T247N, Y558H, I636V, E869D, S1352N, P2156T, A2373D, F2764L, F2977L, I3808T; replicase_polyprotein_1b: A464S, I1394T"
+                      },
+                      "mutations": {
+                        "N": [
+                          "D90A",
+                          "A220S"
+                        ],
+                        "S": [
+                          "V70F",
+                          "F90L",
+                          "S268A"
+                        ],
+                        "nuc": [
+                          "T87C",
+                          "G772A",
+                          "C1032A",
+                          "C1945T",
+                          "T1964C",
+                          "C2194T",
+                          "A2198G",
+                          "G2899T",
+                          "C3346T",
+                          "A3631G",
+                          "A3637G",
+                          "C3775T",
+                          "G4347A",
+                          "T4615A",
+                          "T4993C",
+                          "C6758A",
+                          "T7186C",
+                          "C7410A",
+                          "T7699C",
+                          "T8582C",
+                          "T8599C",
+                          "C8758T",
+                          "T9221C",
+                          "T9481C",
+                          "T9718C",
+                          "T10030C",
+                          "C10967T",
+                          "C11059T",
+                          "C11707T",
+                          "T11715C",
+                          "C11767T",
+                          "C12076T",
+                          "C12097T",
+                          "T12214C",
+                          "T12355G",
+                          "G12681T",
+                          "C13176T",
+                          "G13909T",
+                          "T14271C",
+                          "C14805T",
+                          "T14844C",
+                          "C15591T",
+                          "C15723T",
+                          "T16700C",
+                          "T16941C",
+                          "C17076T",
+                          "C18276T",
+                          "A19023G",
+                          "G19932T",
+                          "C20430T",
+                          "G20777T",
+                          "T20837C",
+                          "T21371G",
+                          "T21976C",
+                          "C22423T",
+                          "C22474T",
+                          "C22663T",
+                          "C22729T",
+                          "T22888C",
+                          "C23234T",
+                          "T23902C",
+                          "C24001T",
+                          "C24223T",
+                          "C24346T",
+                          "C24435T",
+                          "A25817G",
+                          "A25954C",
+                          "G26343T",
+                          "C26768T",
+                          "T26923C",
+                          "G27018A"
+                        ],
+                        "replicase_polyprotein_1a": [
+                          "T247N",
+                          "Y558H",
+                          "I636V",
+                          "E869D",
+                          "S1352N",
+                          "P2156T",
+                          "A2373D",
+                          "F2764L",
+                          "F2977L",
+                          "I3808T"
+                        ],
+                        "replicase_polyprotein_1b": [
+                          "A464S",
+                          "I1394T"
+                        ]
+                      }
+                    },
+                    "name": "J0304__JX503061",
+                    "node_attrs": {
+                      "accession": "JX503061",
+                      "author": {
+                        "author": "Farsani,S.M., Dijkman,R., Jebbink,M.F., Goossens,H., Ieven,M., Deijs,M., Molenkamp,R. and van der Hoek,L.",
+                        "title": "The first complete genome sequences of clinical isolates of human coronavirus 229E",
+                        "value": "Farsani,S.M., Dijkman,R., Jebbink,M.F., Goossens,H., Ieven,M., Deijs,M., Molenkamp,R. and van der Hoek,L."
+                      },
+                      "country": {
+                        "value": "Italy"
+                      },
+                      "div": 0.005004738791775346,
+                      "host": {
+                        "value": "Human"
+                      },
+                      "num_date": {
+                        "confidence": [
+                          2009.002737850787,
+                          2009.9993155373031
+                        ],
+                        "value": 2009.49481391134
+                      },
+                      "region": {
+                        "value": "europe"
+                      },
+                      "url": "https://www.ncbi.nlm.nih.gov/nuccore/JX503061",
+                      "virus": {
+                        "value": "Human coronavirus 229E"
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {
+                      "labels": {
+                        "aa": "replicase_polyprotein_1a: F554S, L2134F, Y2517H, S3951A; replicase_polyprotein_1b: T1770N"
+                      },
+                      "mutations": {
+                        "nuc": [
+                          "G107A",
+                          "C170T",
+                          "T1953C",
+                          "T2770C",
+                          "C5437T",
+                          "C6692T",
+                          "T7841C",
+                          "T8254G",
+                          "C8653T",
+                          "T9043C",
+                          "C9697T",
+                          "C10141T",
+                          "T12143G",
+                          "C12526A",
+                          "C14391T",
+                          "G15345T",
+                          "T16329C",
+                          "A17490T",
+                          "C17828A",
+                          "G18948A",
+                          "C21172T",
+                          "C24568T",
+                          "C24926T"
+                        ],
+                        "replicase_polyprotein_1a": [
+                          "F554S",
+                          "L2134F",
+                          "Y2517H",
+                          "S3951A"
+                        ],
+                        "replicase_polyprotein_1b": [
+                          "T1770N"
+                        ]
+                      }
+                    },
+                    "children": [
+                      {
+                        "branch_attrs": {
+                          "labels": {
+                            "aa": "N: D196E; S: F90L, I290T, T1090I; replicase_polyprotein_1a: L451F, M1101I, T1571N, D1784E, I2599V, V3743I; replicase_polyprotein_1b: S298A, A768S"
+                          },
+                          "mutations": {
+                            "N": [
+                              "D196E"
+                            ],
+                            "S": [
+                              "F90L",
+                              "I290T",
+                              "T1090I"
+                            ],
+                            "nuc": [
+                              "A279G",
+                              "C1330T",
+                              "C1621T",
+                              "C1643T",
+                              "A3376G",
+                              "T3499C",
+                              "G3595A",
+                              "C4117T",
+                              "C4675T",
+                              "C5004A",
+                              "T5644A",
+                              "C7993T",
+                              "A8087G",
+                              "T8249C",
+                              "C8467T",
+                              "C9031T",
+                              "C9922T",
+                              "A9967G",
+                              "G11519A",
+                              "C12352T",
+                              "T13122C",
+                              "T13411G",
+                              "T13740C",
+                              "C13866T",
+                              "T14100G",
+                              "G14821T",
+                              "A15309G",
+                              "A15720G",
+                              "T17583C",
+                              "T18342C",
+                              "C18384T",
+                              "C18504A",
+                              "T18549C",
+                              "C18603T",
+                              "C18645T",
+                              "T18831C",
+                              "T19353C",
+                              "T20837C",
+                              "T21438C",
+                              "C21493T",
+                              "T22117A",
+                              "T22567C",
+                              "T22660C",
+                              "T22739C",
+                              "C23838T",
+                              "C24079T",
+                              "C24745T",
+                              "C26273G",
+                              "C26669T"
+                            ],
+                            "replicase_polyprotein_1a": [
+                              "L451F",
+                              "M1101I",
+                              "T1571N",
+                              "D1784E",
+                              "I2599V",
+                              "V3743I"
+                            ],
+                            "replicase_polyprotein_1b": [
+                              "S298A",
+                              "A768S"
+                            ]
+                          }
+                        },
+                        "name": "N08-434B__KY674919",
+                        "node_attrs": {
+                          "accession": "KY674919",
+                          "author": {
+                            "author": "Greninger,A.L., Makhsous,N., Kuypers,J., Shean,R.C. and Jerome,K.R.",
+                            "title": "Genome sequences of viral positives at UW Virology",
+                            "value": "Greninger,A.L., Makhsous,N., Kuypers,J., Shean,R.C. and Jerome,K.R."
+                          },
+                          "country": {
+                            "value": "USA"
+                          },
+                          "div": 0.005003208734458038,
+                          "host": {
+                            "value": "Human"
+                          },
+                          "num_date": {
+                            "confidence": [
+                              2016.002737850787,
+                              2016.6560816021315
+                            ],
+                            "value": 2016.002737850787
+                          },
+                          "region": {
+                            "value": "north_america"
+                          },
+                          "url": "https://www.ncbi.nlm.nih.gov/nuccore/KY674919",
+                          "virus": {
+                            "value": "Human coronavirus 229E"
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {
+                          "labels": {
+                            "aa": "N: G159S; S: M22T, F357L, A405V, L407H, N408K, R971I; replicase_polyprotein_1a: A1282V, S1713L, A1767V, K2019E"
+                          },
+                          "mutations": {
+                            "N": [
+                              "G159S"
+                            ],
+                            "S": [
+                              "M22T",
+                              "F357L",
+                              "A405V",
+                              "L407H",
+                              "N408K",
+                              "R971I"
+                            ],
+                            "nuc": [
+                              "A2452C",
+                              "T2512G",
+                              "C4137T",
+                              "T4162C",
+                              "T4432C",
+                              "G4564A",
+                              "C5430T",
+                              "C5592T",
+                              "A6347G",
+                              "C6535T",
+                              "G8665T",
+                              "C18531T",
+                              "T20634C",
+                              "T21638C",
+                              "C21783T",
+                              "T21789A",
+                              "T21793A",
+                              "G23481T",
+                              "G23914T",
+                              "T24378G",
+                              "T25751C",
+                              "C25946T",
+                              "G26160A",
+                              "T26315C",
+                              "C26862T"
+                            ],
+                            "replicase_polyprotein_1a": [
+                              "A1282V",
+                              "S1713L",
+                              "A1767V",
+                              "K2019E"
+                            ]
+                          }
+                        },
+                        "children": [
+                          {
+                            "branch_attrs": {
+                              "labels": {
+                                "aa": "S: G175D; replicase_polyprotein_1b: A24V, K123R"
+                              },
+                              "mutations": {
+                                "S": [
+                                  "G175D"
+                                ],
+                                "nuc": [
+                                  "T1A",
+                                  "C12590T",
+                                  "A12887G",
+                                  "T13887G",
+                                  "C14965T",
+                                  "T16392C",
+                                  "G17229T",
+                                  "C20526T",
+                                  "G21093A",
+                                  "T21238C",
+                                  "T21391C",
+                                  "C21446T",
+                                  "T21487C",
+                                  "C21952T",
+                                  "G24153T",
+                                  "C26760T"
+                                ],
+                                "replicase_polyprotein_1b": [
+                                  "A24V",
+                                  "K123R"
+                                ]
+                              }
+                            },
+                            "children": [
+                              {
+                                "branch_attrs": {
+                                  "labels": {
+                                    "aa": "replicase_polyprotein_1a: S686G, G763C, I3808T"
+                                  },
+                                  "mutations": {
+                                    "nuc": [
+                                      "A2348G",
+                                      "G2579T",
+                                      "T11545A",
+                                      "T11715C"
+                                    ],
+                                    "replicase_polyprotein_1a": [
+                                      "S686G",
+                                      "G763C",
+                                      "I3808T"
+                                    ]
+                                  }
+                                },
+                                "name": "0349__JX503060",
+                                "node_attrs": {
+                                  "accession": "JX503060",
+                                  "author": {
+                                    "author": "Farsani,S.M., Dijkman,R., Jebbink,M.F., Goossens,H., Ieven,M., Deijs,M., Molenkamp,R. and van der Hoek,L.",
+                                    "title": "The first complete genome sequences of clinical isolates of human coronavirus 229E",
+                                    "value": "Farsani,S.M., Dijkman,R., Jebbink,M.F., Goossens,H., Ieven,M., Deijs,M., Molenkamp,R. and van der Hoek,L."
+                                  },
+                                  "country": {
+                                    "value": "Netherlands"
+                                  },
+                                  "div": 0.005220836404572834,
+                                  "host": {
+                                    "value": "Human"
+                                  },
+                                  "num_date": {
+                                    "confidence": [
+                                      2010.4986257607775,
+                                      2010.9993155373031
+                                    ],
+                                    "value": 2010.9993155373031
+                                  },
+                                  "region": {
+                                    "value": "europe"
+                                  },
+                                  "url": "https://www.ncbi.nlm.nih.gov/nuccore/JX503060",
+                                  "virus": {
+                                    "value": "Human coronavirus 229E"
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {
+                                  "labels": {
+                                    "aa": "N: I46V; S: N213D; replicase_polyprotein_1a: S992F, V1451L"
+                                  },
+                                  "mutations": {
+                                    "N": [
+                                      "I46V"
+                                    ],
+                                    "S": [
+                                      "N213D"
+                                    ],
+                                    "nuc": [
+                                      "C1123T",
+                                      "G2389A",
+                                      "A3190G",
+                                      "C3267T",
+                                      "G4643T",
+                                      "T6901C",
+                                      "C17916T",
+                                      "A21206G",
+                                      "A25821G",
+                                      "C25913A"
+                                    ],
+                                    "replicase_polyprotein_1a": [
+                                      "S992F",
+                                      "V1451L"
+                                    ]
+                                  }
+                                },
+                                "name": "229E/UF-1/2016__KY996417",
+                                "node_attrs": {
+                                  "accession": "KY996417",
+                                  "author": {
+                                    "author": "Bonny,T.S., Yezli,S. and Lednicky,J.A.",
+                                    "title": "Isolation and identification of human coronavirus 229E from frequently touched environmental surfaces of a university classroom that is cleaned daily",
+                                    "value": "Bonny,T.S., Yezli,S. and Lednicky,J.A."
+                                  },
+                                  "country": {
+                                    "value": "USA"
+                                  },
+                                  "div": 0.005074505471818463,
+                                  "num_date": {
+                                    "confidence": [
+                                      2016.8980150581792,
+                                      2016.8980150581792
+                                    ],
+                                    "value": 2016.8980150581792
+                                  },
+                                  "region": {
+                                    "value": "north_america"
+                                  },
+                                  "url": "https://www.ncbi.nlm.nih.gov/nuccore/KY996417",
+                                  "virus": {
+                                    "value": "Human coronavirus 229E"
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000000",
+                            "node_attrs": {
+                              "div": 0.004891634882587971,
+                              "num_date": {
+                                "confidence": [
+                                  2009.9914547321891,
+                                  2010.7885855391705
+                                ],
+                                "value": 2010.446166555009
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {
+                              "labels": {
+                                "aa": "N: I46V, V140A; S: R89Q, D104A, N213D, S283P, L310H, R316K, V325I, G352D, D358A; replicase_polyprotein_1a: S992F; replicase_polyprotein_1b: Q898H"
+                              },
+                              "mutations": {
+                                "N": [
+                                  "I46V",
+                                  "V140A"
+                                ],
+                                "S": [
+                                  "R89Q",
+                                  "D104A",
+                                  "N213D",
+                                  "S283P",
+                                  "L310H",
+                                  "R316K",
+                                  "V325I",
+                                  "G352D",
+                                  "D358A"
+                                ],
+                                "nuc": [
+                                  "G2389A",
+                                  "A3190G",
+                                  "C3267T",
+                                  "T4885C",
+                                  "T6901C",
+                                  "C7849A",
+                                  "G9229A",
+                                  "C12367T",
+                                  "T13650C",
+                                  "C14082T",
+                                  "A14185C",
+                                  "T14346C",
+                                  "G15213T",
+                                  "C15588T",
+                                  "C15771T",
+                                  "C17916T",
+                                  "G18195A",
+                                  "T18678C",
+                                  "T19075C",
+                                  "C20046T",
+                                  "G20160A",
+                                  "G20835A",
+                                  "G20872C",
+                                  "A20880C",
+                                  "A21206G",
+                                  "T21368C",
+                                  "T21416C",
+                                  "T21498A",
+                                  "G21516A",
+                                  "G21542A",
+                                  "G21624A",
+                                  "A21642C",
+                                  "T23426C",
+                                  "C23740T",
+                                  "A25821G",
+                                  "T26104C"
+                                ],
+                                "replicase_polyprotein_1a": [
+                                  "S992F"
+                                ],
+                                "replicase_polyprotein_1b": [
+                                  "Q898H"
+                                ]
+                              }
+                            },
+                            "children": [
+                              {
+                                "branch_attrs": {
+                                  "labels": {
+                                    "aa": "E: L17I; S: H407S, S586F, K792R; replicase_polyprotein_1b: V694I"
+                                  },
+                                  "mutations": {
+                                    "E": [
+                                      "L17I"
+                                    ],
+                                    "S": [
+                                      "H407S",
+                                      "S586F",
+                                      "K792R"
+                                    ],
+                                    "nuc": [
+                                      "T1138A",
+                                      "T4864C",
+                                      "C6424T",
+                                      "T7588C",
+                                      "T7792A",
+                                      "T9253C",
+                                      "T11545C",
+                                      "C12097T",
+                                      "C12157T",
+                                      "A13011G",
+                                      "T14058C",
+                                      "G14599A",
+                                      "T16485C",
+                                      "C16605T",
+                                      "T18825C",
+                                      "C19005T",
+                                      "C19116T",
+                                      "T21700C",
+                                      "C21788T",
+                                      "A21789C",
+                                      "T22216G",
+                                      "C22326T",
+                                      "T22447C",
+                                      "C22609T",
+                                      "A22944G",
+                                      "C24798A",
+                                      "C25913A",
+                                      "C26639T",
+                                      "C26852T",
+                                      "C27010T",
+                                      "T27025C"
+                                    ],
+                                    "replicase_polyprotein_1b": [
+                                      "V694I"
+                                    ]
+                                  }
+                                },
+                                "name": "HCoV-229E/BN1/GER/2015__KU291448",
+                                "node_attrs": {
+                                  "accession": "KU291448",
+                                  "author": {
+                                    "author": "Corman,V.M., Eckerle,I., Memish,Z.A., Liljander,A.M., Dijkman,R., Jonsdottir,H., Juma Ngeiywa,K.J., Kamau,E., Younan,M., Al Masri,M., Assiri,A., Gluecks,I., Musa,B.E., Meyer,B., Muller,M.A., Hilali,M., Bornstein,S., Wernery,U., Thiel,V., Jores,J., Drexler,J.F. and Drosten,C.",
+                                    "title": "Link of a ubiquitous human coronavirus to dromedary camels",
+                                    "value": "Corman,V.M., Eckerle,I., Memish,Z.A., Liljander,A.M., Dijkman,R., Jonsdottir,H., Juma Ngeiywa,K.J., Kamau,E., Younan,M., Al Masri,M., Assiri,A., Gluecks,I., Musa,B.E., Meyer,B., Muller,M.A., Hilali,M., Bornstein,S., Wernery,U., Thiel,V., Jores,J., Drexler,J.F. and Drosten,C."
+                                  },
+                                  "country": {
+                                    "value": "Germany"
+                                  },
+                                  "div": 0.006648916597666768,
+                                  "host": {
+                                    "value": "Human"
+                                  },
+                                  "num_date": {
+                                    "confidence": [
+                                      2015.002737850787,
+                                      2015.755584190697
+                                    ],
+                                    "value": 2015.002737850787
+                                  },
+                                  "region": {
+                                    "value": "europe"
+                                  },
+                                  "url": "https://www.ncbi.nlm.nih.gov/nuccore/KU291448",
+                                  "virus": {
+                                    "value": "Human coronavirus 229E"
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {
+                                  "labels": {
+                                    "aa": "S: A53S, Y305H, N307K, R311Q, A323S, R1154K"
+                                  },
+                                  "mutations": {
+                                    "S": [
+                                      "A53S",
+                                      "Y305H",
+                                      "N307K",
+                                      "R311Q",
+                                      "A323S",
+                                      "R1154K"
+                                    ],
+                                    "nuc": [
+                                      "G20726T",
+                                      "C21425T",
+                                      "T21482C",
+                                      "C21490A",
+                                      "G21501A",
+                                      "G21536T",
+                                      "T21742C",
+                                      "G24030A",
+                                      "T25175C",
+                                      "C25301A"
+                                    ]
+                                  }
+                                },
+                                "children": [
+                                  {
+                                    "branch_attrs": {
+                                      "labels": {
+                                        "aa": "N: G161V; S: T227I, V288M; replicase_polyprotein_1a: N112S, R151H, V1441F, V2009I, V3264I"
+                                      },
+                                      "mutations": {
+                                        "N": [
+                                          "G161V"
+                                        ],
+                                        "S": [
+                                          "T227I",
+                                          "V288M"
+                                        ],
+                                        "nuc": [
+                                          "A627G",
+                                          "G744A",
+                                          "T745C",
+                                          "C4489T",
+                                          "G4613T",
+                                          "A4960C",
+                                          "G6317A",
+                                          "C7379T",
+                                          "T9253C",
+                                          "G10082A",
+                                          "C11329T",
+                                          "C12097T",
+                                          "C12157T",
+                                          "T15375C",
+                                          "C16605T",
+                                          "G17340T",
+                                          "T18318C",
+                                          "T20725C",
+                                          "G20782T",
+                                          "C21249T",
+                                          "G21431A",
+                                          "T25925C",
+                                          "G26167T"
+                                        ],
+                                        "replicase_polyprotein_1a": [
+                                          "N112S",
+                                          "R151H",
+                                          "V1441F",
+                                          "V2009I",
+                                          "V3264I"
+                                        ]
+                                      }
+                                    },
+                                    "children": [
+                                      {
+                                        "branch_attrs": {
+                                          "labels": {
+                                            "aa": "N: A147V; S: T602K; replicase_polyprotein_1a: A1000V, V1814I; replicase_polyprotein_1b: A1244S"
+                                          },
+                                          "mutations": {
+                                            "N": [
+                                              "A147V"
+                                            ],
+                                            "S": [
+                                              "T602K"
+                                            ],
+                                            "nuc": [
+                                              "A1831G",
+                                              "C2452T",
+                                              "C3291T",
+                                              "T5246C",
+                                              "G5732A",
+                                              "C6802T",
+                                              "C9301T",
+                                              "C10408A",
+                                              "C13134T",
+                                              "C13572T",
+                                              "G16249T",
+                                              "C22138A",
+                                              "C22374A",
+                                              "C26125T"
+                                            ],
+                                            "replicase_polyprotein_1a": [
+                                              "A1000V",
+                                              "V1814I"
+                                            ],
+                                            "replicase_polyprotein_1b": [
+                                              "A1244S"
+                                            ]
+                                          }
+                                        },
+                                        "name": "SC1073__KY369913",
+                                        "node_attrs": {
+                                          "accession": "KY369913",
+                                          "author": {
+                                            "author": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R.",
+                                            "title": "Direct Submission",
+                                            "value": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R. A"
+                                          },
+                                          "country": {
+                                            "value": "USA"
+                                          },
+                                          "div": 0.007233607701543944,
+                                          "host": {
+                                            "value": "Human"
+                                          },
+                                          "num_date": {
+                                            "confidence": [
+                                              2016.002737850787,
+                                              2016.7853024980927
+                                            ],
+                                            "value": 2016.002737850787
+                                          },
+                                          "region": {
+                                            "value": "north_america"
+                                          },
+                                          "url": "https://www.ncbi.nlm.nih.gov/nuccore/KY369913",
+                                          "virus": {
+                                            "value": "Human coronavirus 229E"
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {
+                                          "labels": {
+                                            "aa": "4a: D120Y; N: S232A; S: R102S, Y900H, I971T; replicase_polyprotein_1a: V1451L, I1691V; replicase_polyprotein_1b: S1736N"
+                                          },
+                                          "mutations": {
+                                            "4a": [
+                                              "D120Y"
+                                            ],
+                                            "N": [
+                                              "S232A"
+                                            ],
+                                            "S": [
+                                              "R102S",
+                                              "Y900H",
+                                              "I971T"
+                                            ],
+                                            "nuc": [
+                                              "C145T",
+                                              "T3718C",
+                                              "G4643T",
+                                              "A5363G",
+                                              "T8740C",
+                                              "C9151T",
+                                              "G17726A",
+                                              "T17763C",
+                                              "G19659A",
+                                              "A20875C",
+                                              "C23036T",
+                                              "T23267C",
+                                              "T23481C",
+                                              "G24448T",
+                                              "C25516T",
+                                              "C25624T",
+                                              "C25627T",
+                                              "G26189T",
+                                              "T26379G"
+                                            ],
+                                            "replicase_polyprotein_1a": [
+                                              "V1451L",
+                                              "I1691V"
+                                            ],
+                                            "replicase_polyprotein_1b": [
+                                              "S1736N"
+                                            ]
+                                          }
+                                        },
+                                        "children": [
+                                          {
+                                            "branch_attrs": {
+                                              "mutations": {}
+                                            },
+                                            "name": "SC677__KY369909",
+                                            "node_attrs": {
+                                              "accession": "KY369909",
+                                              "author": {
+                                                "author": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R.",
+                                                "title": "Direct Submission",
+                                                "value": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R. A"
+                                              },
+                                              "country": {
+                                                "value": "USA"
+                                              },
+                                              "div": 0.0074164824381823405,
+                                              "host": {
+                                                "value": "Human"
+                                              },
+                                              "num_date": {
+                                                "confidence": [
+                                                  2016.002737850787,
+                                                  2017.0020533880904
+                                                ],
+                                                "value": 2016.0220769066973
+                                              },
+                                              "region": {
+                                                "value": "north_america"
+                                              },
+                                              "url": "https://www.ncbi.nlm.nih.gov/nuccore/KY369909",
+                                              "virus": {
+                                                "value": "Human coronavirus 229E"
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {
+                                              "mutations": {}
+                                            },
+                                            "name": "SC379__KY621348",
+                                            "node_attrs": {
+                                              "accession": "KY621348",
+                                              "author": {
+                                                "author": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R.",
+                                                "title": "Genome sequences of viral positives at UW Virology",
+                                                "value": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R. B"
+                                              },
+                                              "country": {
+                                                "value": "USA"
+                                              },
+                                              "div": 0.0074164824381823405,
+                                              "host": {
+                                                "value": "Human"
+                                              },
+                                              "num_date": {
+                                                "confidence": [
+                                                  2016.002737850787,
+                                                  2017.0020533880904
+                                                ],
+                                                "value": 2016.0220769066973
+                                              },
+                                              "region": {
+                                                "value": "north_america"
+                                              },
+                                              "url": "https://www.ncbi.nlm.nih.gov/nuccore/KY621348",
+                                              "virus": {
+                                                "value": "Human coronavirus 229E"
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {
+                                              "mutations": {}
+                                            },
+                                            "name": "SC399__KY674914",
+                                            "node_attrs": {
+                                              "accession": "KY674914",
+                                              "author": {
+                                                "author": "Greninger,A.L., Makhsous,N., Kuypers,J., Shean,R.C. and Jerome,K.R.",
+                                                "title": "Genome sequences of viral positives at UW Virology",
+                                                "value": "Greninger,A.L., Makhsous,N., Kuypers,J., Shean,R.C. and Jerome,K.R."
+                                              },
+                                              "country": {
+                                                "value": "USA"
+                                              },
+                                              "div": 0.0074164824381823405,
+                                              "host": {
+                                                "value": "Human"
+                                              },
+                                              "num_date": {
+                                                "confidence": [
+                                                  2016.002737850787,
+                                                  2017.0020533880904
+                                                ],
+                                                "value": 2016.0220769066973
+                                              },
+                                              "region": {
+                                                "value": "north_america"
+                                              },
+                                              "url": "https://www.ncbi.nlm.nih.gov/nuccore/KY674914",
+                                              "virus": {
+                                                "value": "Human coronavirus 229E"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000009",
+                                        "node_attrs": {
+                                          "div": 0.007416482438182339,
+                                          "num_date": {
+                                            "confidence": [
+                                              2015.8772583980417,
+                                              2016.6196651169764
+                                            ],
+                                            "value": 2015.9997704722794
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000008",
+                                    "node_attrs": {
+                                      "div": 0.006721477027721795,
+                                      "num_date": {
+                                        "confidence": [
+                                          2013.4775392763515,
+                                          2014.6610991053974
+                                        ],
+                                        "value": 2014.2019760588755
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {
+                                      "labels": {
+                                        "aa": "replicase_polyprotein_1a: P795T"
+                                      },
+                                      "mutations": {
+                                        "nuc": [
+                                          "C1531T",
+                                          "C2675A"
+                                        ],
+                                        "replicase_polyprotein_1a": [
+                                          "P795T"
+                                        ]
+                                      }
+                                    },
+                                    "children": [
+                                      {
+                                        "branch_attrs": {
+                                          "labels": {
+                                            "aa": "M: T169A; N: K62R, V257A; S: F90L, D213N, A248V, V288A, D453G, V739A; replicase_polyprotein_1a: L688F, T1145I, H1278Y, D1479N, T2024I, V2110G, K2693T, H3061Y; replicase_polyprotein_1b: D468E, A594S, S900F"
+                                          },
+                                          "mutations": {
+                                            "M": [
+                                              "T169A"
+                                            ],
+                                            "N": [
+                                              "K62R",
+                                              "V257A"
+                                            ],
+                                            "S": [
+                                              "F90L",
+                                              "D213N",
+                                              "A248V",
+                                              "V288A",
+                                              "D453G",
+                                              "V739A"
+                                            ],
+                                            "nuc": [
+                                              "C2A",
+                                              "T3A",
+                                              "T4A",
+                                              "T8C",
+                                              "C10A",
+                                              "A14T",
+                                              "A22G",
+                                              "C23T",
+                                              "A31T",
+                                              "T35G",
+                                              "G37A",
+                                              "T41A",
+                                              "T42A",
+                                              "T43G",
+                                              "A433G",
+                                              "G2356T",
+                                              "T3493C",
+                                              "C3726T",
+                                              "C4124T",
+                                              "G4727A",
+                                              "C6363T",
+                                              "C6502T",
+                                              "T6621G",
+                                              "A7849C",
+                                              "C7957T",
+                                              "A8370C",
+                                              "C9473T",
+                                              "C9592A",
+                                              "T9613A",
+                                              "C10714A",
+                                              "G11731A",
+                                              "T12367C",
+                                              "C13719T",
+                                              "C13866T",
+                                              "C13923A",
+                                              "G14299T",
+                                              "C14346T",
+                                              "C15153T",
+                                              "C15218T",
+                                              "A16488G",
+                                              "C16788T",
+                                              "C17013T",
+                                              "A17607G",
+                                              "T17916C",
+                                              "A18195G",
+                                              "C18570T",
+                                              "C18855T",
+                                              "T20837C",
+                                              "C20872G",
+                                              "C21037T",
+                                              "G21206A",
+                                              "C21312T",
+                                              "T21432C",
+                                              "A21927G",
+                                              "T22785C",
+                                              "C23617T",
+                                              "G24228A",
+                                              "G25270T",
+                                              "A25499G",
+                                              "A25870G",
+                                              "T26114G",
+                                              "T26123C",
+                                              "C26132T",
+                                              "T26324C",
+                                              "T26455C",
+                                              "C27230T"
+                                            ],
+                                            "replicase_polyprotein_1a": [
+                                              "L688F",
+                                              "T1145I",
+                                              "H1278Y",
+                                              "D1479N",
+                                              "T2024I",
+                                              "V2110G",
+                                              "K2693T",
+                                              "H3061Y"
+                                            ],
+                                            "replicase_polyprotein_1b": [
+                                              "D468E",
+                                              "A594S",
+                                              "S900F"
+                                            ]
+                                          }
+                                        },
+                                        "children": [
+                                          {
+                                            "branch_attrs": {
+                                              "mutations": {}
+                                            },
+                                            "name": "SC1143__KY369910",
+                                            "node_attrs": {
+                                              "accession": "KY369910",
+                                              "author": {
+                                                "author": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R.",
+                                                "title": "Direct Submission",
+                                                "value": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R. A"
+                                              },
+                                              "country": {
+                                                "value": "USA"
+                                              },
+                                              "div": 0.008373259635257358,
+                                              "host": {
+                                                "value": "Human"
+                                              },
+                                              "num_date": {
+                                                "confidence": [
+                                                  2016.002737850787,
+                                                  2017.0020533880904
+                                                ],
+                                                "value": 2016.8920988888738
+                                              },
+                                              "region": {
+                                                "value": "north_america"
+                                              },
+                                              "url": "https://www.ncbi.nlm.nih.gov/nuccore/KY369910",
+                                              "virus": {
+                                                "value": "Human coronavirus 229E"
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {
+                                              "mutations": {}
+                                            },
+                                            "name": "SC1212__KY369911",
+                                            "node_attrs": {
+                                              "accession": "KY369911",
+                                              "author": {
+                                                "author": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R.",
+                                                "title": "Direct Submission",
+                                                "value": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R. A"
+                                              },
+                                              "country": {
+                                                "value": "USA"
+                                              },
+                                              "div": 0.008373259635257358,
+                                              "host": {
+                                                "value": "Human"
+                                              },
+                                              "num_date": {
+                                                "confidence": [
+                                                  2016.002737850787,
+                                                  2017.0020533880904
+                                                ],
+                                                "value": 2016.8920988888738
+                                              },
+                                              "region": {
+                                                "value": "north_america"
+                                              },
+                                              "url": "https://www.ncbi.nlm.nih.gov/nuccore/KY369911",
+                                              "virus": {
+                                                "value": "Human coronavirus 229E"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000012",
+                                        "node_attrs": {
+                                          "div": 0.008373259635257356,
+                                          "num_date": {
+                                            "confidence": [
+                                              2016.1969622201927,
+                                              2016.9411061165779
+                                            ],
+                                            "value": 2016.802552993396
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {
+                                          "labels": {
+                                            "aa": "replicase_polyprotein_1a: F1415V, S2182L, A2722G, F3190S, T3734N"
+                                          },
+                                          "mutations": {
+                                            "nuc": [
+                                              "C1123T",
+                                              "T4535G",
+                                              "C6837T",
+                                              "C7702T",
+                                              "C8457G",
+                                              "T9861C",
+                                              "T11431A",
+                                              "C11493A",
+                                              "T13023C",
+                                              "T14778C"
+                                            ],
+                                            "replicase_polyprotein_1a": [
+                                              "F1415V",
+                                              "S2182L",
+                                              "A2722G",
+                                              "F3190S",
+                                              "T3734N"
+                                            ]
+                                          }
+                                        },
+                                        "children": [
+                                          {
+                                            "branch_attrs": {
+                                              "labels": {
+                                                "aa": "N: G161V; S: T227I, V288M; replicase_polyprotein_1a: S865A; replicase_polyprotein_1b: K959R, V1649I"
+                                              },
+                                              "mutations": {
+                                                "N": [
+                                                  "G161V"
+                                                ],
+                                                "S": [
+                                                  "T227I",
+                                                  "V288M"
+                                                ],
+                                                "nuc": [
+                                                  "T2885G",
+                                                  "C7778T",
+                                                  "A15395G",
+                                                  "C16422T",
+                                                  "G17464A",
+                                                  "C18231T",
+                                                  "C18612T",
+                                                  "T20725C",
+                                                  "G20782T",
+                                                  "C21249T",
+                                                  "G21431A",
+                                                  "T24887C",
+                                                  "T25925C",
+                                                  "G26167T"
+                                                ],
+                                                "replicase_polyprotein_1a": [
+                                                  "S865A"
+                                                ],
+                                                "replicase_polyprotein_1b": [
+                                                  "K959R",
+                                                  "V1649I"
+                                                ]
+                                              }
+                                            },
+                                            "children": [
+                                              {
+                                                "branch_attrs": {
+                                                  "labels": {
+                                                    "aa": "replicase_polyprotein_1a: G409C, T810A; replicase_polyprotein_1b: N811K"
+                                                  },
+                                                  "mutations": {
+                                                    "nuc": [
+                                                      "G1517T",
+                                                      "A2720G",
+                                                      "C8708T",
+                                                      "G9652A",
+                                                      "G11899A",
+                                                      "C13560T",
+                                                      "T14952G",
+                                                      "C17766T",
+                                                      "T18156C",
+                                                      "C18828T",
+                                                      "C22636T",
+                                                      "G25510A"
+                                                    ],
+                                                    "replicase_polyprotein_1a": [
+                                                      "G409C",
+                                                      "T810A"
+                                                    ],
+                                                    "replicase_polyprotein_1b": [
+                                                      "N811K"
+                                                    ]
+                                                  }
+                                                },
+                                                "name": "SC3112__KY983587",
+                                                "node_attrs": {
+                                                  "accession": "KY983587",
+                                                  "author": {
+                                                    "author": "Greninger,A.L., Makhsous,N., Kuypers,J., Shean,R.C. and Jerome,K.R.",
+                                                    "title": "Genome sequences of viral positives at UW Virology",
+                                                    "value": "Greninger,A.L., Makhsous,N., Kuypers,J., Shean,R.C. and Jerome,K.R."
+                                                  },
+                                                  "country": {
+                                                    "value": "USA"
+                                                  },
+                                                  "div": 0.007270179873387775,
+                                                  "host": {
+                                                    "value": "Human"
+                                                  },
+                                                  "num_date": {
+                                                    "confidence": [
+                                                      2015.002737850787,
+                                                      2015.9993155373031
+                                                    ],
+                                                    "value": 2015.823626580225
+                                                  },
+                                                  "region": {
+                                                    "value": "north_america"
+                                                  },
+                                                  "url": "https://www.ncbi.nlm.nih.gov/nuccore/KY983587",
+                                                  "virus": {
+                                                    "value": "Human coronavirus 229E"
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "branch_attrs": {
+                                                  "labels": {
+                                                    "aa": "S: S88L; replicase_polyprotein_1a: I1736V, I1817V"
+                                                  },
+                                                  "mutations": {
+                                                    "S": [
+                                                      "S88L"
+                                                    ],
+                                                    "nuc": [
+                                                      "C850T",
+                                                      "T2584C",
+                                                      "C2954T",
+                                                      "C3043T",
+                                                      "C4117T",
+                                                      "A5498G",
+                                                      "A5741G",
+                                                      "C16710T",
+                                                      "C19161T",
+                                                      "A20199G",
+                                                      "C20832T",
+                                                      "C26120T",
+                                                      "A26714G",
+                                                      "C26852T"
+                                                    ],
+                                                    "replicase_polyprotein_1a": [
+                                                      "I1736V",
+                                                      "I1817V"
+                                                    ]
+                                                  }
+                                                },
+                                                "name": "SC2872__KY967357",
+                                                "node_attrs": {
+                                                  "accession": "KY967357",
+                                                  "author": {
+                                                    "author": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R.",
+                                                    "title": "Genome sequences of viral positives at UW Virology",
+                                                    "value": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R. B"
+                                                  },
+                                                  "country": {
+                                                    "value": "USA"
+                                                  },
+                                                  "div": 0.007343395903491124,
+                                                  "host": {
+                                                    "value": "Human"
+                                                  },
+                                                  "num_date": {
+                                                    "confidence": [
+                                                      2015.300102121955,
+                                                      2015.9993155373031
+                                                    ],
+                                                    "value": 2015.9993155373031
+                                                  },
+                                                  "region": {
+                                                    "value": "north_america"
+                                                  },
+                                                  "url": "https://www.ncbi.nlm.nih.gov/nuccore/KY967357",
+                                                  "virus": {
+                                                    "value": "Human coronavirus 229E"
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "branch_attrs": {
+                                                  "labels": {
+                                                    "aa": "N: S10P; S: K714M; replicase_polyprotein_1a: D406Y, T1252A"
+                                                  },
+                                                  "mutations": {
+                                                    "N": [
+                                                      "S10P"
+                                                    ],
+                                                    "S": [
+                                                      "K714M"
+                                                    ],
+                                                    "nuc": [
+                                                      "G1508T",
+                                                      "A4046G",
+                                                      "C5962T",
+                                                      "C12493T",
+                                                      "C14547T",
+                                                      "C16734T",
+                                                      "C18279T",
+                                                      "T18330G",
+                                                      "C22063T",
+                                                      "A22710T",
+                                                      "T25713C"
+                                                    ],
+                                                    "replicase_polyprotein_1a": [
+                                                      "D406Y",
+                                                      "T1252A"
+                                                    ]
+                                                  }
+                                                },
+                                                "name": "SC579__KY369908",
+                                                "node_attrs": {
+                                                  "accession": "KY369908",
+                                                  "author": {
+                                                    "author": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R.",
+                                                    "title": "Direct Submission",
+                                                    "value": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R. A"
+                                                  },
+                                                  "country": {
+                                                    "value": "USA"
+                                                  },
+                                                  "div": 0.007233605562722439,
+                                                  "host": {
+                                                    "value": "Human"
+                                                  },
+                                                  "num_date": {
+                                                    "confidence": [
+                                                      2016.002737850787,
+                                                      2016.6680946640229
+                                                    ],
+                                                    "value": 2016.002737850787
+                                                  },
+                                                  "region": {
+                                                    "value": "north_america"
+                                                  },
+                                                  "url": "https://www.ncbi.nlm.nih.gov/nuccore/KY369908",
+                                                  "virus": {
+                                                    "value": "Human coronavirus 229E"
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": "NODE_0000014",
+                                            "node_attrs": {
+                                              "div": 0.006831159223375676,
+                                              "num_date": {
+                                                "confidence": [
+                                                  2013.6343844900487,
+                                                  2014.5842506520307
+                                                ],
+                                                "value": 2014.2162494010506
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {
+                                              "labels": {
+                                                "aa": "S: S53A, S323A, K792R, K1154R"
+                                              },
+                                              "mutations": {
+                                                "S": [
+                                                  "S53A",
+                                                  "S323A",
+                                                  "K792R",
+                                                  "K1154R"
+                                                ],
+                                                "nuc": [
+                                                  "T20726G",
+                                                  "T21425C",
+                                                  "T21536G",
+                                                  "C21742T",
+                                                  "T22447C",
+                                                  "A22944G",
+                                                  "A24030G",
+                                                  "C25175T",
+                                                  "A25301C",
+                                                  "G25513T",
+                                                  "C25751T",
+                                                  "C26978T",
+                                                  "A27162T"
+                                                ]
+                                              }
+                                            },
+                                            "children": [
+                                              {
+                                                "branch_attrs": {
+                                                  "labels": {
+                                                    "aa": "4a: Q9H; N: E33D, E141D; S: A41D; replicase_polyprotein_1a: V1451L"
+                                                  },
+                                                  "mutations": {
+                                                    "4a": [
+                                                      "Q9H"
+                                                    ],
+                                                    "N": [
+                                                      "E33D",
+                                                      "E141D"
+                                                    ],
+                                                    "S": [
+                                                      "A41D"
+                                                    ],
+                                                    "nuc": [
+                                                      "G4009A",
+                                                      "G4643T",
+                                                      "C20691A",
+                                                      "T22084C",
+                                                      "T22216G",
+                                                      "A23452G",
+                                                      "A24117T",
+                                                      "T25381C",
+                                                      "A25784C",
+                                                      "A26108T"
+                                                    ],
+                                                    "replicase_polyprotein_1a": [
+                                                      "V1451L"
+                                                    ]
+                                                  }
+                                                },
+                                                "children": [
+                                                  {
+                                                    "branch_attrs": {
+                                                      "labels": {
+                                                        "aa": "M: M90I; N: G161V; S: H26N, N38I, P49T, F52V, V288M, A323S; replicase_polyprotein_1a: G409C, T810A, C950G, I986F, Q1207H, I1210S, V1222L, A3217V; replicase_polyprotein_1b: V27G, N682K, N811K, V1649I, F2338C, D2346E, K2541N"
+                                                      },
+                                                      "mutations": {
+                                                        "M": [
+                                                          "M90I"
+                                                        ],
+                                                        "N": [
+                                                          "G161V"
+                                                        ],
+                                                        "S": [
+                                                          "H26N",
+                                                          "N38I",
+                                                          "P49T",
+                                                          "F52V",
+                                                          "V288M",
+                                                          "A323S"
+                                                        ],
+                                                        "nuc": [
+                                                          "G1517T",
+                                                          "A2720G",
+                                                          "T3140G",
+                                                          "A3248T",
+                                                          "G3913C",
+                                                          "T3921G",
+                                                          "G3956C",
+                                                          "C7778T",
+                                                          "C8708T",
+                                                          "G9652A",
+                                                          "C9942T",
+                                                          "T12599G",
+                                                          "C13560T",
+                                                          "T14565A",
+                                                          "T14952G",
+                                                          "C16422T",
+                                                          "G17464A",
+                                                          "C17766T",
+                                                          "T18156C",
+                                                          "C18231T",
+                                                          "C18612T",
+                                                          "C18828T",
+                                                          "T19532G",
+                                                          "T19557G",
+                                                          "C19572A",
+                                                          "A20142C",
+                                                          "C20645A",
+                                                          "A20682T",
+                                                          "C20714A",
+                                                          "T20723G",
+                                                          "C21425T",
+                                                          "G21431A",
+                                                          "G21536T",
+                                                          "A22069G",
+                                                          "C22447T",
+                                                          "C22636T",
+                                                          "G25264A",
+                                                          "C25624T",
+                                                          "G26167T"
+                                                        ],
+                                                        "replicase_polyprotein_1a": [
+                                                          "G409C",
+                                                          "T810A",
+                                                          "C950G",
+                                                          "I986F",
+                                                          "Q1207H",
+                                                          "I1210S",
+                                                          "V1222L",
+                                                          "A3217V"
+                                                        ],
+                                                        "replicase_polyprotein_1b": [
+                                                          "V27G",
+                                                          "N682K",
+                                                          "N811K",
+                                                          "V1649I",
+                                                          "F2338C",
+                                                          "D2346E",
+                                                          "K2541N"
+                                                        ]
+                                                      }
+                                                    },
+                                                    "name": "229E/Haiti-1/2016__MF542265",
+                                                    "node_attrs": {
+                                                      "accession": "MF542265",
+                                                      "author": {
+                                                        "author": "Bonny,T.S., Subramaniam,K., Waltzek,T.B., Elbadry,M.A., Beau De Rochars,V.M., Telisma,T., Rashid,M., Morris,J.G. Jr. and Lednicky,J.A.",
+                                                        "title": "Complete Genome Sequence of Human Coronavirus Strain 229E Isolated from Plasma Collected from a Haitian Child in 2016",
+                                                        "value": "Bonny,T.S., Subramaniam,K., Waltzek,T.B., Elbadry,M.A., Beau De Rochars,V.M., Telisma,T., Rashid,M., Morris,J.G. Jr. and Lednicky,J.A."
+                                                      },
+                                                      "country": {
+                                                        "value": "Haiti"
+                                                      },
+                                                      "div": 0.008589084544858846,
+                                                      "host": {
+                                                        "value": "Human"
+                                                      },
+                                                      "num_date": {
+                                                        "confidence": [
+                                                          2016.1760564725757,
+                                                          2016.2491444216291
+                                                        ],
+                                                        "value": 2016.2491444216291
+                                                      },
+                                                      "region": {
+                                                        "value": "north_america"
+                                                      },
+                                                      "url": "https://www.ncbi.nlm.nih.gov/nuccore/MF542265",
+                                                      "virus": {
+                                                        "value": "Human coronavirus 229E"
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "branch_attrs": {
+                                                      "labels": {
+                                                        "aa": "S: V288E, Q311G, N845S; replicase_polyprotein_1a: G2488V"
+                                                      },
+                                                      "mutations": {
+                                                        "S": [
+                                                          "V288E",
+                                                          "Q311G",
+                                                          "N845S"
+                                                        ],
+                                                        "nuc": [
+                                                          "T1A",
+                                                          "C213T",
+                                                          "G7755T",
+                                                          "T11140C",
+                                                          "A11572G",
+                                                          "C13242T",
+                                                          "C13465T",
+                                                          "C14226T",
+                                                          "C15498T",
+                                                          "A16488G",
+                                                          "T19275C",
+                                                          "T21432A",
+                                                          "C21500G",
+                                                          "A21501G",
+                                                          "C21520T",
+                                                          "C21850T",
+                                                          "A22816T",
+                                                          "A23103G",
+                                                          "G23311T"
+                                                        ],
+                                                        "replicase_polyprotein_1a": [
+                                                          "G2488V"
+                                                        ]
+                                                      }
+                                                    },
+                                                    "name": "SC2282__KY684760",
+                                                    "node_attrs": {
+                                                      "accession": "KY684760",
+                                                      "author": {
+                                                        "author": "Greninger,A.L., Makhsous,N., Kuypers,J., Shean,R.C. and Jerome,K.R.",
+                                                        "title": "Genome sequences of viral positives at UW Virology",
+                                                        "value": "Greninger,A.L., Makhsous,N., Kuypers,J., Shean,R.C. and Jerome,K.R."
+                                                      },
+                                                      "country": {
+                                                        "value": "USA"
+                                                      },
+                                                      "div": 0.007855765340808302,
+                                                      "host": {
+                                                        "value": "Human"
+                                                      },
+                                                      "num_date": {
+                                                        "confidence": [
+                                                          2016.002737850787,
+                                                          2016.8206975212556
+                                                        ],
+                                                        "value": 2016.002737850787
+                                                      },
+                                                      "region": {
+                                                        "value": "north_america"
+                                                      },
+                                                      "url": "https://www.ncbi.nlm.nih.gov/nuccore/KY684760",
+                                                      "virus": {
+                                                        "value": "Human coronavirus 229E"
+                                                      }
+                                                    }
+                                                  }
+                                                ],
+                                                "name": "NODE_0000017",
+                                                "node_attrs": {
+                                                  "div": 0.007160392380624866,
+                                                  "num_date": {
+                                                    "confidence": [
+                                                      2013.0556638987082,
+                                                      2013.9737632795236
+                                                    ],
+                                                    "value": 2013.504253119055
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "branch_attrs": {
+                                                  "labels": {
+                                                    "aa": "S: D213N, H305Y, K307N, N377I, D391Y, V739A; replicase_polyprotein_1b: M1813T"
+                                                  },
+                                                  "mutations": {
+                                                    "S": [
+                                                      "D213N",
+                                                      "H305Y",
+                                                      "K307N",
+                                                      "N377I",
+                                                      "D391Y",
+                                                      "V739A"
+                                                    ],
+                                                    "nuc": [
+                                                      "T17957C",
+                                                      "C20872G",
+                                                      "G21206A",
+                                                      "C21482T",
+                                                      "A21490C",
+                                                      "T21622C",
+                                                      "A21699T",
+                                                      "G21740T",
+                                                      "T22057C",
+                                                      "G22693A",
+                                                      "T22785C",
+                                                      "C24291T"
+                                                    ],
+                                                    "replicase_polyprotein_1b": [
+                                                      "M1813T"
+                                                    ]
+                                                  }
+                                                },
+                                                "children": [
+                                                  {
+                                                    "branch_attrs": {
+                                                      "labels": {
+                                                        "aa": "4a: I19T; S: F90V, T91I, N365D, H407Y; replicase_polyprotein_1a: A3205V, V3324I, T3784I"
+                                                      },
+                                                      "mutations": {
+                                                        "4a": [
+                                                          "I19T"
+                                                        ],
+                                                        "S": [
+                                                          "F90V",
+                                                          "T91I",
+                                                          "N365D",
+                                                          "H407Y"
+                                                        ],
+                                                        "nuc": [
+                                                          "T760G",
+                                                          "T6455C",
+                                                          "C7778T",
+                                                          "C9906T",
+                                                          "G10262A",
+                                                          "C11643T",
+                                                          "T12280C",
+                                                          "C16815T",
+                                                          "T20837G",
+                                                          "C20841T",
+                                                          "T21625C",
+                                                          "A21662G",
+                                                          "C21788T",
+                                                          "T24146C",
+                                                          "C26159T",
+                                                          "T26552C"
+                                                        ],
+                                                        "replicase_polyprotein_1a": [
+                                                          "A3205V",
+                                                          "V3324I",
+                                                          "T3784I"
+                                                        ]
+                                                      }
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "branch_attrs": {
+                                                          "labels": {
+                                                            "aa": "S: S27A, A358P; replicase_polyprotein_1a: R151H; replicase_polyprotein_1b: A1239V, I1532V, T1813M"
+                                                          },
+                                                          "mutations": {
+                                                            "S": [
+                                                              "S27A",
+                                                              "A358P"
+                                                            ],
+                                                            "nuc": [
+                                                              "C2A",
+                                                              "T3A",
+                                                              "T4A",
+                                                              "T8C",
+                                                              "C10A",
+                                                              "A14T",
+                                                              "A22G",
+                                                              "C23T",
+                                                              "A31T",
+                                                              "T35G",
+                                                              "G37A",
+                                                              "T43G",
+                                                              "G744A",
+                                                              "C2588T",
+                                                              "A4228G",
+                                                              "A5452G",
+                                                              "T8017C",
+                                                              "G8254A",
+                                                              "C8491T",
+                                                              "T10480C",
+                                                              "A12085G",
+                                                              "T16020C",
+                                                              "C16235T",
+                                                              "C16737T",
+                                                              "A16899G",
+                                                              "A17113G",
+                                                              "A17841G",
+                                                              "C17957T",
+                                                              "C18051T",
+                                                              "C18633T",
+                                                              "T20648G",
+                                                              "A21271G",
+                                                              "G21641C",
+                                                              "G22162A",
+                                                              "G22342T",
+                                                              "A26024G",
+                                                              "C26651T",
+                                                              "C27019T"
+                                                            ],
+                                                            "replicase_polyprotein_1a": [
+                                                              "R151H"
+                                                            ],
+                                                            "replicase_polyprotein_1b": [
+                                                              "A1239V",
+                                                              "I1532V",
+                                                              "T1813M"
+                                                            ]
+                                                          }
+                                                        },
+                                                        "name": "SC0865__MN306046",
+                                                        "node_attrs": {
+                                                          "accession": "MN306046",
+                                                          "author": {
+                                                            "author": "Lin,M.J., Tait,A. and Greninger,A.L.",
+                                                            "title": "Genome sequences of clinical viruses from UW Virology",
+                                                            "value": "Lin,M.J., Tait,A. and Greninger,A.L."
+                                                          },
+                                                          "country": {
+                                                            "value": "USA"
+                                                          },
+                                                          "div": 0.009210758574536689,
+                                                          "host": {
+                                                            "value": "Human"
+                                                          },
+                                                          "num_date": {
+                                                            "confidence": [
+                                                              2019.2898990868846,
+                                                              2019.9993155373031
+                                                            ],
+                                                            "value": 2019.9993155373031
+                                                          },
+                                                          "region": {
+                                                            "value": "north_america"
+                                                          },
+                                                          "url": "https://www.ncbi.nlm.nih.gov/nuccore/MN306046",
+                                                          "virus": {
+                                                            "value": "Human coronavirus 229E"
+                                                          }
+                                                        }
+                                                      },
+                                                      {
+                                                        "branch_attrs": {
+                                                          "labels": {
+                                                            "aa": "4a: V126A; N: S165F; S: I281T; replicase_polyprotein_1a: S579N, G720D, E813D, F949L, Y1321H"
+                                                          },
+                                                          "mutations": {
+                                                            "4a": [
+                                                              "V126A"
+                                                            ],
+                                                            "N": [
+                                                              "S165F"
+                                                            ],
+                                                            "S": [
+                                                              "I281T"
+                                                            ],
+                                                            "nuc": [
+                                                              "G2028A",
+                                                              "G2451A",
+                                                              "A2731C",
+                                                              "T3137C",
+                                                              "T4253C",
+                                                              "C6940T",
+                                                              "C9634T",
+                                                              "C10405T",
+                                                              "C12987T",
+                                                              "C16326T",
+                                                              "A18321G",
+                                                              "T19338C",
+                                                              "T21034G",
+                                                              "G21301T",
+                                                              "T21411C",
+                                                              "C21493T",
+                                                              "T23225C",
+                                                              "T24467C",
+                                                              "C25516T",
+                                                              "C26179T"
+                                                            ],
+                                                            "replicase_polyprotein_1a": [
+                                                              "S579N",
+                                                              "G720D",
+                                                              "E813D",
+                                                              "F949L",
+                                                              "Y1321H"
+                                                            ]
+                                                          }
+                                                        },
+                                                        "name": "SC9724__MN369046",
+                                                        "node_attrs": {
+                                                          "accession": "MN369046",
+                                                          "author": {
+                                                            "author": "Lin,M.J., Tait,A. and Greninger,A.L.",
+                                                            "title": "Genome sequences of clinical viruses from UW Virology",
+                                                            "value": "Lin,M.J., Tait,A. and Greninger,A.L."
+                                                          },
+                                                          "country": {
+                                                            "value": "USA"
+                                                          },
+                                                          "div": 0.008550713619550385,
+                                                          "host": {
+                                                            "value": "Human"
+                                                          },
+                                                          "num_date": {
+                                                            "confidence": [
+                                                              2018.002737850787,
+                                                              2018.9993155373031
+                                                            ],
+                                                            "value": 2018.27460214767
+                                                          },
+                                                          "region": {
+                                                            "value": "north_america"
+                                                          },
+                                                          "url": "https://www.ncbi.nlm.nih.gov/nuccore/MN369046",
+                                                          "virus": {
+                                                            "value": "Human coronavirus 229E"
+                                                          }
+                                                        }
+                                                      }
+                                                    ],
+                                                    "name": "NODE_0000019",
+                                                    "node_attrs": {
+                                                      "div": 0.00781893010852663,
+                                                      "num_date": {
+                                                        "confidence": [
+                                                          2015.1579197548522,
+                                                          2016.1298763801553
+                                                        ],
+                                                        "value": 2015.8798039449262
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "branch_attrs": {
+                                                      "labels": {
+                                                        "aa": "N: V60I; S: S86Y, Q89E; replicase_polyprotein_1a: V1436L"
+                                                      },
+                                                      "mutations": {
+                                                        "N": [
+                                                          "V60I"
+                                                        ],
+                                                        "S": [
+                                                          "S86Y",
+                                                          "Q89E"
+                                                        ],
+                                                        "nuc": [
+                                                          "C4114T",
+                                                          "G4598T",
+                                                          "C8134T",
+                                                          "C20826A",
+                                                          "C20834G",
+                                                          "C21734T",
+                                                          "G25799T",
+                                                          "G25863A"
+                                                        ],
+                                                        "replicase_polyprotein_1a": [
+                                                          "V1436L"
+                                                        ]
+                                                      }
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "branch_attrs": {
+                                                          "labels": {
+                                                            "aa": "replicase_polyprotein_1a: L616S, D947N, P1908L, A3216S"
+                                                          },
+                                                          "mutations": {
+                                                            "nuc": [
+                                                              "T2139C",
+                                                              "G3131A",
+                                                              "C6015T",
+                                                              "G9938T",
+                                                              "C11803A",
+                                                              "T14808C",
+                                                              "C15156T",
+                                                              "T24848C",
+                                                              "T26246G",
+                                                              "T26339C"
+                                                            ],
+                                                            "replicase_polyprotein_1a": [
+                                                              "L616S",
+                                                              "D947N",
+                                                              "P1908L",
+                                                              "A3216S"
+                                                            ]
+                                                          }
+                                                        },
+                                                        "name": "SC9731__KY369912",
+                                                        "node_attrs": {
+                                                          "accession": "KY369912",
+                                                          "author": {
+                                                            "author": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R.",
+                                                            "title": "Direct Submission",
+                                                            "value": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R. A"
+                                                          },
+                                                          "country": {
+                                                            "value": "USA"
+                                                          },
+                                                          "div": 0.007892073977251689,
+                                                          "host": {
+                                                            "value": "Human"
+                                                          },
+                                                          "num_date": {
+                                                            "confidence": [
+                                                              2016.002737850787,
+                                                              2017.0020533880904
+                                                            ],
+                                                            "value": 2016.324894717312
+                                                          },
+                                                          "region": {
+                                                            "value": "north_america"
+                                                          },
+                                                          "url": "https://www.ncbi.nlm.nih.gov/nuccore/KY369912",
+                                                          "virus": {
+                                                            "value": "Human coronavirus 229E"
+                                                          }
+                                                        }
+                                                      },
+                                                      {
+                                                        "branch_attrs": {
+                                                          "labels": {
+                                                            "aa": "S: T100N, A739V; replicase_polyprotein_1a: S2570R; replicase_polyprotein_1b: D2647G"
+                                                          },
+                                                          "mutations": {
+                                                            "S": [
+                                                              "T100N",
+                                                              "A739V"
+                                                            ],
+                                                            "nuc": [
+                                                              "T1A",
+                                                              "C65A",
+                                                              "T5479C",
+                                                              "T7594C",
+                                                              "C8002A",
+                                                              "C8708T",
+                                                              "T16020C",
+                                                              "G16170T",
+                                                              "A20459G",
+                                                              "C20868A",
+                                                              "C21619T",
+                                                              "C22051T",
+                                                              "C22785T",
+                                                              "C23287T"
+                                                            ],
+                                                            "replicase_polyprotein_1a": [
+                                                              "S2570R"
+                                                            ],
+                                                            "replicase_polyprotein_1b": [
+                                                              "D2647G"
+                                                            ]
+                                                          }
+                                                        },
+                                                        "name": "SC9773__KY369914",
+                                                        "node_attrs": {
+                                                          "accession": "KY369914",
+                                                          "author": {
+                                                            "author": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R.",
+                                                            "title": "Direct Submission",
+                                                            "value": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R. A"
+                                                          },
+                                                          "country": {
+                                                            "value": "USA"
+                                                          },
+                                                          "div": 0.00803855478322149,
+                                                          "host": {
+                                                            "value": "Human"
+                                                          },
+                                                          "num_date": {
+                                                            "confidence": [
+                                                              2016.240393573826,
+                                                              2017.0020533880904
+                                                            ],
+                                                            "value": 2017.0020533880904
+                                                          },
+                                                          "region": {
+                                                            "value": "north_america"
+                                                          },
+                                                          "url": "https://www.ncbi.nlm.nih.gov/nuccore/KY369914",
+                                                          "virus": {
+                                                            "value": "Human coronavirus 229E"
+                                                          }
+                                                        }
+                                                      }
+                                                    ],
+                                                    "name": "NODE_0000020",
+                                                    "node_attrs": {
+                                                      "div": 0.007526259761307637,
+                                                      "num_date": {
+                                                        "confidence": [
+                                                          2014.5210001075288,
+                                                          2015.5217754337345
+                                                        ],
+                                                        "value": 2014.910607665555
+                                                      }
+                                                    }
+                                                  }
+                                                ],
+                                                "name": "NODE_0000018",
+                                                "node_attrs": {
+                                                  "div": 0.007233609314746237,
+                                                  "num_date": {
+                                                    "confidence": [
+                                                      2013.4900929777975,
+                                                      2014.477683956185
+                                                    ],
+                                                    "value": 2014.2215462500112
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": "NODE_0000016",
+                                            "node_attrs": {
+                                              "div": 0.006794579763970443,
+                                              "num_date": {
+                                                "confidence": [
+                                                  2012.262303383875,
+                                                  2013.1526195103474
+                                                ],
+                                                "value": 2012.7539244702348
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000013",
+                                        "node_attrs": {
+                                          "div": 0.006318989243383296,
+                                          "num_date": {
+                                            "confidence": [
+                                              2011.3452072123523,
+                                              2012.2537087727305
+                                            ],
+                                            "value": 2011.821933816294
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000011",
+                                    "node_attrs": {
+                                      "div": 0.005953157385764853,
+                                      "num_date": {
+                                        "confidence": [
+                                          2010.5049765095655,
+                                          2011.429427961713
+                                        ],
+                                        "value": 2010.9843042197163
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000007",
+                                "node_attrs": {
+                                  "div": 0.005880030060728632,
+                                  "num_date": {
+                                    "confidence": [
+                                      2010.3252665208447,
+                                      2011.258290816368
+                                    ],
+                                    "value": 2010.9356997864193
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000006",
+                            "node_attrs": {
+                              "div": 0.005514319706584124,
+                              "num_date": {
+                                "confidence": [
+                                  2009.5473146904528,
+                                  2010.650119365623
+                                ],
+                                "value": 2010.3114162705292
+                              }
+                            }
+                          }
+                        ],
+                        "name": "NODE_0000001",
+                        "node_attrs": {
+                          "div": 0.0043429180289563055,
+                          "num_date": {
+                            "confidence": [
+                              2006.4357690987579,
+                              2007.9191409041305
+                            ],
+                            "value": 2007.4257754367982
+                          }
+                        }
+                      }
+                    ],
+                    "name": "NODE_0000002",
+                    "node_attrs": {
+                      "div": 0.0032082485884625664,
+                      "num_date": {
+                        "confidence": [
+                          2003.6886566398966,
+                          2005.4046508450795
+                        ],
+                        "value": 2004.3545047887221
+                      }
+                    }
+                  }
+                ],
+                "name": "NODE_0000003",
+                "node_attrs": {
+                  "div": 0.0024033694639552013,
+                  "num_date": {
+                    "confidence": [
+                      1999.2674631634936,
+                      2001.2940190722236
+                    ],
+                    "value": 2000.0668602579956
+                  }
+                }
+              }
+            ],
+            "name": "NODE_0000004",
+            "node_attrs": {
+              "div": 0.0008290441762589351,
+              "num_date": {
+                "confidence": [
+                  1991.756735245896,
+                  1992.5265400493583
+                ],
+                "value": 1992.1784250662422
+              }
+            }
+          }
+        ],
+        "name": "NODE_0000005",
+        "node_attrs": {
+          "div": 0.0003902017858884199,
+          "num_date": {
+            "confidence": [
+              1990.3805919517918,
+              1991.2841398636997
+            ],
+            "value": 1990.8124597180386
+          }
+        }
+      }
+    ],
+    "name": "NODE_0000010",
+    "node_attrs": {
+      "div": 0,
+      "num_date": {
+        "confidence": [
+          1988.6713559321638,
+          1990.1460272560084
+        ],
+        "value": 1989.5065511454982
+      }
+    }
+  },
+  "version": "v2"
+}
