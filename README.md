@@ -34,9 +34,11 @@ Navigate first to 'Coronaviridae' and 'Coronavirinae', then "Select all" in the 
     * For **NL63** select 'Human coronavirus NL63' (about 70)
     * For **229E** select 'Human coronavirus 229E' (about 40)
 
-Once the search results load, select all sequences, and download the samples in *tab delimited format*.
+Once each search results load, select all sequences, and download the samples in *tab delimited format*.
 Once downloaded, move them into the `data` folder, and name them according to the specified format, setting the correct date (this makes debug easier).
 Go into the `Snakefile` and at the top of the `files` rule, change the input file to match the one you just created. 
+
+_(To be extra clear - you need to do each of these downloads separately - one for SARS, one for NL63... etc!)_
 
 This should trigger Snakemake to build a new database for whatever files you've added.
 You can build all the databases with `snakemake make_database_all` or build them individually with the `snakemake make_database_229E` (and similar) rules (see Snakefile for all rules).
