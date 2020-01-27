@@ -1,0 +1,55 @@
+{
+  "title": "Genomic epidemiology of Coronaviruses (CoV) using data from ViPR",
+  "maintainers": [
+    {"name": "Emma Hodcroft", "url": "https://neherlab.org/emma-hodcroft.html"},
+    {"name": "Richard Neher", "url": "https://neherlab.org/"},
+    {"name": "Trevor Bedford", "url": "https://bedford.io"}
+  ],
+  "build_url": "https://github.com/nextstrain/cov",
+  "colorings": [
+    {
+      "key": "region",
+      "title": "Region",
+      "type": "categorical"
+    },
+    {
+      "key": "country",
+      "title": "Country",
+      "type": "categorical"
+    },
+    {
+      "key": "host",
+      "title": "Host",
+      "type": "categorical"
+    },
+    {
+      "key": "virus",
+      "title": "Virus",
+      "type": "categorical"
+    },
+    {
+      "key": "author",
+      "title": "Authors",
+      "type": "categorical"
+    }
+  ],
+  "geo_resolutions": [
+    "country",
+    "region"
+  ],
+  "display_defaults": {
+    "color_by": "country",
+    "distance_measure": "div",
+    "geo_resolution": "country"
+  },
+  "filters": [
+    "country",
+    "region",
+    "host"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ]
+}

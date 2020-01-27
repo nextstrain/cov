@@ -1,0 +1,117 @@
+### SARS DATA EXCLUSIONS
+#all these seem super divergent
+ModifiedMicrobialNucleicAcid__FV537211 
+ModifiedMicrobialNucleicAcid__FV537210
+Sequence41fromPatentEP2139515__HI553383
+ModifiedMicrobialNucleicAcid__FV537212
+UNKNOWN-FV537213__FV537213
+# This is known to have many insertions. Uploaded 2003, but est date is 2014!!
+# https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-5-65
+ZMY1__AY351680
+# Seem to be from 2003 but est date is 2020! too divergent
+ShanghaiQXC2__AY463060
+ShanghaiQXC1__AY463059
+# these are modified strains for vaccine trials
+Urbani__MK062184
+Urbani__MK062183
+Urbani__MK062182
+Urbani__MK062181
+Urbani__MK062180
+Urbani__MK062179
+# human isolate passaged through money and cells
+HKU-39849__GU553365
+# isolated from vaccine-challenged ferrets
+Tor2/FP1-10912__JX163923
+Tor2/FP1-10851__JX163924
+Tor2/FP1-10895__JX163925
+Tor2/FP1-10912__JX163926
+Tor2/FP1-10851__JX163927
+Tor2/FP1-10895__JX163928
+# cultured engineered viruses
+wtic-MB__FJ882927
+wtic-MB__FJ882932
+wtic-MB__FJ882937
+wtic-MB__FJ882949
+wtic-MB__FJ882939
+wtic-MB__FJ882934
+wtic-MB__FJ882933
+wtic-MB__FJ882935
+wtic-MB__FJ882936
+wtic-MB__FJ882946
+wtic-MB__FJ882947
+ExoN1mutant__FJ882926
+ExoN1mutant__FJ882930
+ExoN1mutant__FJ882954
+ExoN1mutant__FJ882950
+ExoN1mutant__FJ882928
+ExoN1mutant__JF292922
+ExoN1mutant__JX162087
+ExoN1mutant__FJ882955
+ExoN1mutant__FJ882960
+ExoN1mutant__FJ882941
+ExoN1mutant__FJ882929
+ExoN1mutant__FJ882940
+ExoN1mutant__FJ882956
+ExoN1mutant__FJ882931
+ExoN1mutant__FJ882944
+# grown in cells
+wtic-MB__FJ882938
+WTic__JF292921
+# Seem to be passaged through cells
+SARS/VeroE6_lab/USA/ExoN1_c8P1/2009__KF514395
+SARS/VeroE6_lab/USA/ExoN1_c8P10/2009__KF514389
+SARS/VeroE6_lab/USA/ExoN1_c8P20/2009__KF514410
+SARS/VeroE6_lab/USA/WTic_c1.10P20/2010__KF514398
+SARS/VeroE6_lab/USA/WTic_c1.1P20/2010__KF514399	
+SARS/VeroE6_lab/USA/WTic_c1.2P20/2010__KF514421	
+SARS/VeroE6_lab/USA/WTic_c1.3P20/2010__KF514422	
+SARS/VeroE6_lab/USA/WTic_c1.4P20/2010__KF514392	
+SARS/VeroE6_lab/USA/WTic_c1.5P20/2010__KF514388	
+SARS/VeroE6_lab/USA/WTic_c1.6P20/2010__KF514413	
+SARS/VeroE6_lab/USA/WTic_c1.7P20/2010__KF514415	
+SARS/VeroE6_lab/USA/WTic_c1.8P20/2010__KF514400	
+SARS/VeroE6_lab/USA/WTic_c1.9P20/2010__KF514404	
+SARS/VeroE6_lab/USA/WTic_c1P10/2009__KF514419
+SARS/VeroE6_lab/USA/WTic_c1P20/2009__KF514394
+SARS/VeroE6_lab/USA/WTic_c2P1/2009__KF514408
+SARS/VeroE6_lab/USA/WTic_c2P10/2009__KF514397
+SARS/VeroE6_lab/USA/WTic_c2P20/2009__KF514409
+SARS/VeroE6_lab/USA/WTic_c3P1/2009__KF514418
+SARS/VeroE6_lab/USA/WTic_c3P10/2009__KF514396
+SARS/VeroE6_lab/USA/WTic_c3P20/2009__KF514423
+SARS/VeroE6_lab/USA/ExoN1_c13P1/2009__KF514406
+SARS/VeroE6_lab/USA/ExoN1_c13P10/2009__KF514411
+SARS/VeroE6_lab/USA/ExoN1_c13P20/2009__KF514412
+SARS/VeroE6_lab/USA/ExoN1_c5.10P20/2010__KF514393
+SARS/VeroE6_lab/USA/ExoN1_c5.1P20/2010__KF514403
+SARS/VeroE6_lab/USA/ExoN1_c5.2P20/2010__KF514405
+SARS/VeroE6_lab/USA/ExoN1_c5.3P20/2010__KF514417
+SARS/VeroE6_lab/USA/ExoN1_c5.4P20/2010__KF514390
+SARS/VeroE6_lab/USA/ExoN1_c5.5P20/2010__KF514401
+SARS/VeroE6_lab/USA/ExoN1_c5.6P20/2010__KF514402
+SARS/VeroE6_lab/USA/ExoN1_c5.7P20/2010__KF514407
+SARS/VeroE6_lab/USA/ExoN1_c5.8P20/2010__KF514416
+SARS/VeroE6_lab/USA/ExoN1_c5.9P20/2010__KF514391
+SARS/VeroE6_lab/USA/ExoN1_c5P10/2009__KF514420
+SARS/VeroE6_lab/USA/ExoN1_c5P20/2009__KF514414
+#may have been used in mice? divergent to when must have been isolate
+WH20__AY772062
+#seem to be from 2008 or earlier? but date estimate 2015-2015
+BJ182-4__EU371562
+BJ182-8__EU371563
+BJ182b__EU371561
+BJ182a__EU371560
+BJ182-12__EU371564
+#passaged through cells
+CDC_200301157__AY714217
+CDC#200301157__AY714217
+#patent viruses..
+UNKNOWN-DL008527__DL008527
+UNKNOWN-DJ059765__DJ059765
+#passaged through cells
+HSR1__AY323977
+CV7__DQ898174
+#seems underdiverged compared to given sample date..
+P2__FJ882963
+#under diverged compared to given sample date..
+SoD__AY461660

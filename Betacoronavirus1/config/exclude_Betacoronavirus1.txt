@@ -1,0 +1,44 @@
+### BETA DATA EXCLUSIONS
+#all these seem super divergent
+NC99__EF446615
+Tokachi09__LC061272
+Obihiro12-2__LC061274
+Obihiro12-1__LC061273
+# This is human but doesn't group with other human (yack and cattle)
+4408__FJ415324
+#These are prototype strain - isolated 1967 but grown in cell culture many times
+ATCCVR-759__AY585228
+ATCCVR-759__AY391777
+#Early (2004) sequence of 2001 strain, but hardly divergent from above prototype - bad sequencing?
+UNKNOWN-AY585229__AY585229
+# old samples, but seem very divergent. Throw tree out.
+# Might want to include and see what others think??
+OC43/human/USA/912-10/1991__KF530067
+OC43/human/USA/911-38/1991__KF530096
+OC43/human/USA/912-6/1991__KF530095
+OC43/human/USA/901-54/1990__KF530088
+OC43/human/USA/911-58/1991__KF530091
+OC43/human/USA/925-1/1992__KF530071
+OC43/human/USA/911-11/1991__KF530076
+OC43/human/USA/913-29/1991__KF530079
+OC43/human/USA/912-36/1991__KF530094
+OC43/human/USA/911-66/1991__KF530089
+OC43/human/USA/912-11/1991__KF530082
+#
+OC43/human/USA/851-15/1985__KF530060
+OC43/human/USA/873-19/1987__KF530083
+OC43/human/USA/872-5/1987__KF530086
+OC43/human/USA/873-16/1987__KF530077
+OC43/human/USA/871-25/1987__KF530085
+OC43/human/USA/8912-37/1989__KF530073
+OC43/human/USA/901-43/1990__KF530061
+OC43/human/USA/901-41/1990__KF530065
+OC43/human/USA/901-33/1990__KF530066
+OC43/human/USA/953-23/1995__KF530075
+OC43/human/USA/931-85/1993__KF530090
+OC43/human/USA/9211-43/1992__KF530097
+OC43/human/USA/9212-33/1992__KF530074
+OC43/human/USA/873-6/1987__KF530087
+#
+OC43/human/USA/951-18/1995__KF530084
+OC43/human/USA/965-6/1996__KF530098
