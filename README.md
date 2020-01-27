@@ -1,5 +1,4 @@
-# cov
-Coronavirus builds
+# Code and Data for Human Coronavirus Builds
 
 ## About this repository
 
