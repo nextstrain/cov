@@ -115,3 +115,6 @@ CV7__DQ898174
 P2__FJ882963
 #under diverged compared to given sample date..
 SoD__AY461660
+#Humans infected by civits - quite divergent
+GZ0402__AY613947
+GZ0401__AY568539

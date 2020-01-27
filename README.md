@@ -71,7 +71,7 @@ Estimates mutation rate - currently coming out to ~2.6 x 10^-4 subs/site/yr.
 ### Filtering
 Excludes all Bat and Mouse samples. Some Mouse were with humans but all are 'mouse-adapted strains' and thus not appropriate to include in a human-focused run.
 ### Mutation rate
-Estimates mutation rate - currently coming out to ~2.5 x 10^-4 subs/site/yr.
+Estimates mutation rate - currently coming out to ~4.0 x 10^-4 subs/site/yr.
 ### Other notable exclusions
 * MK062179 through MK062184 are modified viruses for vaccine trials
 * GU553365 was a human isolate from 2003, passaged through money lungs and then Vero E6 cells
