@@ -82,6 +82,18 @@ Estimates mutation rate - currently coming out to ~4.0 x 10^-4 subs/site/yr.
 * JX163923 to JX163928 were isolated from vaccine-challenged ferrets
 * Those with with "wtic" and "ExonN1 mutant" in the name are cultured from engineered viruses
 
+## Betacoronavirus1
+### Filtering
+Filtered to only human and chimp samples.
+### Mutation rate
+Estimates mutation rate - currently coming out to ~2.8 x 10^-4 subs/site/yr.
+### Other notable exclusions
+* Strains ATCC VR-759 (accessions AY391777 and AY585228) are the 'prototype strain' (ATCC) sequences. These were originally isolated in 1967 England, but were propogated on cell culture.
+* AY585229 is an early (2004) sequence of Betacoronavirus 1 isolated in 2001, but was sequenced same time as one of the prototypes above. It has little divergence from the prototype strains, despite the fact that it should be ~40 years diverged!
+### Other notes
+This tree seems to be slightly unstable. 
+If the clock is off, try forcing a new tree build via `snakemake Betacoronavirus1/results/tree_raw.nwk -f` and re-running. 
+
 ## NL63
 ### Filtering
 Not filtered by any host.
@@ -98,19 +110,6 @@ KT381875, KU521535, and KX179500 seem to be the same sample? They are not curren
 
 AY518894 is an isolate from 1988 but was passaged in cells before sequencing.
 
-
-## Betacoronavirus1
-### Filtering
-Filtered to only human and chimp samples.
-### Mutation rate
-Estimates mutation rate - currently coming out to ~2.8 x 10^-4 subs/site/yr.
-### Other notable exclusions
-* Strains ATCC VR-759 (accessions AY391777 and AY585228) are the 'prototype strain' (ATCC) sequences. These were originally isolated in 1967 England, but were propogated on cell culture.
-* AY585229 is an early (2004) sequence of Betacoronavirus 1 isolated in 2001, but was sequenced same time as one of the prototypes above. It has little divergence from the prototype strains, despite the fact that it should be ~40 years diverged!
-### Other notes
-This tree seems to be slightly unstable. 
-If the clock is off, try forcing a new tree build via `snakemake Betacoronavirus1/results/tree_raw.nwk -f` and re-running. 
-
 ## Notes on NL63 and Betacoronavirus1 -- Seattle sequences
 Both runs have sequences from [this study](https://academic.oup.com/jid/article/216/2/203/3858443) and were sequenced in Seattle. 
 There are multiple samples from the same patients, and these cluster in both runs.
@@ -119,3 +118,4 @@ Betacoronavirus1 has N07, N08, and N09 samples (though N08-33B is misnamed and s
 However, in **BOTH RUNS** these samples are *under-diverged* - they have fewer mutations than expected. 
 This may indicate something is wrong with the sequencing or something else.
 Currently they are not removed, but possibly should be?
+*Update: These sequences are now removed from the Betacoronavirus1 run*
