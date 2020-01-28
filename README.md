@@ -100,7 +100,7 @@ AY518894 is an isolate from 1988 but was passaged in cells before sequencing.
 ### Filtering
 Filtered to only human and chimp samples.
 ### Mutation rate
-Uses set mutation rate of 4.59 x 10^-4 as estimated for MERS by Dudas et al. 2018. eLife.
+Estimates mutation rate - currently coming out to ~2.8 x 10^-4 subs/site/yr.
 ### Other notable exclusions
 * Strains ATCC VR-759 (accessions AY391777 and AY585228) are the 'prototype strain' (ATCC) sequences. These were originally isolated in 1967 England, but were propogated on cell culture.
 * AY585229 is an early (2004) sequence of Betacoronavirus 1 isolated in 2001, but was sequenced same time as one of the prototypes above. It has little divergence from the prototype strains, despite the fact that it should be ~40 years diverged!

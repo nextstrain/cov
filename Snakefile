@@ -509,7 +509,7 @@ rule refine:
     shell:
         """
         #which ones do we allow to estimate rate?
-        if [ "{wildcards.id}" == "229E" ] || [ "{wildcards.id}" == "SARS" ]; then
+        if [ "{wildcards.id}" == "229E" ] || [ "{wildcards.id}" == "SARS" ] || [ "{wildcards.id}" == "Betacoronavirus1" ]; then
             echo "Estimating clock rate (run {wildcards.id})"
             clock_rate=""
             clock_std_dev=""

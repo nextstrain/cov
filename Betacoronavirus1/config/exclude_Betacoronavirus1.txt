@@ -1,5 +1,5 @@
 ### BETA DATA EXCLUSIONS
-#all these seem super divergent
+#all these seem super divergent - also not human samples
 NC99__EF446615
 Tokachi09__LC061272
 Obihiro12-2__LC061274
@@ -42,3 +42,13 @@ OC43/human/USA/873-6/1987__KF530087
 #
 OC43/human/USA/951-18/1995__KF530084
 OC43/human/USA/965-6/1996__KF530098
+# These are from the Seattle lab and are very under-diverged
+N09-595B__KY674920
+N09-382B__KY554975
+N08-33B_360X__KY554974
+N07-1689B_116X__KY554973
+N07-1647B__KY674918
+N07-1609B__KY674917
+N07-1541B_433X__KY554972
+# quite divergent considering given date... 
+10285/2010__KF923895
