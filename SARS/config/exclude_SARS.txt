@@ -118,3 +118,12 @@ SoD__AY461660
 #Humans infected by civits - quite divergent
 GZ0402__AY613947
 GZ0401__AY568539
+#No information, seems over-diverged. Submitted 2006, date est 2005 (which is too late)
+GDH-BJH01__DQ640652
+# From persistantly infected VeroE6 cells
+Frankfurt1__AB257344
+# is from same patient as HZS2-Fb__AY394987, but HZS2-Fb__AY394987 was direct sequenced, so exclude this one!
+HZS2-Fc__AY394991
+#same patient as HSZ-Bb__AY394985 and HSZ-Cb__AY394986, but supp says those and better, so exclude these ones
+HSZ-Bc__AY394994
+HSZ-Cc__AY394995
