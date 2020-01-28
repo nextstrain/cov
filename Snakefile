@@ -1,4 +1,7 @@
 
+#you do not need this if you supply your email address directly to rule "download_seqs"
+configfile: "snakemake_config.json"
+
 #recommend to run the make_database commands first, so you can ensure this all goes well, before trying to do
 #the nextstrain run steps. Just for sanity.
 
@@ -22,6 +25,14 @@ rule build_SARS:
     input: "auspice/CoV_SARS.json"
 rule build_beta:
     input: "auspice/CoV_Betacoronavirus1.json"
+rule build_beta_tangle:
+    input:
+        "auspice/CoV_Betacoronavirus1-replicase.json",
+        "auspice/CoV_Betacoronavirus1-last7.json"
+rule build_229E_tangle:
+    input:
+        "auspice/CoV_229E-replicase.json",
+        "auspice/CoV_229E-last7.json"
 
 #calls for individual database runs
 rule make_database_229E:
@@ -37,6 +48,9 @@ rule make_database_beta:
     input:
         "genbank/CoV-Betacoronavirus1_genbank_meta.tsv"
 
+wildcard_constraints:
+    gene="|-last7|-replicase",
+    id="229E|NL63|SARS|Betacoronavirus1"
 
 rule files:
     input:
@@ -152,7 +166,7 @@ rule download_seqs:
         from Bio import Entrez, SeqIO
         from augur.parse import forbidden_characters
         from datetime import datetime
-        Entrez.email = "richard.neher@unibas.ch"
+        Entrez.email = config[email] #REPLACE WITH YOUR OWN EMAIL ADDRESS 
 
         print(input.meta)
         meta = pd.read_csv(input.meta, sep='\t')
@@ -469,13 +483,35 @@ rule mask:
             --output {output.sequences}
         """
 
+rule sub_alignments:
+    input:
+        alignment = rules.mask.output.sequences
+    output:
+        sequences = "{id}/results/masked{gene}.fasta"
+    run:
+        real_gene = wildcards.gene.replace("-","",1)
+        boundaries = {
+            'replicase':{'Betacoronavirus1':(210,21496), '229E':(293,20568)},
+            'last7':{'Betacoronavirus1':(21506,30425), '229E':(20570,26855)}}
+        b = boundaries[real_gene][wildcards.id]
+        from Bio import SeqIO
+        alignment = SeqIO.parse(input[0], "fasta")
+        with open(output.sequences, "w") as oh:
+            for record in alignment:
+                sequence = record.seq.tomutable()
+                gene_keep = sequence[b[0]:b[1]]
+                sequence[0:len(sequence)] = len(sequence)*"N"
+                sequence[b[0]:b[1]] = gene_keep
+                record.seq = sequence
+                SeqIO.write(record, oh, "fasta")
+
 #Build initial tree
 rule tree:
     message: "Building initial tree"
     input:
-        alignment = rules.mask.output.sequences
+        alignment = rules.sub_alignments.output.sequences #rules.mask.output.sequences
     output:
-        tree = "{id}/results/tree_raw.nwk"
+        tree = "{id}/results/tree_raw{gene}.nwk"
     shell:
         """
         augur tree \
@@ -496,11 +532,11 @@ rule refine:
         """
     input:
         tree = rules.tree.output.tree,
-        alignment = rules.mask.output.sequences,
+        alignment = rules.sub_alignments.output.sequences, #rules.mask.output.sequences,
         metadata = rules.extra_meta.output.meta
     output:
-        tree = "{id}/results/tree.nwk",
-        node_data = "{id}/results/branch_lengths.json"
+        tree = "{id}/results/tree{gene}.nwk",
+        node_data = "{id}/results/branch_lengths{gene}.json"
     params:
         clock_rate = 0.000459, # estimate taken from MERS via Dudas et al. 2018. eLife.
         clock_std_dev = 0.0003,
@@ -542,9 +578,9 @@ rule ancestral:
     message: "Reconstructing ancestral sequences and mutations"
     input:
         tree = rules.refine.output.tree,
-        alignment = rules.mask.output.sequences
+        alignment = rules.sub_alignments.output.sequences #rules.mask.output.sequences
     output:
-        node_data = "{id}/results/nt_muts.json"
+        node_data = "{id}/results/nt_muts{gene}.json"
     params:
         inference = "joint"
     shell:
@@ -563,7 +599,7 @@ rule translate:
         node_data = rules.ancestral.output.node_data,
         reference = files.translate_reference
     output:
-        node_data = "{id}/results/aa_muts.json"
+        node_data = "{id}/results/aa_muts{gene}.json"
     shell:
         """
         augur translate \
@@ -586,7 +622,7 @@ rule export:
         lat_longs = files.lat_longs,
         description = files.description
     output:
-        auspice_json = "auspice/CoV_{id}.json" #rules.all.input.auspice_json
+        auspice_json = "auspice/CoV_{id}{gene}.json" #rules.all.input.auspice_json
     shell:
         """
         augur export v2 \
@@ -598,5 +634,5 @@ rule export:
             --lat-longs {input.lat_longs} \
             --description {input.description} \
             --output {output.auspice_json} \
-            --title "Genomic epidemiology of Coronavirus (CoV) {wildcards.id} using data from ViPR & GenBank"
+            --title "Genomic epidemiology of Coronavirus (CoV) {wildcards.id}{wildcards.gene} using data from ViPR & GenBank"
         """

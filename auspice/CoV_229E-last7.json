@@ -1,0 +1,2002 @@
+{
+  "meta": {
+    "build_url": "https://github.com/nextstrain/cov",
+    "colorings": [
+      {
+        "key": "num_date",
+        "title": "Sampling date",
+        "type": "continuous"
+      },
+      {
+        "key": "gt",
+        "title": "Genotype",
+        "type": "categorical"
+      },
+      {
+        "key": "region",
+        "scale": [
+          [
+            "europe",
+            "#E39B39"
+          ],
+          [
+            "north_america",
+            "#DC2F24"
+          ]
+        ],
+        "title": "Region",
+        "type": "categorical"
+      },
+      {
+        "key": "country",
+        "title": "Country",
+        "type": "categorical"
+      },
+      {
+        "key": "host",
+        "title": "Host",
+        "type": "categorical"
+      },
+      {
+        "key": "virus",
+        "title": "Virus",
+        "type": "categorical"
+      },
+      {
+        "key": "author",
+        "title": "Authors",
+        "type": "categorical"
+      }
+    ],
+    "description": "This phylogeny shows a tree of full-length Human Coronavirus 229E sequences from ViPR.\n",
+    "display_defaults": {
+      "color_by": "country",
+      "distance_measure": "div",
+      "geo_resolution": "country"
+    },
+    "filters": [
+      "country",
+      "region",
+      "host"
+    ],
+    "genome_annotations": {
+      "4a": {
+        "end": 24492,
+        "seqid": "229E/config/CoV-229E-translate_reference.gb",
+        "start": 24091,
+        "strand": "+",
+        "type": "CDS"
+      },
+      "4b": {
+        "end": 24748,
+        "seqid": "229E/config/CoV-229E-translate_reference.gb",
+        "start": 24482,
+        "strand": "+",
+        "type": "CDS"
+      },
+      "E": {
+        "end": 24983,
+        "seqid": "229E/config/CoV-229E-translate_reference.gb",
+        "start": 24750,
+        "strand": "+",
+        "type": "CDS"
+      },
+      "M": {
+        "end": 25672,
+        "seqid": "229E/config/CoV-229E-translate_reference.gb",
+        "start": 24995,
+        "strand": "+",
+        "type": "CDS"
+      },
+      "N": {
+        "end": 26855,
+        "seqid": "229E/config/CoV-229E-translate_reference.gb",
+        "start": 25686,
+        "strand": "+",
+        "type": "CDS"
+      },
+      "S": {
+        "end": 24091,
+        "seqid": "229E/config/CoV-229E-translate_reference.gb",
+        "start": 20570,
+        "strand": "+",
+        "type": "CDS"
+      },
+      "nuc": {
+        "end": 27317,
+        "seqid": "229E/config/CoV-229E-translate_reference.gb",
+        "start": 1,
+        "strand": "+",
+        "type": "source"
+      },
+      "replicase_polyprotein_1a": {
+        "end": 12550,
+        "seqid": "229E/config/CoV-229E-translate_reference.gb",
+        "start": 293,
+        "strand": "+",
+        "type": "CDS"
+      },
+      "replicase_polyprotein_1b": {
+        "end": 20568,
+        "seqid": "229E/config/CoV-229E-translate_reference.gb",
+        "start": 12520,
+        "strand": "+",
+        "type": "CDS"
+      }
+    },
+    "geo_resolutions": [
+      {
+        "demes": {
+          "Germany": {
+            "latitude": 51.0834196,
+            "longitude": 10.4234469
+          },
+          "Haiti": {
+            "latitude": 19.1399952,
+            "longitude": -72.3570971
+          },
+          "Italy": {
+            "latitude": 42.6384261,
+            "longitude": 12.674297
+          },
+          "Netherlands": {
+            "latitude": 52.3702,
+            "longitude": 4.8952
+          },
+          "USA": {
+            "latitude": 39.7837304,
+            "longitude": -100.4458824
+          }
+        },
+        "key": "country"
+      },
+      {
+        "demes": {
+          "europe": {
+            "latitude": 49.646237,
+            "longitude": 10.799454
+          },
+          "north_america": {
+            "latitude": 28.2367447,
+            "longitude": -97.738017
+          }
+        },
+        "key": "region"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Emma Hodcroft",
+        "url": "https://neherlab.org/emma-hodcroft.html"
+      },
+      {
+        "name": "Richard Neher",
+        "url": "https://neherlab.org/"
+      },
+      {
+        "name": "Trevor Bedford",
+        "url": "https://bedford.io"
+      }
+    ],
+    "panels": [
+      "tree",
+      "map",
+      "entropy"
+    ],
+    "title": "Genomic epidemiology of Coronavirus (CoV) 229E-last7 using data from ViPR & GenBank",
+    "updated": "2020-01-28"
+  },
+  "tree": {
+    "branch_attrs": {
+      "mutations": {}
+    },
+    "children": [
+      {
+        "branch_attrs": {
+          "labels": {
+            "aa": "E: I12V; S: R89Q"
+          },
+          "mutations": {
+            "E": [
+              "I12V"
+            ],
+            "S": [
+              "R89Q"
+            ],
+            "nuc": [
+              "G20835A",
+              "C21196T",
+              "T22840G",
+              "T22876C",
+              "T23143C",
+              "G23890T",
+              "C24718T",
+              "A24783G",
+              "C25102T",
+              "A26657G",
+              "C26849A"
+            ]
+          }
+        },
+        "name": "229E/human/USA/933-50/1993__KF514430",
+        "node_attrs": {
+          "accession": "KF514430",
+          "author": {
+            "author": "Town,C.D., Halpin,R.A., Ransier,A., Fedorova,N., Tsitrin,T., Stockwell,T., Amedeo,P., Appalla,L., Bishop,B., Edworthy,P., Gupta,N., Hoover,J., Katzel,D., Schobel,S., Shrivastava,S., Thovarai,V., Wang,S., Talbot,H.K., Wentworth,D.E. and Williams,J.V.",
+            "title": "Direct Submission",
+            "value": "Town,C.D., Halpin,R.A., Ransier,A., Fedorova,N., Tsitrin,T., Stockwell,T., Amedeo,P., Appalla,L., Bishop,B., Edworthy,P., Gupta,N., Hoover,J., Katzel,D., Schobel,S., Shrivastava,S., Thovarai,V., Wang,S., Talbot,H.K., Wentworth,D.E. and Williams,J.V."
+          },
+          "country": {
+            "value": "USA"
+          },
+          "div": 0.00028672802213834734,
+          "host": {
+            "value": "Human"
+          },
+          "num_date": {
+            "confidence": [
+              1993.2108145106092,
+              1993.2108145106092
+            ],
+            "value": 1993.2108145106092
+          },
+          "region": {
+            "value": "north_america"
+          },
+          "url": "https://www.ncbi.nlm.nih.gov/nuccore/KF514430",
+          "virus": {
+            "value": "Human coronavirus 229E"
+          }
+        }
+      },
+      {
+        "branch_attrs": {
+          "mutations": {}
+        },
+        "children": [
+          {
+            "branch_attrs": {
+              "labels": {
+                "aa": "S: N411T"
+              },
+              "mutations": {
+                "S": [
+                  "N411T"
+                ],
+                "nuc": [
+                  "G21445A",
+                  "A21801C",
+                  "C22474T",
+                  "C23521T"
+                ]
+              }
+            },
+            "name": "229E/human/USA/932-72/1993__KF514432",
+            "node_attrs": {
+              "accession": "KF514432",
+              "author": {
+                "author": "Town,C.D., Halpin,R.A., Ransier,A., Fedorova,N., Tsitrin,T., Stockwell,T., Amedeo,P., Appalla,L., Bishop,B., Edworthy,P., Gupta,N., Hoover,J., Katzel,D., Schobel,S., Shrivastava,S., Thovarai,V., Wang,S., Talbot,H.K., Wentworth,D.E. and Williams,J.V.",
+                "title": "Direct Submission",
+                "value": "Town,C.D., Halpin,R.A., Ransier,A., Fedorova,N., Tsitrin,T., Stockwell,T., Amedeo,P., Appalla,L., Bishop,B., Edworthy,P., Gupta,N., Hoover,J., Katzel,D., Schobel,S., Shrivastava,S., Thovarai,V., Wang,S., Talbot,H.K., Wentworth,D.E. and Williams,J.V."
+              },
+              "country": {
+                "value": "USA"
+              },
+              "div": 0.0002816810758531325,
+              "host": {
+                "value": "Human"
+              },
+              "num_date": {
+                "confidence": [
+                  1993.145106091718,
+                  1993.145106091718
+                ],
+                "value": 1993.145106091718
+              },
+              "region": {
+                "value": "north_america"
+              },
+              "url": "https://www.ncbi.nlm.nih.gov/nuccore/KF514432",
+              "virus": {
+                "value": "Human coronavirus 229E"
+              }
+            }
+          },
+          {
+            "branch_attrs": {
+              "labels": {
+                "aa": "S: T210S"
+              },
+              "mutations": {
+                "S": [
+                  "T210S"
+                ],
+                "nuc": [
+                  "A20677G",
+                  "A21197T",
+                  "T23845C",
+                  "C24001T",
+                  "C25285T"
+                ]
+              }
+            },
+            "children": [
+              {
+                "branch_attrs": {
+                  "labels": {
+                    "aa": "N: G18S"
+                  },
+                  "mutations": {
+                    "N": [
+                      "G18S"
+                    ],
+                    "nuc": [
+                      "T21997C",
+                      "G25737A"
+                    ]
+                  }
+                },
+                "name": "229E/human/USA/933-40/1993__KF514433",
+                "node_attrs": {
+                  "accession": "KF514433",
+                  "author": {
+                    "author": "Town,C.D., Halpin,R.A., Ransier,A., Fedorova,N., Tsitrin,T., Stockwell,T., Amedeo,P., Appalla,L., Bishop,B., Edworthy,P., Gupta,N., Hoover,J., Katzel,D., Schobel,S., Shrivastava,S., Thovarai,V., Wang,S., Talbot,H.K., Wentworth,D.E. and Williams,J.V.",
+                    "title": "Direct Submission",
+                    "value": "Town,C.D., Halpin,R.A., Ransier,A., Fedorova,N., Tsitrin,T., Stockwell,T., Amedeo,P., Appalla,L., Bishop,B., Edworthy,P., Gupta,N., Hoover,J., Katzel,D., Schobel,S., Shrivastava,S., Thovarai,V., Wang,S., Talbot,H.K., Wentworth,D.E. and Williams,J.V."
+                  },
+                  "country": {
+                    "value": "USA"
+                  },
+                  "div": 0.00039532226467778347,
+                  "host": {
+                    "value": "Human"
+                  },
+                  "num_date": {
+                    "confidence": [
+                      1993.1916495550993,
+                      1993.1916495550993
+                    ],
+                    "value": 1993.1916495550993
+                  },
+                  "region": {
+                    "value": "north_america"
+                  },
+                  "url": "https://www.ncbi.nlm.nih.gov/nuccore/KF514433",
+                  "virus": {
+                    "value": "Human coronavirus 229E"
+                  }
+                }
+              },
+              {
+                "branch_attrs": {
+                  "labels": {
+                    "aa": "S: D51N, F90L, E225A, K309E, S312R, V314P, A355V"
+                  },
+                  "mutations": {
+                    "S": [
+                      "D51N",
+                      "F90L",
+                      "E225A",
+                      "K309E",
+                      "S312R",
+                      "V314P",
+                      "A355V"
+                    ],
+                    "nuc": [
+                      "G20720A",
+                      "T20837C",
+                      "A21241T",
+                      "A21243C",
+                      "C21337T",
+                      "A21494G",
+                      "A21503C",
+                      "G21509C",
+                      "T21510C",
+                      "T21583C",
+                      "C21633T",
+                      "A21856G",
+                      "C22300T",
+                      "C22714T",
+                      "A22801T",
+                      "G23890T",
+                      "T23998C",
+                      "T24550C",
+                      "T25237C",
+                      "C25279T",
+                      "C25985T",
+                      "G26150T"
+                    ]
+                  }
+                },
+                "children": [
+                  {
+                    "branch_attrs": {
+                      "labels": {
+                        "aa": "N: D90A, A220S; S: V70F, S268A"
+                      },
+                      "mutations": {
+                        "N": [
+                          "D90A",
+                          "A220S"
+                        ],
+                        "S": [
+                          "V70F",
+                          "S268A"
+                        ],
+                        "nuc": [
+                          "G20777T",
+                          "T21371G",
+                          "T21976C",
+                          "C22423T",
+                          "C22474T",
+                          "C22663T",
+                          "C22729T",
+                          "T22888C",
+                          "C23234T",
+                          "T23902C",
+                          "C24223T",
+                          "C24346T",
+                          "C24435T",
+                          "A25817G",
+                          "A25954C",
+                          "G26343T",
+                          "C26768T"
+                        ]
+                      }
+                    },
+                    "name": "J0304__JX503061",
+                    "node_attrs": {
+                      "accession": "JX503061",
+                      "author": {
+                        "author": "Farsani,S.M., Dijkman,R., Jebbink,M.F., Goossens,H., Ieven,M., Deijs,M., Molenkamp,R. and van der Hoek,L.",
+                        "title": "The first complete genome sequences of clinical isolates of human coronavirus 229E",
+                        "value": "Farsani,S.M., Dijkman,R., Jebbink,M.F., Goossens,H., Ieven,M., Deijs,M., Molenkamp,R. and van der Hoek,L."
+                      },
+                      "country": {
+                        "value": "Italy"
+                      },
+                      "div": 0.001797975260961243,
+                      "host": {
+                        "value": "Human"
+                      },
+                      "num_date": {
+                        "confidence": [
+                          2009.002737850787,
+                          2009.83996084353
+                        ],
+                        "value": 2009.002737850787
+                      },
+                      "region": {
+                        "value": "europe"
+                      },
+                      "url": "https://www.ncbi.nlm.nih.gov/nuccore/JX503061",
+                      "virus": {
+                        "value": "Human coronavirus 229E"
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {
+                      "mutations": {
+                        "nuc": [
+                          "C21172T",
+                          "T24001C",
+                          "C24568T",
+                          "C24926T"
+                        ]
+                      }
+                    },
+                    "children": [
+                      {
+                        "branch_attrs": {
+                          "labels": {
+                            "aa": "N: D196E; S: I290T, T1090I"
+                          },
+                          "mutations": {
+                            "N": [
+                              "D196E"
+                            ],
+                            "S": [
+                              "I290T",
+                              "T1090I"
+                            ],
+                            "nuc": [
+                              "T21438C",
+                              "C21493T",
+                              "T22117A",
+                              "T22567C",
+                              "T22660C",
+                              "T22739C",
+                              "C23838T",
+                              "C24079T",
+                              "C24745T",
+                              "C26273G",
+                              "C26669T"
+                            ]
+                          }
+                        },
+                        "name": "N08-434B__KY674919",
+                        "node_attrs": {
+                          "accession": "KY674919",
+                          "author": {
+                            "author": "Greninger,A.L., Makhsous,N., Kuypers,J., Shean,R.C. and Jerome,K.R.",
+                            "title": "Genome sequences of viral positives at UW Virology",
+                            "value": "Greninger,A.L., Makhsous,N., Kuypers,J., Shean,R.C. and Jerome,K.R."
+                          },
+                          "country": {
+                            "value": "USA"
+                          },
+                          "div": 0.001722111180886316,
+                          "host": {
+                            "value": "Human"
+                          },
+                          "num_date": {
+                            "confidence": [
+                              2016.002737850787,
+                              2016.90212183436
+                            ],
+                            "value": 2016.002737850787
+                          },
+                          "region": {
+                            "value": "north_america"
+                          },
+                          "url": "https://www.ncbi.nlm.nih.gov/nuccore/KY674919",
+                          "virus": {
+                            "value": "Human coronavirus 229E"
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {
+                          "labels": {
+                            "aa": "N: G159S; S: M22T, L90F, F357L, A405V, L407H, N408K, R971I"
+                          },
+                          "mutations": {
+                            "N": [
+                              "G159S"
+                            ],
+                            "S": [
+                              "M22T",
+                              "L90F",
+                              "F357L",
+                              "A405V",
+                              "L407H",
+                              "N408K",
+                              "R971I"
+                            ],
+                            "nuc": [
+                              "T20634C",
+                              "C20837T",
+                              "T21638C",
+                              "C21783T",
+                              "T21789A",
+                              "T21793A",
+                              "G23481T",
+                              "G23914T",
+                              "T24378G",
+                              "T25751C",
+                              "C25946T",
+                              "G26160A",
+                              "T26315C"
+                            ]
+                          }
+                        },
+                        "children": [
+                          {
+                            "branch_attrs": {
+                              "labels": {
+                                "aa": "S: G175D"
+                              },
+                              "mutations": {
+                                "S": [
+                                  "G175D"
+                                ],
+                                "nuc": [
+                                  "G21093A",
+                                  "T21238C",
+                                  "T21391C",
+                                  "C21446T",
+                                  "T21487C",
+                                  "C21952T",
+                                  "G24153T",
+                                  "C26760T"
+                                ]
+                              }
+                            },
+                            "children": [
+                              {
+                                "branch_attrs": {
+                                  "mutations": {}
+                                },
+                                "name": "0349__JX503060",
+                                "node_attrs": {
+                                  "accession": "JX503060",
+                                  "author": {
+                                    "author": "Farsani,S.M., Dijkman,R., Jebbink,M.F., Goossens,H., Ieven,M., Deijs,M., Molenkamp,R. and van der Hoek,L.",
+                                    "title": "The first complete genome sequences of clinical isolates of human coronavirus 229E",
+                                    "value": "Farsani,S.M., Dijkman,R., Jebbink,M.F., Goossens,H., Ieven,M., Deijs,M., Molenkamp,R. and van der Hoek,L."
+                                  },
+                                  "country": {
+                                    "value": "Netherlands"
+                                  },
+                                  "div": 0.002025106179236842,
+                                  "host": {
+                                    "value": "Human"
+                                  },
+                                  "num_date": {
+                                    "confidence": [
+                                      2010.54234169906,
+                                      2010.9993155373031
+                                    ],
+                                    "value": 2010.9993155373031
+                                  },
+                                  "region": {
+                                    "value": "europe"
+                                  },
+                                  "url": "https://www.ncbi.nlm.nih.gov/nuccore/JX503060",
+                                  "virus": {
+                                    "value": "Human coronavirus 229E"
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {
+                                  "labels": {
+                                    "aa": "N: I46V; S: N213D"
+                                  },
+                                  "mutations": {
+                                    "N": [
+                                      "I46V"
+                                    ],
+                                    "S": [
+                                      "N213D"
+                                    ],
+                                    "nuc": [
+                                      "A21206G",
+                                      "A25821G",
+                                      "C25913A"
+                                    ]
+                                  }
+                                },
+                                "name": "229E/UF-1/2016__KY996417",
+                                "node_attrs": {
+                                  "accession": "KY996417",
+                                  "author": {
+                                    "author": "Bonny,T.S., Yezli,S. and Lednicky,J.A.",
+                                    "title": "Isolation and identification of human coronavirus 229E from frequently touched environmental surfaces of a university classroom that is cleaned daily",
+                                    "value": "Bonny,T.S., Yezli,S. and Lednicky,J.A."
+                                  },
+                                  "country": {
+                                    "value": "USA"
+                                  },
+                                  "div": 0.0021387108540488788,
+                                  "num_date": {
+                                    "confidence": [
+                                      2016.8980150581792,
+                                      2016.8980150581792
+                                    ],
+                                    "value": 2016.8980150581792
+                                  },
+                                  "region": {
+                                    "value": "north_america"
+                                  },
+                                  "url": "https://www.ncbi.nlm.nih.gov/nuccore/KY996417",
+                                  "virus": {
+                                    "value": "Human coronavirus 229E"
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000000",
+                            "node_attrs": {
+                              "div": 0.0020251061792368416,
+                              "num_date": {
+                                "confidence": [
+                                  2010.8520138324825,
+                                  2010.9640795522275
+                                ],
+                                "value": 2010.9640795522275
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {
+                              "labels": {
+                                "aa": "N: I46V, V140A; S: R89Q, D104A, S283P, L310H, R316K, V325I, G352D, D358A"
+                              },
+                              "mutations": {
+                                "N": [
+                                  "I46V",
+                                  "V140A"
+                                ],
+                                "S": [
+                                  "R89Q",
+                                  "D104A",
+                                  "S283P",
+                                  "L310H",
+                                  "R316K",
+                                  "V325I",
+                                  "G352D",
+                                  "D358A"
+                                ],
+                                "nuc": [
+                                  "G20835A",
+                                  "A20880C",
+                                  "T21368C",
+                                  "T21416C",
+                                  "T21498A",
+                                  "G21516A",
+                                  "G21542A",
+                                  "G21624A",
+                                  "A21642C",
+                                  "T23426C",
+                                  "C23740T",
+                                  "A25821G",
+                                  "T26104C"
+                                ]
+                              }
+                            },
+                            "children": [
+                              {
+                                "branch_attrs": {
+                                  "labels": {
+                                    "aa": "S: K792R"
+                                  },
+                                  "mutations": {
+                                    "S": [
+                                      "K792R"
+                                    ],
+                                    "nuc": [
+                                      "T22447C",
+                                      "A22944G"
+                                    ]
+                                  }
+                                },
+                                "children": [
+                                  {
+                                    "branch_attrs": {
+                                      "labels": {
+                                        "aa": "S: N213D"
+                                      },
+                                      "mutations": {
+                                        "S": [
+                                          "N213D"
+                                        ],
+                                        "nuc": [
+                                          "G20872C",
+                                          "A21206G",
+                                          "T22216G"
+                                        ]
+                                      }
+                                    },
+                                    "children": [
+                                      {
+                                        "branch_attrs": {
+                                          "labels": {
+                                            "aa": "E: L17I; S: H407S, S586F"
+                                          },
+                                          "mutations": {
+                                            "E": [
+                                              "L17I"
+                                            ],
+                                            "S": [
+                                              "H407S",
+                                              "S586F"
+                                            ],
+                                            "nuc": [
+                                              "T21700C",
+                                              "C21788T",
+                                              "A21789C",
+                                              "C22326T",
+                                              "C22609T",
+                                              "C24798A",
+                                              "C25913A",
+                                              "C26639T",
+                                              "C26852T"
+                                            ]
+                                          }
+                                        },
+                                        "name": "HCoV-229E/BN1/GER/2015__KU291448",
+                                        "node_attrs": {
+                                          "accession": "KU291448",
+                                          "author": {
+                                            "author": "Corman,V.M., Eckerle,I., Memish,Z.A., Liljander,A.M., Dijkman,R., Jonsdottir,H., Juma Ngeiywa,K.J., Kamau,E., Younan,M., Al Masri,M., Assiri,A., Gluecks,I., Musa,B.E., Meyer,B., Muller,M.A., Hilali,M., Bornstein,S., Wernery,U., Thiel,V., Jores,J., Drexler,J.F. and Drosten,C.",
+                                            "title": "Link of a ubiquitous human coronavirus to dromedary camels",
+                                            "value": "Corman,V.M., Eckerle,I., Memish,Z.A., Liljander,A.M., Dijkman,R., Jonsdottir,H., Juma Ngeiywa,K.J., Kamau,E., Younan,M., Al Masri,M., Assiri,A., Gluecks,I., Musa,B.E., Meyer,B., Muller,M.A., Hilali,M., Bornstein,S., Wernery,U., Thiel,V., Jores,J., Drexler,J.F. and Drosten,C."
+                                          },
+                                          "country": {
+                                            "value": "Germany"
+                                          },
+                                          "div": 0.002745607795950584,
+                                          "host": {
+                                            "value": "Human"
+                                          },
+                                          "num_date": {
+                                            "confidence": [
+                                              2015.002737850787,
+                                              2015.9993155373031
+                                            ],
+                                            "value": 2015.5783674139525
+                                          },
+                                          "region": {
+                                            "value": "europe"
+                                          },
+                                          "url": "https://www.ncbi.nlm.nih.gov/nuccore/KU291448",
+                                          "virus": {
+                                            "value": "Human coronavirus 229E"
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {
+                                          "labels": {
+                                            "aa": "4a: Q9H; N: E33D, E141D; S: A41D, Y305H, N307K"
+                                          },
+                                          "mutations": {
+                                            "4a": [
+                                              "Q9H"
+                                            ],
+                                            "N": [
+                                              "E33D",
+                                              "E141D"
+                                            ],
+                                            "S": [
+                                              "A41D",
+                                              "Y305H",
+                                              "N307K"
+                                            ],
+                                            "nuc": [
+                                              "C20691A",
+                                              "T21482C",
+                                              "C21490A",
+                                              "T22084C",
+                                              "A23452G",
+                                              "A24117T",
+                                              "T25381C",
+                                              "G25513T",
+                                              "C25751T",
+                                              "A25784C",
+                                              "A26108T"
+                                            ]
+                                          }
+                                        },
+                                        "children": [
+                                          {
+                                            "branch_attrs": {
+                                              "labels": {
+                                                "aa": "M: M90I; N: G161V; S: H26N, N38I, P49T, F52V, V288M, R311Q, A323S"
+                                              },
+                                              "mutations": {
+                                                "M": [
+                                                  "M90I"
+                                                ],
+                                                "N": [
+                                                  "G161V"
+                                                ],
+                                                "S": [
+                                                  "H26N",
+                                                  "N38I",
+                                                  "P49T",
+                                                  "F52V",
+                                                  "V288M",
+                                                  "R311Q",
+                                                  "A323S"
+                                                ],
+                                                "nuc": [
+                                                  "C20645A",
+                                                  "A20682T",
+                                                  "C20714A",
+                                                  "T20723G",
+                                                  "C21425T",
+                                                  "G21431A",
+                                                  "G21501A",
+                                                  "G21536T",
+                                                  "A22069G",
+                                                  "C22447T",
+                                                  "C22636T",
+                                                  "G25264A",
+                                                  "C25624T",
+                                                  "G26167T"
+                                                ]
+                                              }
+                                            },
+                                            "name": "229E/Haiti-1/2016__MF542265",
+                                            "node_attrs": {
+                                              "accession": "MF542265",
+                                              "author": {
+                                                "author": "Bonny,T.S., Subramaniam,K., Waltzek,T.B., Elbadry,M.A., Beau De Rochars,V.M., Telisma,T., Rashid,M., Morris,J.G. Jr. and Lednicky,J.A.",
+                                                "title": "Complete Genome Sequence of Human Coronavirus Strain 229E Isolated from Plasma Collected from a Haitian Child in 2016",
+                                                "value": "Bonny,T.S., Subramaniam,K., Waltzek,T.B., Elbadry,M.A., Beau De Rochars,V.M., Telisma,T., Rashid,M., Morris,J.G. Jr. and Lednicky,J.A."
+                                              },
+                                              "country": {
+                                                "value": "Haiti"
+                                              },
+                                              "div": 0.0032766983272781575,
+                                              "host": {
+                                                "value": "Human"
+                                              },
+                                              "num_date": {
+                                                "confidence": [
+                                                  2016.1776376449354,
+                                                  2016.2491444216291
+                                                ],
+                                                "value": 2016.2491444216291
+                                              },
+                                              "region": {
+                                                "value": "north_america"
+                                              },
+                                              "url": "https://www.ncbi.nlm.nih.gov/nuccore/MF542265",
+                                              "virus": {
+                                                "value": "Human coronavirus 229E"
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {
+                                              "labels": {
+                                                "aa": "S: V288E, R311G, N845S"
+                                              },
+                                              "mutations": {
+                                                "S": [
+                                                  "V288E",
+                                                  "R311G",
+                                                  "N845S"
+                                                ],
+                                                "nuc": [
+                                                  "T21432A",
+                                                  "C21500G",
+                                                  "C21520T",
+                                                  "C21850T",
+                                                  "A22816T",
+                                                  "A23103G",
+                                                  "G23311T"
+                                                ]
+                                              }
+                                            },
+                                            "name": "SC2282__KY684760",
+                                            "node_attrs": {
+                                              "accession": "KY684760",
+                                              "author": {
+                                                "author": "Greninger,A.L., Makhsous,N., Kuypers,J., Shean,R.C. and Jerome,K.R.",
+                                                "title": "Genome sequences of viral positives at UW Virology",
+                                                "value": "Greninger,A.L., Makhsous,N., Kuypers,J., Shean,R.C. and Jerome,K.R."
+                                              },
+                                              "country": {
+                                                "value": "USA"
+                                              },
+                                              "div": 0.0030112423114271266,
+                                              "host": {
+                                                "value": "Human"
+                                              },
+                                              "num_date": {
+                                                "confidence": [
+                                                  2016.002737850787,
+                                                  2016.5019610613583
+                                                ],
+                                                "value": 2016.002737850787
+                                              },
+                                              "region": {
+                                                "value": "north_america"
+                                              },
+                                              "url": "https://www.ncbi.nlm.nih.gov/nuccore/KY684760",
+                                              "virus": {
+                                                "value": "Human coronavirus 229E"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000009",
+                                        "node_attrs": {
+                                          "div": 0.0027457858635431057,
+                                          "num_date": {
+                                            "confidence": [
+                                              2015.2023684392204,
+                                              2015.7442806279637
+                                            ],
+                                            "value": 2015.4257516023297
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000008",
+                                    "node_attrs": {
+                                      "div": 0.0023664855588843374,
+                                      "num_date": {
+                                        "confidence": [
+                                          2014.4014537311075,
+                                          2015.063877455523
+                                        ],
+                                        "value": 2014.7516198050357
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {
+                                      "labels": {
+                                        "aa": "S: R311Q, N377I, D391Y, V739A"
+                                      },
+                                      "mutations": {
+                                        "S": [
+                                          "R311Q",
+                                          "N377I",
+                                          "D391Y",
+                                          "V739A"
+                                        ],
+                                        "nuc": [
+                                          "G21501A",
+                                          "T21622C",
+                                          "A21699T",
+                                          "G21740T",
+                                          "T22057C",
+                                          "G22693A",
+                                          "T22785C",
+                                          "C24291T",
+                                          "G25513T",
+                                          "C25751T"
+                                        ]
+                                      }
+                                    },
+                                    "children": [
+                                      {
+                                        "branch_attrs": {
+                                          "labels": {
+                                            "aa": "4a: I19T; S: F90V, T91I, N365D, H407Y"
+                                          },
+                                          "mutations": {
+                                            "4a": [
+                                              "I19T"
+                                            ],
+                                            "S": [
+                                              "F90V",
+                                              "T91I",
+                                              "N365D",
+                                              "H407Y"
+                                            ],
+                                            "nuc": [
+                                              "T20837G",
+                                              "C20841T",
+                                              "T21625C",
+                                              "A21662G",
+                                              "C21788T",
+                                              "T24146C",
+                                              "C26159T",
+                                              "T26552C"
+                                            ]
+                                          }
+                                        },
+                                        "children": [
+                                          {
+                                            "branch_attrs": {
+                                              "labels": {
+                                                "aa": "S: S27A, A358P"
+                                              },
+                                              "mutations": {
+                                                "S": [
+                                                  "S27A",
+                                                  "A358P"
+                                                ],
+                                                "nuc": [
+                                                  "T20648G",
+                                                  "A21271G",
+                                                  "G21641C",
+                                                  "G22162A",
+                                                  "G22342T",
+                                                  "A26024G",
+                                                  "C26651T"
+                                                ]
+                                              }
+                                            },
+                                            "name": "SC0865__MN306046",
+                                            "node_attrs": {
+                                              "accession": "MN306046",
+                                              "author": {
+                                                "author": "Lin,M.J., Tait,A. and Greninger,A.L.",
+                                                "title": "Genome sequences of clinical viruses from UW Virology",
+                                                "value": "Lin,M.J., Tait,A. and Greninger,A.L."
+                                              },
+                                              "country": {
+                                                "value": "USA"
+                                              },
+                                              "div": 0.003162735420344837,
+                                              "host": {
+                                                "value": "Human"
+                                              },
+                                              "num_date": {
+                                                "confidence": [
+                                                  2019.002737850787,
+                                                  2019.3147548334034
+                                                ],
+                                                "value": 2019.002737850787
+                                              },
+                                              "region": {
+                                                "value": "north_america"
+                                              },
+                                              "url": "https://www.ncbi.nlm.nih.gov/nuccore/MN306046",
+                                              "virus": {
+                                                "value": "Human coronavirus 229E"
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {
+                                              "labels": {
+                                                "aa": "4a: V126A; N: S165F; S: I281T"
+                                              },
+                                              "mutations": {
+                                                "4a": [
+                                                  "V126A"
+                                                ],
+                                                "N": [
+                                                  "S165F"
+                                                ],
+                                                "S": [
+                                                  "I281T"
+                                                ],
+                                                "nuc": [
+                                                  "T21034G",
+                                                  "G21301T",
+                                                  "T21411C",
+                                                  "C21493T",
+                                                  "T23225C",
+                                                  "T24467C",
+                                                  "C25516T",
+                                                  "C26179T"
+                                                ]
+                                              }
+                                            },
+                                            "name": "SC9724__MN369046",
+                                            "node_attrs": {
+                                              "accession": "MN369046",
+                                              "author": {
+                                                "author": "Lin,M.J., Tait,A. and Greninger,A.L.",
+                                                "title": "Genome sequences of clinical viruses from UW Virology",
+                                                "value": "Lin,M.J., Tait,A. and Greninger,A.L."
+                                              },
+                                              "country": {
+                                                "value": "USA"
+                                              },
+                                              "div": 0.0032006032398878594,
+                                              "host": {
+                                                "value": "Human"
+                                              },
+                                              "num_date": {
+                                                "confidence": [
+                                                  2018.002737850787,
+                                                  2018.9993155373031
+                                                ],
+                                                "value": 2018.2939315677963
+                                              },
+                                              "region": {
+                                                "value": "north_america"
+                                              },
+                                              "url": "https://www.ncbi.nlm.nih.gov/nuccore/MN369046",
+                                              "virus": {
+                                                "value": "Human coronavirus 229E"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000011",
+                                        "node_attrs": {
+                                          "div": 0.0028972764469658786,
+                                          "num_date": {
+                                            "confidence": [
+                                              2017.2117869564333,
+                                              2018.026004256061
+                                            ],
+                                            "value": 2017.6854667266716
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {
+                                          "labels": {
+                                            "aa": "N: V60I; S: S86Y, Q89E"
+                                          },
+                                          "mutations": {
+                                            "N": [
+                                              "V60I"
+                                            ],
+                                            "S": [
+                                              "S86Y",
+                                              "Q89E"
+                                            ],
+                                            "nuc": [
+                                              "C20826A",
+                                              "C20834G",
+                                              "C21734T",
+                                              "G25799T",
+                                              "G25863A"
+                                            ]
+                                          }
+                                        },
+                                        "children": [
+                                          {
+                                            "branch_attrs": {
+                                              "mutations": {
+                                                "nuc": [
+                                                  "T24848C",
+                                                  "T26246G",
+                                                  "T26339C"
+                                                ]
+                                              }
+                                            },
+                                            "name": "SC9731__KY369912",
+                                            "node_attrs": {
+                                              "accession": "KY369912",
+                                              "author": {
+                                                "author": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R.",
+                                                "title": "Direct Submission",
+                                                "value": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R. A"
+                                              },
+                                              "country": {
+                                                "value": "USA"
+                                              },
+                                              "div": 0.002897173678462192,
+                                              "host": {
+                                                "value": "Human"
+                                              },
+                                              "num_date": {
+                                                "confidence": [
+                                                  2016.002737850787,
+                                                  2017.0020533880904
+                                                ],
+                                                "value": 2016.412572993249
+                                              },
+                                              "region": {
+                                                "value": "north_america"
+                                              },
+                                              "url": "https://www.ncbi.nlm.nih.gov/nuccore/KY369912",
+                                              "virus": {
+                                                "value": "Human coronavirus 229E"
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {
+                                              "labels": {
+                                                "aa": "S: T100N, A739V"
+                                              },
+                                              "mutations": {
+                                                "S": [
+                                                  "T100N",
+                                                  "A739V"
+                                                ],
+                                                "nuc": [
+                                                  "C20868A",
+                                                  "C21619T",
+                                                  "C22051T",
+                                                  "C22785T",
+                                                  "C23287T"
+                                                ]
+                                              }
+                                            },
+                                            "name": "SC9773__KY369914",
+                                            "node_attrs": {
+                                              "accession": "KY369914",
+                                              "author": {
+                                                "author": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R.",
+                                                "title": "Direct Submission",
+                                                "value": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R. A"
+                                              },
+                                              "country": {
+                                                "value": "USA"
+                                              },
+                                              "div": 0.0028971015754377005,
+                                              "host": {
+                                                "value": "Human"
+                                              },
+                                              "num_date": {
+                                                "confidence": [
+                                                  2016.002737850787,
+                                                  2017.0020533880904
+                                                ],
+                                                "value": 2016.4123803580649
+                                              },
+                                              "region": {
+                                                "value": "north_america"
+                                              },
+                                              "url": "https://www.ncbi.nlm.nih.gov/nuccore/KY369914",
+                                              "virus": {
+                                                "value": "Human coronavirus 229E"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000012",
+                                        "node_attrs": {
+                                          "div": 0.0027455865177229556,
+                                          "num_date": {
+                                            "confidence": [
+                                              2015.8060507028304,
+                                              2016.3371163399472
+                                            ],
+                                            "value": 2016.0015246959447
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000010",
+                                    "node_attrs": {
+                                      "div": 0.0025560467099138688,
+                                      "num_date": {
+                                        "confidence": [
+                                          2015.3990323777505,
+                                          2015.969558350034
+                                        ],
+                                        "value": 2015.7040473286231
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000007",
+                                "node_attrs": {
+                                  "div": 0.0022527546687698984,
+                                  "num_date": {
+                                    "confidence": [
+                                      2014.0806734033356,
+                                      2014.7747863489392
+                                    ],
+                                    "value": 2014.4588756236672
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {
+                                  "labels": {
+                                    "aa": "S: A53S, Y305H, N307K, R311Q, A323S, R1154K"
+                                  },
+                                  "mutations": {
+                                    "S": [
+                                      "A53S",
+                                      "Y305H",
+                                      "N307K",
+                                      "R311Q",
+                                      "A323S",
+                                      "R1154K"
+                                    ],
+                                    "nuc": [
+                                      "G20726T",
+                                      "C21425T",
+                                      "T21482C",
+                                      "C21490A",
+                                      "G21501A",
+                                      "G21536T",
+                                      "T21742C",
+                                      "G24030A",
+                                      "T25175C",
+                                      "C25301A"
+                                    ]
+                                  }
+                                },
+                                "children": [
+                                  {
+                                    "branch_attrs": {
+                                      "labels": {
+                                        "aa": "M: T169A; N: K62R, V257A; S: F90L, A248V, V288A, D453G, V739A"
+                                      },
+                                      "mutations": {
+                                        "M": [
+                                          "T169A"
+                                        ],
+                                        "N": [
+                                          "K62R",
+                                          "V257A"
+                                        ],
+                                        "S": [
+                                          "F90L",
+                                          "A248V",
+                                          "V288A",
+                                          "D453G",
+                                          "V739A"
+                                        ],
+                                        "nuc": [
+                                          "T20837C",
+                                          "C21037T",
+                                          "C21312T",
+                                          "T21432C",
+                                          "A21927G",
+                                          "T22785C",
+                                          "C23617T",
+                                          "G24228A",
+                                          "G25270T",
+                                          "A25499G",
+                                          "A25870G",
+                                          "T26114G",
+                                          "T26123C",
+                                          "C26132T",
+                                          "T26324C",
+                                          "T26455C"
+                                        ]
+                                      }
+                                    },
+                                    "children": [
+                                      {
+                                        "branch_attrs": {
+                                          "mutations": {}
+                                        },
+                                        "name": "SC1143__KY369910",
+                                        "node_attrs": {
+                                          "accession": "KY369910",
+                                          "author": {
+                                            "author": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R.",
+                                            "title": "Direct Submission",
+                                            "value": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R. A"
+                                          },
+                                          "country": {
+                                            "value": "USA"
+                                          },
+                                          "div": 0.0032010548994978387,
+                                          "host": {
+                                            "value": "Human"
+                                          },
+                                          "num_date": {
+                                            "confidence": [
+                                              2016.002737850787,
+                                              2017.0020533880904
+                                            ],
+                                            "value": 2016.054352234561
+                                          },
+                                          "region": {
+                                            "value": "north_america"
+                                          },
+                                          "url": "https://www.ncbi.nlm.nih.gov/nuccore/KY369910",
+                                          "virus": {
+                                            "value": "Human coronavirus 229E"
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {
+                                          "mutations": {}
+                                        },
+                                        "name": "SC1212__KY369911",
+                                        "node_attrs": {
+                                          "accession": "KY369911",
+                                          "author": {
+                                            "author": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R.",
+                                            "title": "Direct Submission",
+                                            "value": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R. A"
+                                          },
+                                          "country": {
+                                            "value": "USA"
+                                          },
+                                          "div": 0.0032010548994978387,
+                                          "host": {
+                                            "value": "Human"
+                                          },
+                                          "num_date": {
+                                            "confidence": [
+                                              2016.002737850787,
+                                              2017.0020533880904
+                                            ],
+                                            "value": 2016.054352234561
+                                          },
+                                          "region": {
+                                            "value": "north_america"
+                                          },
+                                          "url": "https://www.ncbi.nlm.nih.gov/nuccore/KY369911",
+                                          "virus": {
+                                            "value": "Human coronavirus 229E"
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000014",
+                                    "node_attrs": {
+                                      "div": 0.0032010548994978387,
+                                      "num_date": {
+                                        "confidence": [
+                                          2015.8908391840073,
+                                          2016.3357889034203
+                                        ],
+                                        "value": 2015.9900164664211
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {
+                                      "labels": {
+                                        "aa": "N: G161V; S: N213D, T227I, V288M"
+                                      },
+                                      "mutations": {
+                                        "N": [
+                                          "G161V"
+                                        ],
+                                        "S": [
+                                          "N213D",
+                                          "T227I",
+                                          "V288M"
+                                        ],
+                                        "nuc": [
+                                          "T20725C",
+                                          "G20782T",
+                                          "G20872C",
+                                          "A21206G",
+                                          "C21249T",
+                                          "G21431A",
+                                          "T25925C",
+                                          "G26167T"
+                                        ]
+                                      }
+                                    },
+                                    "children": [
+                                      {
+                                        "branch_attrs": {
+                                          "labels": {
+                                            "aa": "N: A147V; S: T602K"
+                                          },
+                                          "mutations": {
+                                            "N": [
+                                              "A147V"
+                                            ],
+                                            "S": [
+                                              "T602K"
+                                            ],
+                                            "nuc": [
+                                              "C22138A",
+                                              "C22374A",
+                                              "C26125T"
+                                            ]
+                                          }
+                                        },
+                                        "name": "SC1073__KY369913",
+                                        "node_attrs": {
+                                          "accession": "KY369913",
+                                          "author": {
+                                            "author": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R.",
+                                            "title": "Direct Submission",
+                                            "value": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R. A"
+                                          },
+                                          "country": {
+                                            "value": "USA"
+                                          },
+                                          "div": 0.003011208527238991,
+                                          "host": {
+                                            "value": "Human"
+                                          },
+                                          "num_date": {
+                                            "confidence": [
+                                              2016.002737850787,
+                                              2016.307557987212
+                                            ],
+                                            "value": 2016.002737850787
+                                          },
+                                          "region": {
+                                            "value": "north_america"
+                                          },
+                                          "url": "https://www.ncbi.nlm.nih.gov/nuccore/KY369913",
+                                          "virus": {
+                                            "value": "Human coronavirus 229E"
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {
+                                          "labels": {
+                                            "aa": "4a: D120Y; N: S232A; S: R102S, Y900H, I971T"
+                                          },
+                                          "mutations": {
+                                            "4a": [
+                                              "D120Y"
+                                            ],
+                                            "N": [
+                                              "S232A"
+                                            ],
+                                            "S": [
+                                              "R102S",
+                                              "Y900H",
+                                              "I971T"
+                                            ],
+                                            "nuc": [
+                                              "A20875C",
+                                              "C23036T",
+                                              "T23267C",
+                                              "T23481C",
+                                              "G24448T",
+                                              "C25516T",
+                                              "C25624T",
+                                              "C25627T",
+                                              "G26189T",
+                                              "T26379G"
+                                            ]
+                                          }
+                                        },
+                                        "children": [
+                                          {
+                                            "branch_attrs": {
+                                              "mutations": {}
+                                            },
+                                            "name": "SC677__KY369909",
+                                            "node_attrs": {
+                                              "accession": "KY369909",
+                                              "author": {
+                                                "author": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R.",
+                                                "title": "Direct Submission",
+                                                "value": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R. A"
+                                              },
+                                              "country": {
+                                                "value": "USA"
+                                              },
+                                              "div": 0.0032766898050051374,
+                                              "host": {
+                                                "value": "Human"
+                                              },
+                                              "num_date": {
+                                                "confidence": [
+                                                  2016.002737850787,
+                                                  2017.0020533880904
+                                                ],
+                                                "value": 2016.1769388086489
+                                              },
+                                              "region": {
+                                                "value": "north_america"
+                                              },
+                                              "url": "https://www.ncbi.nlm.nih.gov/nuccore/KY369909",
+                                              "virus": {
+                                                "value": "Human coronavirus 229E"
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {
+                                              "mutations": {}
+                                            },
+                                            "name": "SC379__KY621348",
+                                            "node_attrs": {
+                                              "accession": "KY621348",
+                                              "author": {
+                                                "author": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R.",
+                                                "title": "Genome sequences of viral positives at UW Virology",
+                                                "value": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R. B"
+                                              },
+                                              "country": {
+                                                "value": "USA"
+                                              },
+                                              "div": 0.0032766898050051374,
+                                              "host": {
+                                                "value": "Human"
+                                              },
+                                              "num_date": {
+                                                "confidence": [
+                                                  2016.002737850787,
+                                                  2017.0020533880904
+                                                ],
+                                                "value": 2016.1769388086489
+                                              },
+                                              "region": {
+                                                "value": "north_america"
+                                              },
+                                              "url": "https://www.ncbi.nlm.nih.gov/nuccore/KY621348",
+                                              "virus": {
+                                                "value": "Human coronavirus 229E"
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {
+                                              "mutations": {}
+                                            },
+                                            "name": "SC399__KY674914",
+                                            "node_attrs": {
+                                              "accession": "KY674914",
+                                              "author": {
+                                                "author": "Greninger,A.L., Makhsous,N., Kuypers,J., Shean,R.C. and Jerome,K.R.",
+                                                "title": "Genome sequences of viral positives at UW Virology",
+                                                "value": "Greninger,A.L., Makhsous,N., Kuypers,J., Shean,R.C. and Jerome,K.R."
+                                              },
+                                              "country": {
+                                                "value": "USA"
+                                              },
+                                              "div": 0.0032766898050051374,
+                                              "host": {
+                                                "value": "Human"
+                                              },
+                                              "num_date": {
+                                                "confidence": [
+                                                  2016.002737850787,
+                                                  2017.0020533880904
+                                                ],
+                                                "value": 2016.1769388086489
+                                              },
+                                              "region": {
+                                                "value": "north_america"
+                                              },
+                                              "url": "https://www.ncbi.nlm.nih.gov/nuccore/KY674914",
+                                              "virus": {
+                                                "value": "Human coronavirus 229E"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000017",
+                                        "node_attrs": {
+                                          "div": 0.003276689805005137,
+                                          "num_date": {
+                                            "confidence": [
+                                              2015.955674115837,
+                                              2016.3201021915115
+                                            ],
+                                            "value": 2016.1211536927517
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {
+                                          "mutations": {
+                                            "nuc": [
+                                              "T24887C"
+                                            ]
+                                          }
+                                        },
+                                        "children": [
+                                          {
+                                            "branch_attrs": {
+                                              "mutations": {
+                                                "nuc": [
+                                                  "C22636T",
+                                                  "G25510A"
+                                                ]
+                                              }
+                                            },
+                                            "name": "SC3112__KY983587",
+                                            "node_attrs": {
+                                              "accession": "KY983587",
+                                              "author": {
+                                                "author": "Greninger,A.L., Makhsous,N., Kuypers,J., Shean,R.C. and Jerome,K.R.",
+                                                "title": "Genome sequences of viral positives at UW Virology",
+                                                "value": "Greninger,A.L., Makhsous,N., Kuypers,J., Shean,R.C. and Jerome,K.R."
+                                              },
+                                              "country": {
+                                                "value": "USA"
+                                              },
+                                              "div": 0.003011215837972736,
+                                              "host": {
+                                                "value": "Human"
+                                              },
+                                              "num_date": {
+                                                "confidence": [
+                                                  2015.7865627806045,
+                                                  2015.9993155373031
+                                                ],
+                                                "value": 2015.9168925930412
+                                              },
+                                              "region": {
+                                                "value": "north_america"
+                                              },
+                                              "url": "https://www.ncbi.nlm.nih.gov/nuccore/KY983587",
+                                              "virus": {
+                                                "value": "Human coronavirus 229E"
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {
+                                              "labels": {
+                                                "aa": "S: S88L"
+                                              },
+                                              "mutations": {
+                                                "S": [
+                                                  "S88L"
+                                                ],
+                                                "nuc": [
+                                                  "C20832T",
+                                                  "C26120T",
+                                                  "A26714G",
+                                                  "C26852T"
+                                                ]
+                                              }
+                                            },
+                                            "name": "SC2872__KY967357",
+                                            "node_attrs": {
+                                              "accession": "KY967357",
+                                              "author": {
+                                                "author": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R.",
+                                                "title": "Genome sequences of viral positives at UW Virology",
+                                                "value": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R. B"
+                                              },
+                                              "country": {
+                                                "value": "USA"
+                                              },
+                                              "div": 0.00308702379290159,
+                                              "host": {
+                                                "value": "Human"
+                                              },
+                                              "num_date": {
+                                                "confidence": [
+                                                  2015.8545523848063,
+                                                  2015.9993155373031
+                                                ],
+                                                "value": 2015.9993155373031
+                                              },
+                                              "region": {
+                                                "value": "north_america"
+                                              },
+                                              "url": "https://www.ncbi.nlm.nih.gov/nuccore/KY967357",
+                                              "virus": {
+                                                "value": "Human coronavirus 229E"
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {
+                                              "labels": {
+                                                "aa": "N: S10P; S: K714M"
+                                              },
+                                              "mutations": {
+                                                "N": [
+                                                  "S10P"
+                                                ],
+                                                "S": [
+                                                  "K714M"
+                                                ],
+                                                "nuc": [
+                                                  "C22063T",
+                                                  "A22710T",
+                                                  "T25713C"
+                                                ]
+                                              }
+                                            },
+                                            "name": "SC579__KY369908",
+                                            "node_attrs": {
+                                              "accession": "KY369908",
+                                              "author": {
+                                                "author": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R.",
+                                                "title": "Direct Submission",
+                                                "value": "Greninger,A.L., Makhsous,N., Kuypers,J.M., Shean,R.C. and Jerome,K.R. A"
+                                              },
+                                              "country": {
+                                                "value": "USA"
+                                              },
+                                              "div": 0.0030491407291317577,
+                                              "host": {
+                                                "value": "Human"
+                                              },
+                                              "num_date": {
+                                                "confidence": [
+                                                  2016.002737850787,
+                                                  2016.3391111913722
+                                                ],
+                                                "value": 2016.002737850787
+                                              },
+                                              "region": {
+                                                "value": "north_america"
+                                              },
+                                              "url": "https://www.ncbi.nlm.nih.gov/nuccore/KY369908",
+                                              "virus": {
+                                                "value": "Human coronavirus 229E"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000019",
+                                        "node_attrs": {
+                                          "div": 0.0029353980927044735,
+                                          "num_date": {
+                                            "confidence": [
+                                              2015.654538177253,
+                                              2015.8382094829612
+                                            ],
+                                            "value": 2015.7422966400193
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000015",
+                                    "node_attrs": {
+                                      "div": 0.002897491998822117,
+                                      "num_date": {
+                                        "confidence": [
+                                          2015.5154271883196,
+                                          2015.779849360495
+                                        ],
+                                        "value": 2015.6721068371262
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000013",
+                                "node_attrs": {
+                                  "div": 0.002594076660982322,
+                                  "num_date": {
+                                    "confidence": [
+                                      2014.6571090722493,
+                                      2015.2491267381506
+                                    ],
+                                    "value": 2015.04165701023
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000006",
+                            "node_attrs": {
+                              "div": 0.0021769690520273195,
+                              "num_date": {
+                                "confidence": [
+                                  2013.5090391750418,
+                                  2014.3751189282534
+                                ],
+                                "value": 2014.105435205976
+                              }
+                            }
+                          }
+                        ],
+                        "name": "NODE_0000001",
+                        "node_attrs": {
+                          "div": 0.0016841887693664907,
+                          "num_date": {
+                            "confidence": [
+                              2010.268403500282,
+                              2010.7471978589333
+                            ],
+                            "value": 2010.6385761473625
+                          }
+                        }
+                      }
+                    ],
+                    "name": "NODE_0000002",
+                    "node_attrs": {
+                      "div": 0.001267488755184413,
+                      "num_date": {
+                        "confidence": [
+                          2009.175057929716,
+                          2010.1490244353192
+                        ],
+                        "value": 2009.675164752367
+                      }
+                    }
+                  }
+                ],
+                "name": "NODE_0000003",
+                "node_attrs": {
+                  "div": 0.0011160446663384279,
+                  "num_date": {
+                    "confidence": [
+                      2007.2096175694517,
+                      2008.4937674065309
+                    ],
+                    "value": 2007.7426747121922
+                  }
+                }
+              }
+            ],
+            "name": "NODE_0000004",
+            "node_attrs": {
+              "div": 0.0003195737252766924,
+              "num_date": {
+                "confidence": [
+                  1993.0287375831726,
+                  1993.1734666052232
+                ],
+                "value": 1993.1281397653422
+              }
+            }
+          }
+        ],
+        "name": "NODE_0000005",
+        "node_attrs": {
+          "div": 0.00013014963139735164,
+          "num_date": {
+            "confidence": [
+              1992.6922466370593,
+              1992.9410426331103
+            ],
+            "value": 1992.8173468948228
+          }
+        }
+      }
+    ],
+    "name": "NODE_0000016",
+    "node_attrs": {
+      "div": 0,
+      "num_date": {
+        "confidence": [
+          1992.3683644448854,
+          1992.8333226401144
+        ],
+        "value": 1992.635065730241
+      }
+    }
+  },
+  "version": "v2"
+}

@@ -49,6 +49,9 @@ You can run this for all the viruses using just `snakemake`, or for individual o
 Different viruses have different rules for what is filtered and what paramters are used.
 These are usually displayed while running, but see the Snakefile and/or below for more detail.
 
+For the 229E and Betacoronavirus1 builds, you can also run analyses that split the genome into the replicase gene and all remaining genes, and run a separate analysis for each, using the commands `snakemake build_229E_tangle` and `snakemake build_beta_tangle`.
+This allows you to create a tanglegram using the two sections of the genome.
+
 All output is stored in the `cov/auspice` folder, to make it easier to copy/view them all together.
 
 ### Adding extra data
