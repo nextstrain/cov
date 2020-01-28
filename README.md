@@ -90,9 +90,6 @@ Estimates mutation rate - currently coming out to ~2.8 x 10^-4 subs/site/yr.
 ### Other notable exclusions
 * Strains ATCC VR-759 (accessions AY391777 and AY585228) are the 'prototype strain' (ATCC) sequences. These were originally isolated in 1967 England, but were propogated on cell culture.
 * AY585229 is an early (2004) sequence of Betacoronavirus 1 isolated in 2001, but was sequenced same time as one of the prototypes above. It has little divergence from the prototype strains, despite the fact that it should be ~40 years diverged!
-### Other notes
-This tree seems to be slightly unstable. 
-If the clock is off, try forcing a new tree build via `snakemake Betacoronavirus1/results/tree_raw.nwk -f` and re-running. 
 
 ## NL63
 ### Filtering
