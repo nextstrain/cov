@@ -11,10 +11,10 @@ I recommend running the `database` rule(s) first to ensure this works ok, then p
 
 ## Live builds
 Live builds can be viewed here:
-[Betacoronavirus1 (OC43)](https://nextstrain.org/community/nextstrain/CoV/Betacoronavirus1)
-[229E](https://nextstrain.org/community/nextstrain/CoV/229E)
-[SARS-CoV-1](https://nextstrain.org/community/nextstrain/CoV/SARS)
-[NL63](https://nextstrain.org/community/nextstrain/CoV/NL63)
+- [Betacoronavirus1 (OC43)](https://nextstrain.org/community/nextstrain/CoV/Betacoronavirus1)
+- [229E](https://nextstrain.org/community/nextstrain/CoV/229E)
+- [SARS-CoV-1](https://nextstrain.org/community/nextstrain/CoV/SARS)
+- [NL63](https://nextstrain.org/community/nextstrain/CoV/NL63)
 
 # How to Run
 
