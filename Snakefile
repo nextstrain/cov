@@ -10,13 +10,16 @@ rule all:
         ["auspice/CoV_229E.json", #"auspice/cov.json",
          "auspice/CoV_NL63.json",
          "auspice/CoV_Betacoronavirus1.json",
-         "auspice/CoV_SARS.json"]
+         "auspice/CoV_SARS.json",
+         "auspice/CoV_HKU1.json"]
 
 rule make_database_all:
     input:
-        expand("genbank/CoV-{id}_genbank_meta.tsv", id=["229E", "NL63", "SARS", "Betacoronavirus1"])
+        expand("genbank/CoV-{id}_genbank_meta.tsv", id=["229E", "NL63", "SARS", "Betacoronavirus1","HKU1"])
 
 #calls for the augur runs
+rule build_HKU1:
+    input: "auspice/CoV_HKU1.json"
 rule build_229E:
     input: "auspice/CoV_229E.json"
 rule build_NL63:
@@ -35,6 +38,9 @@ rule build_229E_tangle:
         "auspice/CoV_229E-last7.json"
 
 #calls for individual database runs
+rule make_database_HKU1:
+    input:
+        "genbank/CoV-HKU1_genbank_meta.tsv"
 rule make_database_229E:
     input:
         "genbank/CoV-229E_genbank_meta.tsv"
@@ -50,7 +56,7 @@ rule make_database_beta:
 
 wildcard_constraints:
     gene="|-last7|-replicase",
-    id="229E|NL63|SARS|Betacoronavirus1"
+    id="229E|NL63|SARS|Betacoronavirus1|HKU1"
 
 rule files:
     input:
@@ -59,6 +65,7 @@ rule files:
         file_NL63 = "data/CoV-NL63-23Jan20.tsv",
         file_SARS = "data/CoV-SARS-23Jan20.tsv",
         file_beta = "data/CoV-Betacoronavirus1-23Jan20.tsv",
+        file_HKU1 = "data/CoV-HKU1-19Apr20.tsv",
 
         #currently manual samples are not used.
         #samples added manually - not from ViPR (ensure not duplicates of anything downloaded)
@@ -95,7 +102,8 @@ def is_rerun(wildcards):
 VIPR_FILES = {"229E": files.file_229E,
               "NL63": files.file_NL63,
               "SARS": files.file_SARS,
-              "Betacoronavirus1": files.file_beta}
+              "Betacoronavirus1": files.file_beta,
+              "HKU1": files.file_HKU1}
 
 ##############################
 # Parse metadata from ViPR
@@ -166,7 +174,7 @@ rule download_seqs:
         from Bio import Entrez, SeqIO
         from augur.parse import forbidden_characters
         from datetime import datetime
-        Entrez.email = config[email] #REPLACE WITH YOUR OWN EMAIL ADDRESS 
+        Entrez.email = config['email'] #REPLACE WITH YOUR OWN EMAIL ADDRESS 
 
         print(input.meta)
         meta = pd.read_csv(input.meta, sep='\t')
@@ -261,9 +269,9 @@ rule align_download:
 
         # remove debug guff
         rm "{output.out}.log"
-        rm "{output.out}.post_aligner.fasta"
-        rm "{output.out}.pre_aligner.fasta"
-        rm "{input.sequences}.ref.fasta"
+        #rm "{output.out}.post_aligner.fasta"
+        #rm "{output.out}.pre_aligner.fasta"
+        #rm "{input.sequences}.ref.fasta"
         """
 
 
