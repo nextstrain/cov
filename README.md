@@ -2,7 +2,7 @@
 
 ## About this repository
 
-This respository currently includes the data (as of 23 Jan 20) and code to run Nextstrain `augur` builds for Coronaviruses 229E, NL63, SARS, and Betacoronavirus1. These builds focus on the human transmission of these viruses, so do not necessarily include all available samples, focusing instead on the part of the tree which includes the majority of human infections.
+This respository currently includes the data (as of 20 Apr 20) and code to run Nextstrain `augur` builds for Coronaviruses 229E, NL63, SARS, HKU1, and Betacoronavirus1. These builds focus on the human transmission of these viruses, so do not necessarily include all available samples, focusing instead on the part of the tree which includes the majority of human infections.
 
 This respository uses a basic form of 'Databasing' to make adding new sequences from ViPR easier.
 This means you can always download the full latest metadata file from ViPR, yet only sequences that have not already been seen will be downloaded and aligned again, and then simply added to the sequences that already exist.
@@ -15,6 +15,7 @@ Live builds can be viewed here:
 - [229E](https://nextstrain.org/community/nextstrain/CoV/229E)
 - [SARS-CoV-1](https://nextstrain.org/community/nextstrain/CoV/SARS)
 - [NL63](https://nextstrain.org/community/nextstrain/CoV/NL63)
+- [HKU1](https://nextstrain.org/community/nextstrain/CoV/HKU1)
 
 # How to Run
 
@@ -37,6 +38,7 @@ Navigate first to 'Coronaviridae' and 'Coronavirinae', then "Select all" in the 
 * In 'Betacoronavirus':
     * For **Betacoronavirus 1** select 'Betacoronavirus 1' (about 250)
     * For **SARS** select 'Severe acute respiratory syndrome-related coronavirus' (about 330) and 'SARS-related coronavirus' (about 9)
+    * For **HKU1** select 'Human coronavirus HKU1' (about 50)
 * In 'Alphacoronavirus':
     * For **NL63** select 'Human coronavirus NL63' (about 70)
     * For **229E** select 'Human coronavirus 229E' (about 40)
@@ -76,6 +78,12 @@ For each build, see a list of the manually excluded/included sequences in the re
 Filters only to Human samples
 ### Mutation rate
 Estimates mutation rate - currently coming out to ~2.6 x 10^-4 subs/site/yr.
+
+## HKU1
+### Filtering
+Not filtered by any host.
+### Mutation rate
+Estimates mutation rate - currently coming out to ~4.6 x 10^-4 subs/site/yr.
 
 ## SARS
 ### Filtering
